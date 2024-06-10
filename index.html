@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wordle Archive</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 0;
+      margin: 0;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      text-align: center;
+      padding: 20px;
+    }
+    table {
+      width: 80%;
+      border-collapse: collapse;
+      margin: 0 auto;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h1>Wordle Archive</h1>
+  <table id="wordleTable">
+    <tr>
+      <th>No.</th>
+      <th>Date</th>
+      <th>Solution</th>
+    </tr>
+  </table>
+  <script>
+    fetch('./wordle_solutions.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then(data => {
+        const table = document.getElementById('wordleTable');
+        let i = 1;
+        for (const date in data) {
+          const row = table.insertRow(-1);
+          const cell1 = row.insertCell(0);
+          const cell2 = row.insertCell(1);
+          const cell3 = row.insertCell(2);
+          cell1.innerHTML = i++;
+          cell2.innerHTML = date;
+          cell3.innerHTML = data[date];
+        }
+      })
+      .catch(e => {
+        console.log('There was a problem with the fetch operation: ' + e.message);
+      });
+  </script>
+</body>
+</html>
