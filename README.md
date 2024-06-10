@@ -9,6 +9,8 @@
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Actions%20-8A2BE2?style=for-the-badge&logo=github&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&color=yellow&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge&color=orange">
 
   
   <br/>
