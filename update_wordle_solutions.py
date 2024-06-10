@@ -20,9 +20,9 @@ def fetch_wordle_solution(date):
         wordle_solutions[date] = solution
         print(f'Fetched Wordle solution for {date}')
 
-# Fetch Wordle solutions from 2021-06-19 to current day
+# Fetch Wordle solutions from 2021-06-19 to current day plus 25 days
 start_date = date(2021, 6, 19)
-end_date = date.today()
+end_date = date.today() + timedelta(days=25)
 delta = timedelta(days=1)
 while start_date <= end_date:
     fetch_wordle_solution(start_date.strftime('%Y-%m-%d'))
