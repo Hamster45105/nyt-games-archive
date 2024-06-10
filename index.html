@@ -2,45 +2,69 @@
 <html>
 <head>
   <title>Wordle Archive</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <style>
     body {
-      font-family: Arial, sans-serif;
       padding: 0;
       margin: 0;
       background-color: #f4f4f4;
     }
-    h1 {
-      text-align: center;
-      padding: 20px;
-    }
-    table {
+    .table {
       width: 80%;
-      border-collapse: collapse;
       margin: 0 auto;
     }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      text-align: center;
+    .card {
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
     }
-    th {
-      background-color: #4CAF50;
+    .thead-dark th {
+      font-weight: bold;
       color: white;
+      background-color: #343a40;
     }
-    tr:nth-child(even) {
-      background-color: #f2f2f2;
+
+    .btn-container {
+      position: fixed;
+      right: 20px;
+      bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .btn {
+      width: 50px;
+      height: 50px;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
   </style>
 </head>
 <body>
-  <h1>Wordle Archive</h1>
-  <table id="wordleTable">
-    <tr>
-      <th>No.</th>
-      <th>Date</th>
-      <th>Solution</th>
-    </tr>
-  </table>
+  <div class="container">
+    <div class="card">
+      <h1 class="text-center mt-4">Wordle Archive</h1>
+      <div class="btn-container">
+        <button onclick="topFunction()" class="btn btn-primary rounded-circle" id="upBtn" title="Go to top">↑</button>
+        <button onclick="bottomFunction()" class="btn btn-primary rounded-circle" id="downBtn" title="Go to bottom">↓</button>
+      </div>
+      <table class="table table-striped mt-4" id="wordleTable">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">No.</th>
+            <th scope="col">Date</th>
+            <th scope="col">Solution</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+  </div>
   <script>
     fetch('./wordle_solutions.json')
       .then(response => {
@@ -50,7 +74,7 @@
         return response.json();
       })
       .then(data => {
-        const table = document.getElementById('wordleTable');
+        const table = document.getElementById('wordleTable').getElementsByTagName('tbody')[0];
         let i = 1;
         for (const date in data) {
           const row = table.insertRow(-1);
@@ -66,5 +90,16 @@
         console.log('There was a problem with the fetch operation: ' + e.message);
       });
   </script>
+  <script>
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    } 
+
+    function bottomFunction() {
+      window.scrollTo(0,document.body.scrollHeight);
+    } 
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
 </body>
 </html>
