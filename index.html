@@ -108,7 +108,7 @@
       })
       .then(data => {
         const table = document.getElementById('wordleTable').getElementsByTagName('tbody')[0];
-        let i = 1;
+        let i = 0;
         for (const date in data) {
           const row = table.insertRow(-1);
           const cell1 = row.insertCell(0);
