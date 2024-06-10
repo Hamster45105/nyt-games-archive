@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
-  <title>Wordle Archive</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <meta name="description"
+    content="Wordle Archive - A list of ALL past and 25 future New York Times Wordles!">
+  <title>Wordle Archive - Past and future NYT Wordles!</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -11,16 +15,19 @@
       margin: 0;
       background-color: #f4f4f4;
     }
+
     .table {
       width: 80%;
       margin: 0 auto;
     }
+
     .card {
       margin: 20px auto;
       padding: 20px;
       border-radius: 10px;
-      box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     }
+
     .thead-dark th {
       font-weight: bold;
       color: white;
@@ -67,6 +74,7 @@
     }
   </style>
 </head>
+
 <body>
   <div class="container">
     <div class="card">
@@ -74,7 +82,8 @@
       <h2 class="text-center mt-4">A list of all Wordles EVER plus an extra 25!</h2>
       <div class="btn-container">
         <button onclick="topFunction()" class="btn btn-primary rounded-circle" id="upBtn" title="Go to top">↑</button>
-        <button onclick="bottomFunction()" class="btn btn-primary rounded-circle" id="downBtn" title="Go to bottom">↓</button>
+        <button onclick="bottomFunction()" class="btn btn-primary rounded-circle" id="downBtn"
+          title="Go to bottom">↓</button>
       </div>
       <table class="table table-striped mt-4" id="wordleTable">
         <thead class="thead-dark">
@@ -129,16 +138,22 @@
     function topFunction() {
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
-    } 
+    }
 
     function bottomFunction() {
-      window.scrollTo(0,document.body.scrollHeight);
+      window.scrollTo(0, document.body.scrollHeight);
     } 
   </script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
   <footer>
-    <a href="https://github.com/Hamster45105/wordle-archive" target="_blank" rel="noopener" style="display: block; margin-bottom: 10px;"><img src="https://img.shields.io/github/stars/Hamster45105/wordle-archive?style=social" alt="GitHub"></a>
-    <p style="font-size: 20px;">Made with 💖 by <a href="https://github.com/Hamster45105" target='_blank' rel="noopener">Hamster45105</a></p>
+    <a href="https://github.com/Hamster45105/wordle-archive" target="_blank" rel="noopener"
+      style="display: block; margin-bottom: 10px;"><img
+        src="https://img.shields.io/github/stars/Hamster45105/wordle-archive?style=social" alt="GitHub"></a>
+    <p style="font-size: 20px;">Made with 💖 by <a href="https://github.com/Hamster45105" target='_blank'
+        rel="noopener">Hamster45105</a></p>
   </footer>
 </body>
+
 </html>
