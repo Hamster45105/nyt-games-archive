@@ -83,7 +83,18 @@
           const cell3 = row.insertCell(2);
           cell1.innerHTML = i++;
           cell2.innerHTML = date;
-          cell3.innerHTML = data[date];
+
+          // Check if the date is today's date or a future date
+          const solutionDate = new Date(date);
+          const today = new Date();
+          today.setHours(0, 0, 0, 0);
+          if (solutionDate >= today) {
+            // If the date is today's date or a future date, hide the solution and add a button to reveal the solution
+            cell3.innerHTML = `<button class="btn btn-primary" style="white-space: nowrap padding: 0.375rem 0.75rem; width: 200px;" onclick="this.parentNode.innerHTML='${data[date]}'">Show Solution</button>`;
+          } else {
+            // If the date is a past date, show the solution
+            cell3.innerHTML = data[date];
+          }
         }
       })
       .catch(e => {
