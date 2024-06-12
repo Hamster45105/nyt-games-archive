@@ -1,4 +1,4 @@
-# Wordle Archive
+# NYT Games Archive
 
 <div align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Hamster45105/wordle-archive?style=social">
@@ -26,11 +26,12 @@ This repository contains a simple website that displays an archive of Wordle + C
 
 **Warning!** May contain spoilers!
 
-The list is available at the [Wordle Archive site](https://hamster45105.github.io/wordle-archive/)
+The list is available at the [NYT Games Archive site](https://hamster45105.github.io/wordle-archive/)
 
 The raw list of solutions in these raw JSON files:
 
 [Wordle](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/wordle_solutions.json)
+
 [Connections](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/connections_solutions.json)
 
 
