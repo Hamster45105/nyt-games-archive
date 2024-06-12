@@ -17,18 +17,22 @@
 
   <img src="https://img.shields.io/github/license/Hamster45105/wordle-archive?style=for-the-badge&color=blue" alt="License LGPL-3.0" />
   <img src="https://img.shields.io/github/languages/code-size/Hamster45105/wordle-archive?style=for-the-badge" alt="GitHub code size in bytes" />
-  <img src="https://img.shields.io/github/actions/workflow/status/Hamster45105/wordle-archive/update.yml?style=for-the-badge&label=Word update status" alt="Word update status" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Hamster45105/wordle-archive/update.yml?style=for-the-badge&label=Solution update status" alt="Word update status" />
 </div>
 
 <br/>
 
-This repository contains a simple website that displays an archive of Wordle solutions. The solutions are fetched from the New York Times and stored in a JSON file daily.
+This repository contains a simple website that displays an archive of Wordle + Connections solutions. The solutions are fetched from the New York Times and stored in a JSON file daily.
 
 **Warning!** May contain spoilers!
 
 The list is available at the [Wordle Archive site](https://hamster45105.github.io/wordle-archive/)
 
-The raw list of solutions is available in this [JSON File](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/wordle_solutions.json)
+The raw list of solutions in these raw JSON files:
+
+[Wordle](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/wordle_solutions.json)
+[Connections](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/connections_solutions.json)
+
 
 ## License
 
