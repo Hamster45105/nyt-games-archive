@@ -8,8 +8,8 @@ import requests
 connections_solutions = {}
 
 # Load existing solutions if connections_solutions.json exists
-if os.path.exists('./connections_solutions.json'):
-    with open('./connections_solutions.json', 'r', encoding='utf-8') as f:
+if os.path.exists('./solutions/connections_solutions.json'):
+    with open('./solutions/connections_solutions.json', 'r', encoding='utf-8') as f:
         connections_solutions = json.load(f)
 
 # Function to fetch connections solution
@@ -36,5 +36,5 @@ while start_date <= end_date:
     start_date += delta
 
 # Save connections solutions to a local JSON file
-with open('./connections_solutions.json', 'w') as f:
+with open('./solutions/connections_solutions.json', 'w') as f:
     json.dump(connections_solutions, f)

@@ -8,8 +8,8 @@ import requests
 wordle_solutions = {}
 
 # Load existing solutions if wordle_solutions.json exists
-if os.path.exists('./wordle_solutions.json'):
-    with open('./wordle_solutions.json', 'r', encoding='utf-8') as f:
+if os.path.exists('./solutions/wordle_solutions.json'):
+    with open('./solutions/wordle_solutions.json', 'r', encoding='utf-8') as f:
         wordle_solutions = json.load(f)
 
 # Function to fetch Wordle solution
@@ -29,5 +29,5 @@ while start_date <= end_date:
     start_date += delta
 
 # Save Wordle solutions to a local JSON file
-with open('./wordle_solutions.json', 'w') as f:
+with open('./solutions/wordle_solutions.json', 'w') as f:
     json.dump(wordle_solutions, f)
