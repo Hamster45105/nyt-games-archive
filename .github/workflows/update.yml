@@ -30,7 +30,7 @@ jobs:
       run: python update_wordle_solutions.py
 
     - name: Update Connections Solutions
-      run: python update_connections.py
+      run: python update_connections_solutions.py
 
     - name: Commit and push if it changed
       run: |
