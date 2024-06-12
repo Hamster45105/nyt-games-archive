@@ -30,8 +30,8 @@ The list is available at the [Wordle Archive site](https://hamster45105.github.i
 
 The raw list of solutions in these raw JSON files:
 
-[Wordle](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/wordle_solutions.json)
-[Connections](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/connections_solutions.json)
+[Wordle](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/wordle_solutions.json)
+[Connections](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/connections_solutions.json)
 
 
 ## License
