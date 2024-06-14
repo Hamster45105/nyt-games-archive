@@ -27,9 +27,9 @@ def fetch_connections_solution(date):
         connections_solutions[date] = solution
         print(f'Fetched connections solution for {date}')
 
-# Fetch connections solutions from 2021-06-19 to current day plus 20 days
+# Fetch connections solutions from 2021-06-19 to current day plus 15 days
 start_date = date(2023, 6, 12)
-end_date = date.today() + timedelta(days=20)
+end_date = date.today() + timedelta(days=15)
 delta = timedelta(days=1)
 while start_date <= end_date:
     fetch_connections_solution(start_date.strftime('%Y-%m-%d'))

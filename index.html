@@ -130,7 +130,7 @@
     script.addEventListener('load', function() {
       if (page === 'connections') {
         title.textContent = 'Connections Archive';
-        subtitle.textContent = 'A list of all NYT Connections EVER + the next 20!';
+        subtitle.textContent = 'A list of all NYT Connections EVER + the next 15!';
         // For Connections
         fetchSolutions('./solutions/connections_solutions.json', 'solutionsTable', (data, date) => {
           let solutionHTML = '<ul>';
