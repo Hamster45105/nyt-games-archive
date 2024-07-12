@@ -22,11 +22,9 @@
 
 <br/>
 
-A simple website that has an archive of Wordle + Connections solutions. 
+This is a simple website that has an archive of official New York Times Wordle and Connections solutions. 
 
-The solutions are fetched from the New York Times and stored in a JSON file daily.
-
-This includes future solutions as well.
+New solutions are fetched from the New York Times and added to the list daily at 00:00 UTC.
 
 **Warning!** May contain spoilers!
 
