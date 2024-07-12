@@ -22,21 +22,22 @@
 
 <br/>
 
-This repository contains a simple website that displays an archive of Wordle + Connections solutions. The solutions are fetched from the New York Times and stored in a JSON file daily.
+A simple website that has an archive of Wordle + Connections solutions. 
 
-It displays all solutions that NYT has made publicly available (including future ones).
+The solutions are fetched from the New York Times and stored in a JSON file daily.
+
+This includes future solutions as well.
 
 **Warning!** May contain spoilers!
 
 The list is available at the [NYT Games Archive site](https://hamster45105.github.io/wordle-archive/)
 
-The raw list of solutions in these raw JSON files:
+The raw list of solutions is available in these JSON files:
 
 [Wordle](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/wordle_solutions.json)
 
 [Connections](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/connections_solutions.json)
 
-
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+The code in this repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
