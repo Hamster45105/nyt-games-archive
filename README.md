@@ -24,6 +24,8 @@
 
 This repository contains a simple website that displays an archive of Wordle + Connections solutions. The solutions are fetched from the New York Times and stored in a JSON file daily.
 
+It displays all solutions that NYT has made publicly available (including future ones).
+
 **Warning!** May contain spoilers!
 
 The list is available at the [NYT Games Archive site](https://hamster45105.github.io/wordle-archive/)

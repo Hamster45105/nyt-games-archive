@@ -13,9 +13,9 @@ if os.path.exists('./solutions/connections_solutions.json'):
         connections_solutions = json.load(f)
 
 # Function to fetch connections solution
-def fetch_connections_solution(date):
-    if date not in connections_solutions:
-        response = requests.get(f'https://www.nytimes.com/svc/connections/v2/{date}.json')
+def fetch_connections_solution(input_date):
+    if input_date not in connections_solutions:
+        response = requests.get(f'https://www.nytimes.com/svc/connections/v2/{input_date}.json')
         data = response.json()
         solution = {}
         categories = data['categories']
@@ -24,16 +24,20 @@ def fetch_connections_solution(date):
             cards = category['cards']
             words = [card['content'] for card in cards]
             solution[title] = words
-        connections_solutions[date] = solution
-        print(f'Fetched connections solution for {date}')
+        connections_solutions[input_date] = solution
+        print(f'Fetched connections solution for {input_date}')
 
-# Fetch connections solutions from 2021-06-19 to current day plus 15 days
+# Fetch connections solutions from 2021-06-19 until there are no more
 start_date = date(2023, 6, 12)
-end_date = date.today() + timedelta(days=15)
 delta = timedelta(days=1)
-while start_date <= end_date:
-    fetch_connections_solution(start_date.strftime('%Y-%m-%d'))
-    start_date += delta
+
+while True:
+    try:
+        fetch_connections_solution(start_date.strftime('%Y-%m-%d'))
+        start_date += delta
+    except KeyError:
+        print(f'No more connections solutions')
+        break
 
 # Save connections solutions to a local JSON file
 with open('./solutions/connections_solutions.json', 'w') as f:

@@ -13,20 +13,24 @@ if os.path.exists('./solutions/wordle_solutions.json'):
         wordle_solutions = json.load(f)
 
 # Function to fetch Wordle solution
-def fetch_wordle_solution(date):
-    if date not in wordle_solutions:
-        response = requests.get(f'https://www.nytimes.com/svc/wordle/v2/{date}.json')
+def fetch_wordle_solution(input_date):
+    if input_date not in wordle_solutions:
+        response = requests.get(f'https://www.nytimes.com/svc/wordle/v2/{input_date}.json')
         solution = response.json()['solution']
-        wordle_solutions[date] = solution
-        print(f'Fetched Wordle solution for {date}')
+        wordle_solutions[input_date] = solution
+        print(f'Fetched Wordle solution for {input_date}')
 
-# Fetch Wordle solutions from 2021-06-19 to current day plus 25 days
+# Fetch Wordle solutions from 2021-06-19 until there are no more
 start_date = date(2021, 6, 19)
-end_date = date.today() + timedelta(days=25)
 delta = timedelta(days=1)
-while start_date <= end_date:
-    fetch_wordle_solution(start_date.strftime('%Y-%m-%d'))
-    start_date += delta
+
+while True:
+    try:
+        fetch_wordle_solution(start_date.strftime('%Y-%m-%d'))
+        start_date += delta
+    except KeyError:
+        print(f'No more Wordle solutions')
+        break
 
 # Save Wordle solutions to a local JSON file
 with open('./solutions/wordle_solutions.json', 'w') as f:
