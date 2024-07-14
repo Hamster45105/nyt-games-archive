@@ -38,5 +38,10 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git add ./solutions/wordle_solutions.json
         git add ./solutions/connections_solutions.json
-        git commit -m "Update solutions"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update solutions"
+          git push
+        fi
+ 
