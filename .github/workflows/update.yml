@@ -26,11 +26,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Update Wordle Solutions
-      run: python update_wordle_solutions.py
-
-    - name: Update Connections Solutions
-      run: python update_connections_solutions.py
+    - name: Update Solutions
+      run: python update_solutions.py
 
     - name: Commit and push if it changed
       run: |
