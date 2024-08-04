@@ -32,9 +32,9 @@ The list is available at the [NYT Games Archive site](https://hamster45105.githu
 
 The raw list of solutions is available in these JSON files:
 
-[Wordle](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/wordle_solutions.json)
+[Wordle](https://cdn.jsdelivr.net/gh/Hamster45105/wordle-archive@main/solutions/wordle_solutions.json)
 
-[Connections](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/connections_solutions.json)
+[Connections](https://cdn.jsdelivr.net/gh/Hamster45105/wordle-archive@main/solutions/connections_solutions.json)
 
 ## License
 
