@@ -11412,5 +11412,161 @@
             "FINISH",
             "TIE"
         ]
+    },
+    "2024-08-24": {
+        "HEARSAY": [
+            "RUMBLING",
+            "SPECULATION",
+            "TALK",
+            "WHISPERS"
+        ],
+        "MOVE STEALTHILY": [
+            "CREEP",
+            "SLIP",
+            "STEAL",
+            "TIPTOE"
+        ],
+        "CAR RENTAL COMPANIES": [
+            "BUDGET",
+            "ENTERPRISE",
+            "NATIONAL",
+            "THRIFTY"
+        ],
+        "ENDING WITH CHEMICAL ELEMENTS": [
+            "ENVIRON",
+            "JARGON",
+            "LATIN",
+            "PLEAD"
+        ]
+    },
+    "2024-08-25": {
+        "HOPPING MAD": [
+            "BOILING",
+            "FUMING",
+            "LIVID",
+            "STEAMING"
+        ],
+        "STATUS": [
+            "POSITION",
+            "RANKING",
+            "STANDING",
+            "STATION"
+        ],
+        "WORDS THAT MAKE UP THE ACRONYM \u201cHVAC\u201d": [
+            "AIR",
+            "CONDITIONING",
+            "HEATING",
+            "VENTILATION"
+        ],
+        "ACTIVITIES THAT INVOLVE FOLDING": [
+            "BAKING",
+            "LAUNDRY",
+            "ORIGAMI",
+            "POKER"
+        ]
+    },
+    "2024-08-26": {
+        "OFFICIAL SANCTIONING": [
+            "APPROVAL",
+            "BLESSING",
+            "CONSENT",
+            "SUPPORT"
+        ],
+        "TORUS-SHAPED THINGS": [
+            "BAGEL",
+            "LIFESAVER",
+            "TIRE",
+            "WREATH"
+        ],
+        "BAD GOLF SHOTS": [
+            "HOOK",
+            "SHANK",
+            "SLICE",
+            "WHIFF"
+        ],
+        "FOOTWEAR MINUS \u201cER\u201d SOUND": [
+            "LOAF",
+            "SLIP",
+            "SNEAK",
+            "WADE"
+        ]
+    },
+    "2024-08-27": {
+        "EXPLOSIVE SOUND": [
+            "BOOM",
+            "CRASH",
+            "ROAR",
+            "THUNDER"
+        ],
+        "CHILI PEPPER QUALITY": [
+            "FIRE",
+            "HEAT",
+            "KICK",
+            "SPICE"
+        ],
+        "CLASSIC BARBERSHOP SUPPLIES": [
+            "BRUSH",
+            "CAPE",
+            "CLIPPERS",
+            "GEL"
+        ],
+        "KINDS OF CARDS": [
+            "BASEBALL",
+            "MAGIC",
+            "SET",
+            "TAROT"
+        ]
+    },
+    "2024-08-28": {
+        "PLAYGROUND EQUIPMENT": [
+            "MONKEY BARS",
+            "SLIDE",
+            "SWING",
+            "TEETER-TOTTER"
+        ],
+        "FOUND AT THE END OF A CORD": [
+            "BALLOON",
+            "FISH HOOK",
+            "TETHERBALL",
+            "YO-YO"
+        ],
+        "DESCRIBED AS DRY": [
+            "DESERT",
+            "HUMOR",
+            "MARTINI",
+            "TEETOTALER"
+        ],
+        "BABY ___": [
+            "BLUES",
+            "BOOMER",
+            "STEPS",
+            "TEETH"
+        ]
+    },
+    "2024-08-29": {
+        "DEEM": [
+            "CONSIDER",
+            "COUNT",
+            "JUDGE",
+            "REGARD"
+        ],
+        "U.S. COLLEGES/UNIVERSITIES": [
+            "BROWN",
+            "DUKE",
+            "HOWARD",
+            "SMITH"
+        ],
+        "KINDS OF PIANOS": [
+            "ELECTRONIC",
+            "GRAND",
+            "PLAYER",
+            "UPRIGHT"
+        ],
+        "SECOND NAMES IN COMPANIES WITH AMPERSANDS": [
+            "GAMBLE",
+            "JOHNSON",
+            "NOBLE",
+            "YOUNG"
+        ]
     }
 }
