@@ -11568,5 +11568,187 @@
             "NOBLE",
             "YOUNG"
         ]
+    },
+    "2024-08-30": {
+        "SPARKLY OPULENT THINGS": [
+            "CHAMPAGNE",
+            "DIAMOND",
+            "GLITTER",
+            "GOLD"
+        ],
+        "PARTICIPATE IN SUMMER OLYMPIC EVENTS": [
+            "BOX",
+            "DIVE",
+            "FENCE",
+            "ROW"
+        ],
+        "WONDERS OF THE WORLD": [
+            "GARDENS",
+            "LIGHTHOUSE",
+            "PYRAMID",
+            "TEMPLE"
+        ],
+        "ICE ___": [
+            "CREAM",
+            "CUBE",
+            "MACHINE",
+            "STORM"
+        ]
+    },
+    "2024-08-31": {
+        "NEWSPAPER SECTIONS": [
+            "ARTS",
+            "BUSINESS",
+            "COMICS",
+            "SPORTS"
+        ],
+        "TREE FEATURES": [
+            "BARK",
+            "CROWN",
+            "RINGS",
+            "ROOTS"
+        ],
+        "KINDS OF SALAD": [
+            "CHEF",
+            "GARDEN",
+            "GREEK",
+            "WEDGE"
+        ],
+        "SEEN ON BACKS OF U.S. COINS": [
+            "EAGLE",
+            "MONTICELLO",
+            "SHIELD",
+            "TORCH"
+        ]
+    },
+    "2024-09-01": {
+        "COOK ON A PAN": [
+            "BROWN",
+            "CHAR",
+            "GRILL",
+            "SEAR"
+        ],
+        "PARTS OF THE EAR": [
+            "ANVIL",
+            "CANAL",
+            "DRUM",
+            "HAMMER"
+        ],
+        "SHADES OF BLACK": [
+            "CHARCOAL",
+            "JET",
+            "LICORICE",
+            "RAVEN"
+        ],
+        "WHERE YOU MIGHT FIND \u201cA DRIVER\u201d": [
+            "GOLF BAG",
+            "LIMOUSINE",
+            "MOVIE SET",
+            "TOOLBOX"
+        ]
+    },
+    "2024-09-02": {
+        "PECULIAR": [
+            "CURIOUS",
+            "FUNNY",
+            "OFF",
+            "WEIRD"
+        ],
+        "ASSIGNMENT": [
+            "JOB",
+            "POSITION",
+            "POST",
+            "STATION"
+        ],
+        "CLASSIC COLLECTION ITEMS": [
+            "COIN",
+            "COMIC",
+            "RECORD",
+            "STAMP"
+        ],
+        "CHAIN ___": [
+            "LETTER",
+            "MAIL",
+            "REACTION",
+            "STORE"
+        ]
+    },
+    "2024-09-03": {
+        "ABSOLVE": [
+            "EXCUSE",
+            "PARDON",
+            "SAVE",
+            "SPARE"
+        ],
+        "EXCESSIVELY": [
+            "BEYOND",
+            "EXTRA",
+            "OVER",
+            "TOO"
+        ],
+        "GLOBAL CURRENCIES": [
+            "POUND",
+            "REAL",
+            "WON",
+            "YEN"
+        ],
+        "___HEAD": [
+            "ARROW",
+            "BLOCK",
+            "FORE",
+            "KNUCKLE"
+        ]
+    },
+    "2024-09-04": {
+        "PUPPY PURCHASES": [
+            "BED",
+            "BOWL",
+            "COLLAR",
+            "CRATE"
+        ],
+        "VERY SMALL AMOUNT": [
+            "HINT",
+            "TOUCH",
+            "TRACE",
+            "SHRED"
+        ],
+        "BE A PARTY PERSON": [
+            "CATER",
+            "HOST",
+            "THROW",
+            "PLAN"
+        ],
+        "SYMBOLS ON A KEYBOARD": [
+            "BRACE",
+            "CARET",
+            "HASH",
+            "STAR"
+        ]
+    },
+    "2024-09-05": {
+        "RESIDE": [
+            "DWELL",
+            "INHABIT",
+            "LIVE",
+            "STAY"
+        ],
+        "DECREASE": [
+            "DECLINE",
+            "DROP",
+            "DWINDLE",
+            "EBB"
+        ],
+        "DOOFUS": [
+            "CLOWN",
+            "DWEEB",
+            "SAP",
+            "TURKEY"
+        ],
+        "MEMBERS OF A SEPTET": [
+            "DWARF",
+            "SEA",
+            "SIN",
+            "WONDER"
+        ]
     }
 }
