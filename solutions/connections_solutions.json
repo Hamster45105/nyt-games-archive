@@ -11750,5 +11750,213 @@
             "SIN",
             "WONDER"
         ]
+    },
+    "2024-09-06": {
+        "QUANTITY": [
+            "AMOUNT",
+            "COUNT",
+            "NUMBER",
+            "TOTAL"
+        ],
+        "INCIDENT": [
+            "AFFAIR",
+            "EPISODE",
+            "EVENT",
+            "MATTER"
+        ],
+        "THINGS RECEIVED IN THE MAIL": [
+            "BILL",
+            "CARD",
+            "CATALOGUE",
+            "LETTER"
+        ],
+        "WHAT \u201cSPRING\u201d MIGHT REFER TO": [
+            "BOUNCE",
+            "COIL",
+            "FOUNTAIN",
+            "SEASON"
+        ]
+    },
+    "2024-09-07": {
+        "WAYS TO TRANSFORM AN IMAGE": [
+            "CROP",
+            "FLIP",
+            "ROTATE",
+            "SCALE"
+        ],
+        "USED TO START A HOLE IN GOLF": [
+            "BALL",
+            "DRIVER",
+            "GLOVE",
+            "TEE"
+        ],
+        "AQUARIUM PURCHASES": [
+            "FILTER",
+            "PUMP",
+            "ROCKS",
+            "TANK"
+        ],
+        "COMPANIES WHOSE LOGOS FEATURE HORSES": [
+            "COACH",
+            "GODIVA",
+            "MUSTANG",
+            "POLO"
+        ]
+    },
+    "2024-09-08": {
+        "VERBS IN A CAKE RECIPE": [
+            "BAKE",
+            "BEAT",
+            "FROST",
+            "PREHEAT"
+        ],
+        "WHAT A HEART DOES WHEN EXCITED": [
+            "POUND",
+            "PUMP",
+            "RACE",
+            "THROB"
+        ],
+        "ECCLESIASTICAL TITLES": [
+            "BISHOP",
+            "PASTOR",
+            "PRIOR",
+            "POPE"
+        ],
+        "___ BOYS": [
+            "BAD",
+            "BEACH",
+            "HARDY",
+            "PET SHOP"
+        ]
+    },
+    "2024-09-09": {
+        "GET RED IN THE FACE": [
+            "BLUSH",
+            "BURN",
+            "FLUSH",
+            "GLOW"
+        ],
+        "CONTINUOUS": [
+            "CONSECUTIVE",
+            "NONSTOP",
+            "SOLID",
+            "STRAIGHT"
+        ],
+        "FLAVOR ASSORTMENT": [
+            "FLIGHT",
+            "PLATTER",
+            "SAMPLER",
+            "TASTING"
+        ],
+        "SITCOMS": [
+            "BLOSSOM",
+            "COACH",
+            "COMMUNITY",
+            "FULL HOUSE"
+        ]
+    },
+    "2024-09-10": {
+        "VARIETIES": [
+            "KINDS",
+            "SORTS",
+            "STRIPES",
+            "TYPES"
+        ],
+        "TRANSFER": [
+            "DELIVER",
+            "HAND",
+            "GIVE",
+            "PASS"
+        ],
+        "RATINGS SYSTEMS": [
+            "A-F",
+            "PERCENTAGE",
+            "STARS",
+            "THUMBS"
+        ],
+        "WHERE TO FIND KINGS": [
+            "CHECKERS",
+            "DECK OF CARDS",
+            "MONARCHY",
+            "NHL"
+        ]
+    },
+    "2024-09-11": {
+        "LARGE AMOUNT OF MONEY": [
+            "BUNDLE",
+            "FORTUNE",
+            "MINT",
+            "PILE"
+        ],
+        "BITS OF WISDOM": [
+            "KERNEL",
+            "NUGGET",
+            "PEARL",
+            "WORDS"
+        ],
+        "FEATURED IN \u201cJURASSIC PARK\u201d": [
+            "AMBER",
+            "DINOSAUR",
+            "PALEONTOLOGIST",
+            "MOSQUITO"
+        ],
+        "THINGS THAT ARE PURPLE": [
+            "AMETHYST",
+            "EGGPLANT",
+            "GRIMACE",
+            "LAVENDER"
+        ]
+    },
+    "2024-09-12": {
+        "MARK ONLINE FOR LATER": [
+            "BOOKMARK",
+            "FAVORITE",
+            "LIKE",
+            "SAVE"
+        ],
+        "BEHALF": [
+            "ADVANTAGE",
+            "BENEFIT",
+            "INTEREST",
+            "SAKE"
+        ],
+        "NBA LEGENDS, FAMILIARLY": [
+            "BIRD",
+            "CURRY",
+            "KOBE",
+            "MAGIC"
+        ],
+        "ENDING WITH GREEK LETTERS": [
+            "BIOTA",
+            "FETA",
+            "MOCHI",
+            "PEPSI"
+        ]
+    },
+    "2024-09-13": {
+        "BEVERAGES": [
+            "JUICE",
+            "MILK",
+            "PUNCH",
+            "SODA"
+        ],
+        "CARE FOR A PLANT": [
+            "FERTILIZE",
+            "POT",
+            "PRUNE",
+            "WATER"
+        ],
+        "ITEM SOLD IN PAIRS": [
+            "BOOKEND",
+            "CHOPSTICK",
+            "EARBUD",
+            "SOCK"
+        ],
+        "BUGS PLUS STARTING LETTER": [
+            "BLOUSE",
+            "PANT",
+            "SMITE",
+            "STICK"
+        ]
     }
 }
