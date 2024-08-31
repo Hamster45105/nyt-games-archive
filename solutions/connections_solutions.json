@@ -12140,5 +12140,213 @@
             "HAWK",
             "LITTER"
         ]
+    },
+    "2024-09-21": {
+        "PREFIX MEANING \u201cVERY\u201d": [
+            "EXTRA",
+            "HYPER",
+            "OVER",
+            "SUPER"
+        ],
+        "KINDS OF PARTIES": [
+            "BIRTHDAY",
+            "COCKTAIL",
+            "DINNER",
+            "SURPRISE"
+        ],
+        "PBS SHOWS": [
+            "FRONTLINE",
+            "NATURE",
+            "NOVA",
+            "MASTERPIECE"
+        ],
+        "PLACES IN FRANCE": [
+            "ANGERS",
+            "CHAMPAGNE",
+            "NICE",
+            "REUNION"
+        ]
+    },
+    "2024-09-22": {
+        "COLOR TYPES": [
+            "GRAYSCALE",
+            "NEON",
+            "NEUTRAL",
+            "PASTEL"
+        ],
+        "FILE MENU OPTIONS": [
+            "NEW",
+            "OPEN",
+            "PRINT",
+            "SAVE"
+        ],
+        "CHANCE TO WIN A PRIZE": [
+            "DRAWING",
+            "LOTTERY",
+            "POOL",
+            "RAFFLE"
+        ],
+        "WHAT \u201cBRONZE\u201d MIGHT MEAN": [
+            "ALLOY",
+            "SCULPTURE",
+            "SUNTAN",
+            "THIRD"
+        ]
+    },
+    "2024-09-23": {
+        "BIT OF LAND FOR GROWING": [
+            "BED",
+            "PARCEL",
+            "PATCH",
+            "PLOT"
+        ],
+        "NOT SMOOTH, AS TERRAIN": [
+            "BUMPY",
+            "ROUGH",
+            "RUGGED",
+            "UNEVEN"
+        ],
+        "MEMBER OF A CARTOON DUO": [
+            "CHIP",
+            "ROCKY",
+            "SCRATCHY",
+            "STITCH"
+        ],
+        "___ PARK": [
+            "AMUSEMENT",
+            "NATIONAL",
+            "PARALLEL",
+            "SOUTH"
+        ]
+    },
+    "2024-09-24": {
+        "ONLINE CONTENT CREATOR": [
+            "AMBASSADOR",
+            "INFLUENCER",
+            "REVIEWER",
+            "STREAMER"
+        ],
+        "PROCURE IN ADVANCE": [
+            "BOOK",
+            "CHARTER",
+            "RESERVE",
+            "SECURE"
+        ],
+        "INSPIRED": [
+            "CREATIVE",
+            "FRESH",
+            "NOVEL",
+            "ORIGINAL"
+        ],
+        "BIT OF PARTY DECORATION": [
+            "BALLOON",
+            "BANNER",
+            "CONFETTI",
+            "GARLAND"
+        ]
+    },
+    "2024-09-25": {
+        "TRIO OF SPORTS ACHIEVEMENTS": [
+            "HAT TRICK",
+            "THREEPEAT",
+            "TRIFECTA",
+            "TRIPLE CROWN"
+        ],
+        "NEEDS FOR PAINTING A ROOM": [
+            "DROP CLOTH",
+            "PAINT",
+            "ROLLER",
+            "TAPE"
+        ],
+        "FOOD NAMED AFTER CITIES": [
+            "BROIL",
+            "CHEESESTEAK",
+            "SPROUTS",
+            "WINGS"
+        ],
+        "___ DERBY": [
+            "DEMOLITION",
+            "HOME RUN",
+            "KENTUCKY",
+            "SOAP BOX"
+        ]
+    },
+    "2024-09-26": {
+        "DECORATIVE EDGE": [
+            "BORDER",
+            "FRILL",
+            "FRINGE",
+            "TRIM"
+        ],
+        "INCREASE, IN A WAY": [
+            "GROW",
+            "MOUNT",
+            "SWELL",
+            "WAX"
+        ],
+        "SPECIFICATIONS FOR A BARTENDER": [
+            "DRY",
+            "NEAT",
+            "STRAIGHT",
+            "VIRGIN"
+        ],
+        "STRING ___": [
+            "BEAN",
+            "BIKINI",
+            "CHEESE",
+            "THEORY"
+        ]
+    },
+    "2024-09-27": {
+        "AREA OF HIGH GROUND": [
+            "BANK",
+            "DUNE",
+            "HILL",
+            "MOUND"
+        ],
+        "SIGNIFICANCE": [
+            "GRAVITY",
+            "IMPORT",
+            "SUBSTANCE",
+            "WEIGHT"
+        ],
+        "ACTIONS IN FANTASY FOOTBALL": [
+            "BENCH",
+            "DRAFT",
+            "START",
+            "TRADE"
+        ],
+        "SCI-FI MOVIES, WITH \u201cTHE\u201d": [
+            "ABYSS",
+            "FLY",
+            "MATRIX",
+            "THING"
+        ]
+    },
+    "2024-09-28": {
+        "CLAIRVOYANT": [
+            "MEDIUM",
+            "MYSTIC",
+            "ORACLE",
+            "PSYCHIC"
+        ],
+        "SPECIAL EDITION ADJECTIVES": [
+            "COLLECTIBLE",
+            "EXCLUSIVE",
+            "LIMITED",
+            "RARE"
+        ],
+        "\u201cGREAT JOB!\u201d": [
+            "IMPRESSIVE",
+            "NICE",
+            "PROPS",
+            "WELL DONE"
+        ],
+        "EXTREMELY": [
+            "AWFUL",
+            "BLOODY",
+            "REAL",
+            "WAY"
+        ]
     }
 }
