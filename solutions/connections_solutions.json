@@ -12348,5 +12348,161 @@
             "REAL",
             "WAY"
         ]
+    },
+    "2024-09-29": {
+        "MAKE GOOD ON, AS A PROMISE": [
+            "FULFILL",
+            "HONOR",
+            "KEEP",
+            "UPHOLD"
+        ],
+        "BEDDING": [
+            "BLANKET",
+            "SHAM",
+            "SHEET",
+            "THROW"
+        ],
+        "ACTIONS IN CARD GAMES": [
+            "DISCARD",
+            "DRAW",
+            "PASS",
+            "PLAY"
+        ],
+        "CABINET DEPARTMENTS": [
+            "ENERGY",
+            "JUSTICE",
+            "LABOR",
+            "STATE"
+        ]
+    },
+    "2024-09-30": {
+        "COOK WITH HEAT AND WATER": [
+            "BLANCH",
+            "BOIL",
+            "POACH",
+            "STEAM"
+        ],
+        "COMMON PERFUME INGREDIENTS": [
+            "AMBER",
+            "MUSK",
+            "ROSE",
+            "VANILLA"
+        ],
+        "CHARACTERS WITH PET DOGS": [
+            "CHARLIE",
+            "DOROTHY",
+            "SHAGGY",
+            "WALLACE"
+        ],
+        "CAPITAL CITY HOMOPHONES": [
+            "COBBLE",
+            "KETO",
+            "ROAM",
+            "SOPHIA"
+        ]
+    },
+    "2024-10-01": {
+        "FLUSTERED STATE": [
+            "LATHER",
+            "STEW",
+            "SWEAT",
+            "TIZZY"
+        ],
+        "FITNESS": [
+            "CONDITION",
+            "FORM",
+            "HEALTH",
+            "SHAPE"
+        ],
+        "FAST-MOVING WATER": [
+            "CASCADE",
+            "CURRENT",
+            "RAPID",
+            "WAVE"
+        ],
+        "DISHWASHER CYCLES": [
+            "NORMAL",
+            "QUICK",
+            "RINSE",
+            "SANITIZE"
+        ]
+    },
+    "2024-10-02": {
+        "PUT ON THE LINE": [
+            "BET",
+            "CHANCE",
+            "GAMBLE",
+            "RISK"
+        ],
+        "USE A KITCHEN KNIFE": [
+            "CUBE",
+            "DICE",
+            "JULIENNE",
+            "SLICE"
+        ],
+        "ROBERT DE NIRO FILMS": [
+            "CASINO",
+            "HEAT",
+            "JOKER",
+            "TAXI DRIVER"
+        ],
+        "FAMOUS FOR THEIR ARMS (OR LACK THEREOF)": [
+            "OCTOPUS",
+            "SHIVA",
+            "SLOT MACHINE",
+            "VENUS DE MILO"
+        ]
+    },
+    "2024-10-03": {
+        "BEVERAGES": [
+            "JUICE",
+            "MILK",
+            "PUNCH",
+            "SODA"
+        ],
+        "CARE FOR A PLANT": [
+            "FERTILIZE",
+            "POT",
+            "PRUNE",
+            "WATER"
+        ],
+        "ITEM SOLD IN PAIRS": [
+            "BOOKEND",
+            "EARBUD",
+            "SKI",
+            "SOCK"
+        ],
+        "BUGS PLUS STARTING LETTER": [
+            "BLOUSE",
+            "PANT",
+            "SMITE",
+            "STICK"
+        ]
+    },
+    "2024-10-04": {
+        "CONCAVITY": [
+            "DENT",
+            "DIMPLE",
+            "DING",
+            "DIVOT"
+        ],
+        "SMALL AMOUNT": [
+            "DAB",
+            "DASH",
+            "DOLLOP",
+            "DROP"
+        ],
+        "DISNEY CHARACTERS": [
+            "DAISY",
+            "DALE",
+            "DOC",
+            "DORY"
+        ],
+        "___ DATE": [
+            "DELIVERY",
+            "DINNER",
+            "DREAM",
+            "DUE"
+        ]
     }
 }
