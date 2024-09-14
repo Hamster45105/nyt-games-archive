@@ -12504,5 +12504,161 @@
             "DREAM",
             "DUE"
         ]
+    },
+    "2024-10-05": {
+        "STEAK CUTS": [
+            "FILET",
+            "HANGER",
+            "SKIRT",
+            "T-BONE"
+        ],
+        "KINDS OF UNDERWEAR": [
+            "BIKINI",
+            "G-STRING",
+            "HIPSTER",
+            "THONG"
+        ],
+        "INVOLVED IN A DENTIST VISIT": [
+            "DRILL",
+            "SINK",
+            "TOOTHBRUSH",
+            "X-RAY"
+        ],
+        "BRANDS THAT HAVE BECOME GENERIC TERMS": [
+            "CHAPSTICK",
+            "JACUZZI",
+            "Q-TIP",
+            "XEROX"
+        ]
+    },
+    "2024-10-06": {
+        "TURN TAIL": [
+            "FLEE",
+            "LEAVE",
+            "RETREAT",
+            "WITHDRAW"
+        ],
+        "THINGS CATS DO": [
+            "KNEAD",
+            "PURR",
+            "SCRATCH",
+            "SHED"
+        ],
+        "PAGES ON A WEBSITE": [
+            "ABOUT",
+            "CONTACT",
+            "HOME",
+            "LOGIN"
+        ],
+        "___ CHEESE": [
+            "COTTAGE",
+            "CREAM",
+            "GOAT",
+            "STRING"
+        ]
+    },
+    "2024-10-07": {
+        "KNUCKLEHEAD": [
+            "DING-DONG",
+            "DODO",
+            "YAHOO",
+            "YO-YO"
+        ],
+        "CAR ONOMATOPOEIA": [
+            "BEEP BEEP",
+            "PURR",
+            "SKRRT",
+            "VROOM"
+        ],
+        "SOUNDS FOR LAUGHTER": [
+            "HEE-HAW",
+            "HOOT",
+            "WHOOP",
+            "YUK"
+        ],
+        "FAMOUS PRIMATES": [
+            "BUBBLES",
+            "GEORGE",
+            "KING KONG",
+            "KOKO"
+        ]
+    },
+    "2024-10-08": {
+        "HALLOWEEN SYMBOLS": [
+            "BAT",
+            "PUMPKIN",
+            "SPIDER",
+            "WITCH"
+        ],
+        "PROHIBIT": [
+            "BAN",
+            "BLOCK",
+            "DENY",
+            "FORBID"
+        ],
+        "FOUND ON SHEET MUSIC": [
+            "ACCIDENTAL",
+            "NOTE",
+            "REST",
+            "STAFF"
+        ],
+        "CANDY ___": [
+            "APPLE",
+            "BAR",
+            "CANE",
+            "CORN"
+        ]
+    },
+    "2024-10-09": {
+        "EFFERVESCENCE": [
+            "BUBBLES",
+            "FIZZ",
+            "FOAM",
+            "FROTH"
+        ],
+        "THRIVING PERIOD": [
+            "BLOSSOM",
+            "HEYDAY",
+            "PEAK",
+            "PRIME"
+        ],
+        "MUSIC PUBLICATIONS": [
+            "BILLBOARD",
+            "MOJO",
+            "PITCHFORK",
+            "SPIN"
+        ],
+        "ENDING WITH UTENSILS": [
+            "BOILERPLATE",
+            "BUTTERCUP",
+            "JACKKNIFE",
+            "WITHERSPOON"
+        ]
+    },
+    "2024-10-10": {
+        "BODY PARTS": [
+            "ARM",
+            "EYE",
+            "HIP",
+            "LEG"
+        ],
+        "COOL, IN \u201980S SLANG": [
+            "BAD",
+            "FLY",
+            "ILL",
+            "RAD"
+        ],
+        "MOVIES WITH THREE-LETTER TITLES": [
+            "BIG",
+            "ELF",
+            "HER",
+            "SAW"
+        ],
+        "WORDS IN \u201cDO-RE-MI\u201d": [
+            "DOE",
+            "FAR",
+            "SEW",
+            "TEA"
+        ]
     }
 }
