@@ -1,9 +1,9 @@
 # NYT Games Archive <img src="favicon.svg" width="64" height="64" alt="Favicon">
 
 <div align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Hamster45105/wordle-archive?style=social">
-  <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/Hamster45105/wordle-archive?style=social">
-  <img alt="GitHub Repo forks" src="https://img.shields.io/github/watchers/Hamster45105/wordle-archive?style=social">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Hamster45105/nyt-games-archive?style=social">
+  <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/Hamster45105/nyt-games-archive?style=social">
+  <img alt="GitHub Repo forks" src="https://img.shields.io/github/watchers/Hamster45105/nyt-games-archive?style=social">
 
   <br/>
 
@@ -15,9 +15,9 @@
   
   <br/>
 
-  <img src="https://img.shields.io/github/license/Hamster45105/wordle-archive?style=for-the-badge&color=blue" alt="License LGPL-3.0" />
-  <img src="https://img.shields.io/github/languages/code-size/Hamster45105/wordle-archive?style=for-the-badge" alt="GitHub code size in bytes" />
-  <img src="https://img.shields.io/github/actions/workflow/status/Hamster45105/wordle-archive/update.yml?style=for-the-badge&label=Solution update status" alt="Word update status" />
+  <img src="https://img.shields.io/github/license/Hamster45105/nyt-games-archive?style=for-the-badge&color=blue" alt="License LGPL-3.0" />
+  <img src="https://img.shields.io/github/languages/code-size/Hamster45105/nyt-games-archive?style=for-the-badge" alt="GitHub code size in bytes" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Hamster45105/nyt-games-archive/update.yml?style=for-the-badge&label=Solution update status" alt="Word update status" />
 </div>
 
 <br/>
@@ -28,13 +28,13 @@ New solutions are fetched from the New York Times and added to the list daily at
 
 **Warning!** May contain spoilers!
 
-The list is available at the [NYT Games Archive site](https://hamster45105.github.io/wordle-archive/)
+The list is available at the [NYT Games Archive site](https://hamster45105.github.io/nyt-games-archive/)
 
 ---
 
 The raw list of solutions is available in these JSON files:
 
-[Wordle](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/wordle_solutions.json) • [Connections](https://raw.githubusercontent.com/Hamster45105/wordle-archive/main/solutions/connections_solutions.json)
+[Wordle](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json) • [Connections](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json)
 
 ## License
 
