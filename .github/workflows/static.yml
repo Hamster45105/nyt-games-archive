@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Deploy Website to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -41,7 +41,7 @@ jobs:
           mv index.html script.js favicon.svg site
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Upload artifact
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload website files only
