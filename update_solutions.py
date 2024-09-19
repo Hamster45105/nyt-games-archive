@@ -64,7 +64,9 @@ while True:
 # Save Wordle solutions to a local JSON file
 with open('./solutions/wordle_solutions.json', 'w', encoding='utf-8') as f:
     json.dump(wordle_solutions, f, indent=4)
+    f.write('\n')
 
 # Save Connections solutions to a local JSON file
 with open('./solutions/connections_solutions.json', 'w', encoding='utf-8') as f:
     json.dump(connections_solutions, f, indent=4)
+    f.write('\n')
