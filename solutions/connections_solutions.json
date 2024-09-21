@@ -12660,5 +12660,161 @@
             "SEW",
             "TEA"
         ]
+    },
+    "2024-10-11": {
+        "CHERISH": [
+            "RELISH",
+            "SAVOR",
+            "TREASURE",
+            "VALUE"
+        ],
+        "QUICK JUMP IN THE POOL": [
+            "DIP",
+            "DIVE",
+            "SPLASH",
+            "SWIM"
+        ],
+        "BRASHNESS": [
+            "BRASS",
+            "CHEEK",
+            "NERVE",
+            "SAUCE"
+        ],
+        "ADDITIONAL BENEFIT": [
+            "BONUS",
+            "EXTRA",
+            "FROSTING",
+            "GRAVY"
+        ]
+    },
+    "2024-10-12": {
+        "ACCESSORIES MADE OF FABRIC": [
+            "SCARF",
+            "SHAWL",
+            "STOLE",
+            "WRAP"
+        ],
+        "TOLERATE": [
+            "BEAR",
+            "STAND",
+            "SWALLOW",
+            "TAKE"
+        ],
+        "BIRD ONOMATOPOEIA": [
+            "COO",
+            "GOBBLE",
+            "HONK",
+            "HOOT"
+        ],
+        "STARTS OF CELL PHONE MAKERS": [
+            "APP",
+            "GOO",
+            "MOTOR",
+            "SAM"
+        ]
+    },
+    "2024-10-13": {
+        "MADE OF KERATIN": [
+            "CLAW",
+            "HOOF",
+            "HORN",
+            "NAIL"
+        ],
+        "ROAD RUNNER CARTOON STAPLES": [
+            "ANVIL",
+            "BOULDER",
+            "COYOTE",
+            "TNT"
+        ],
+        "KINDS OF PANTS": [
+            "CAPRI",
+            "CARGO",
+            "HAMMER",
+            "STIRRUP"
+        ],
+        "___ ROLL": [
+            "CALIFORNIA",
+            "DRUM",
+            "EGG",
+            "HONOR"
+        ]
+    },
+    "2024-10-14": {
+        "RUMMAGE": [
+            "COMB",
+            "DIG",
+            "ROOT",
+            "SIFT"
+        ],
+        "SOUNDS OF THUNDER": [
+            "CLAP",
+            "PEAL",
+            "ROLL",
+            "RUMBLE"
+        ],
+        "WAYS TO WEAR YOUR HAIR UP": [
+            "BUN",
+            "BRAID",
+            "PONY",
+            "TWIST"
+        ],
+        "THINGS WITH LEAVES": [
+            "BOOK",
+            "SALAD",
+            "TABLE",
+            "TREE"
+        ]
+    },
+    "2024-10-15": {
+        "FOOTBALL POSITIONS": [
+            "CENTER",
+            "GUARD",
+            "QUARTERBACK",
+            "SAFETY"
+        ],
+        "CABLE CHANNELS": [
+            "DISCOVERY",
+            "HISTORY",
+            "NICKELODEON",
+            "OXYGEN"
+        ],
+        "FICTIONAL CLOWNS": [
+            "HOMEY",
+            "JOKER",
+            "PENNYWISE",
+            "RONALD"
+        ],
+        "WHAT \u201cD\u201d MIGHT STAND FOR": [
+            "DEFENSE",
+            "DEMOCRAT",
+            "DIMENSIONAL",
+            "DRIVE"
+        ]
+    },
+    "2024-10-16": {
+        "AT SOME FUTURE POINT": [
+            "EVENTUALLY",
+            "LATER",
+            "NEXT",
+            "SOON"
+        ],
+        "TOURNAMENT TERMS": [
+            "BRACKET",
+            "BYE",
+            "ROUND",
+            "SEED"
+        ],
+        "BIT OF BREAKFAST CEREAL": [
+            "CHEERIO",
+            "FLAKE",
+            "PEBBLE",
+            "PUFF"
+        ],
+        "WHAT THE OUTSTRETCHED INDEX AND MIDDLE FINGERS CAN REPRESENT": [
+            "PEACE",
+            "SCISSORS",
+            "TWO",
+            "VICTORY"
+        ]
     }
 }
