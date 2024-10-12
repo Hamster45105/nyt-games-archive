@@ -13232,5 +13232,187 @@
             "HALO",
             "PLACEBO"
         ]
+    },
+    "2024-11-02": {
+        "SEEN IN A KITCHEN": [
+            "COUNTER",
+            "FRIDGE",
+            "RANGE",
+            "SINK"
+        ],
+        "GROUP OF ADVISORS": [
+            "BOARD",
+            "CABINET",
+            "COUNCIL",
+            "PANEL"
+        ],
+        "CORE EXERCISES": [
+            "BOAT",
+            "CRUNCH",
+            "MOUNTAIN CLIMBER",
+            "PLANK"
+        ],
+        "KIND OF EARRINGS": [
+            "CHANDELIER",
+            "DROP",
+            "HOOP",
+            "STUD"
+        ]
+    },
+    "2024-11-03": {
+        "HEARTWARMING": [
+            "MOVING",
+            "SWEET",
+            "TENDER",
+            "TOUCHING"
+        ],
+        "SNEAKING SUSPICION": [
+            "FEELING",
+            "HUNCH",
+            "IMPRESSION",
+            "SENSE"
+        ],
+        "LEGAL SESSION": [
+            "HEARING",
+            "INQUIRY",
+            "PROCEEDING",
+            "TRIAL"
+        ],
+        "EASY ___": [
+            "CHAIR",
+            "LISTENING",
+            "MONEY",
+            "STREET"
+        ]
+    },
+    "2024-11-04": {
+        "EQUIP": [
+            "FURNISH",
+            "OUTFIT",
+            "PROVISION",
+            "STOCK"
+        ],
+        "INDIVIDUALITY": [
+            "BEING",
+            "CHARACTER",
+            "EGO",
+            "SELF"
+        ],
+        "FURNITURE": [
+            "CHEST",
+            "CONSOLE",
+            "VANITY",
+            "WARDROBE"
+        ],
+        "WORDS WITH APOSTROPHES REMOVED": [
+            "CANT",
+            "ID",
+            "SHELL",
+            "WERE"
+        ]
+    },
+    "2024-11-05": {
+        "THINGS THAT ARE FUZZY": [
+            "CATERPILLAR",
+            "FLEECE",
+            "PEACH",
+            "PIPE CLEANER"
+        ],
+        "THINGS WITH SHELLS": [
+            "CLAM",
+            "EGG",
+            "NUT",
+            "TURTLE"
+        ],
+        "FIGURES IN \u201cSHREK\u201d": [
+            "DONKEY",
+            "DRAGON",
+            "OGRE",
+            "PRINCESS"
+        ],
+        "MAGIC ___": [
+            "CARPET",
+            "KINGDOM",
+            "MARKER",
+            "MUSHROOM"
+        ]
+    },
+    "2024-11-06": {
+        "DVR BUTTONS": [
+            "PAUSE",
+            "PLAY",
+            "RECORD",
+            "STOP"
+        ],
+        "GROUNDBREAKING": [
+            "DIFFERENT",
+            "NEW",
+            "NOVEL",
+            "ORIGINAL"
+        ],
+        "COMMUNICATE THROUGH WRITING": [
+            "CORRESPOND",
+            "MESSAGE",
+            "TEXT",
+            "WRITE"
+        ],
+        "THINGS WITH FEET": [
+            "BIPED",
+            "FURNITURE",
+            "POEM",
+            "YARDSTICK"
+        ]
+    },
+    "2024-11-07": {
+        "FOOD-RELATED JUMBLES": [
+            "HASH",
+            "SALAD",
+            "SCRAMBLE",
+            "STEW"
+        ],
+        "REPUTATION": [
+            "CHARACTER",
+            "IMAGE",
+            "NAME",
+            "REPUTATION"
+        ],
+        "INFO ON A MUSEUM PLACARD": [
+            "ARTIST",
+            "MEDIUM",
+            "TITLE",
+            "YEAR"
+        ],
+        "ANAGRAMS OF FAMOUS PAINTERS": [
+            "DIAL",
+            "EGADS",
+            "MONTE",
+            "YOGA"
+        ]
+    },
+    "2024-11-08": {
+        "ESCAPADE": [
+            "ANTIC",
+            "CAPER",
+            "EXPLOIT",
+            "STUNT"
+        ],
+        "KINDS OF PICKLES": [
+            "DILL",
+            "KOSHER",
+            "SOUR",
+            "SWEET"
+        ],
+        "RISQU\u00c9": [
+            "ADULT",
+            "BLUE",
+            "SPICY",
+            "SUGGESTIVE"
+        ],
+        "CUT THE ___": [
+            "CHEESE",
+            "CORD",
+            "DECK",
+            "MUSTARD"
+        ]
     }
 }
