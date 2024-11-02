@@ -13752,5 +13752,187 @@
             "TORTE",
             "ZIT"
         ]
+    },
+    "2024-11-22": {
+        "PUBLICITY": [
+            "ATTENTION",
+            "COVERAGE",
+            "EXPOSURE",
+            "PRESS"
+        ],
+        "POINT OF VIEW": [
+            "ANGLE",
+            "LENS",
+            "PERSPECTIVE",
+            "POSITION"
+        ],
+        "WORK COMMUNICATION PLATFORMS": [
+            "MEET",
+            "SLACK",
+            "TEAMS",
+            "ZOOM"
+        ],
+        "\u201c___ ISLAND\u201d": [
+            "FANTASY",
+            "LOVE",
+            "SHUTTER",
+            "TREASURE"
+        ]
+    },
+    "2024-11-23": {
+        "FANTASY CREATURES": [
+            "DRAGON",
+            "GIANT",
+            "PIXIE",
+            "TROLL"
+        ],
+        "EMAIL FOLDERS": [
+            "DRAFTS",
+            "SENT",
+            "SPAM",
+            "TRASH"
+        ],
+        "SODA BRANDS": [
+            "CRUSH",
+            "MUG",
+            "SPRITE",
+            "STARRY"
+        ],
+        "ANIMAL HOMOPHONES": [
+            "BORE",
+            "LINKS",
+            "PHISH",
+            "TOWED"
+        ]
+    },
+    "2024-11-24": {
+        "CAREEN": [
+            "HEAVE",
+            "LURCH",
+            "PITCH",
+            "REEL"
+        ],
+        "WHAT A NOUN MIGHT BE": [
+            "IDEA",
+            "PERSON",
+            "PLACE",
+            "THING"
+        ],
+        "ELECTRONIC DANCE MUSIC GENRES": [
+            "AMBIENT",
+            "HOUSE",
+            "JUNGLE",
+            "TRANCE"
+        ],
+        "WORDS AFTER \u201cASH\u201d": [
+            "BLOND",
+            "TRAY",
+            "TREE",
+            "WEDNESDAY"
+        ]
+    },
+    "2024-11-25": {
+        "FISSURE": [
+            "CRACK",
+            "HOLE",
+            "LEAK",
+            "PUNCTURE"
+        ],
+        "GRAMMAR ELEMENTS": [
+            "LETTER",
+            "PHRASE",
+            "SENTENCE",
+            "WORD"
+        ],
+        "INSTRUMENTS YOU BLOW INTO": [
+            "JUG",
+            "PIPE",
+            "RECORDER",
+            "WHISTLE"
+        ],
+        "___ OF TIME": [
+            "NICK",
+            "PASSAGE",
+            "SANDS",
+            "WASTE"
+        ]
+    },
+    "2024-11-26": {
+        "GOOD THINGS TO GET AT WORK": [
+            "BONUS",
+            "EQUITY",
+            "PROMOTION",
+            "RAISE"
+        ],
+        "DISREGARD": [
+            "DISCOUNT",
+            "FORGET",
+            "IGNORE",
+            "OVERLOOK"
+        ],
+        "KINDS OF CRACKERS": [
+            "ANIMAL",
+            "CLUB",
+            "GOLDFISH",
+            "RITZ"
+        ],
+        "FEATURED IN \u201cELOISE\u201d": [
+            "ELOISE",
+            "PLAZA",
+            "PUG",
+            "TURTLE"
+        ]
+    },
+    "2024-11-27": {
+        "TELLING OF EVENTS": [
+            "ACCOUNT",
+            "CHRONICLE",
+            "DESCRIPTION",
+            "STORY"
+        ],
+        "SECRETED BY TREES": [
+            "GUM",
+            "LATEX",
+            "RESIN",
+            "SAP"
+        ],
+        "THINGS ON STICKS": [
+            "BALL-IN-CUP",
+            "CORN DOG",
+            "COTTON SWAB",
+            "LOLLIPOP"
+        ],
+        "BLACK OR RED": [
+            "BALANCE SHEET",
+            "CHECKERS",
+            "LICORICE",
+            "ROULETTE"
+        ]
+    },
+    "2024-11-28": {
+        "NOT WORKING RELIABLY": [
+            "BUGGY",
+            "ERRATIC",
+            "GLITCHY",
+            "SPOTTY"
+        ],
+        "CAR PARTS": [
+            "BUMPER",
+            "GRILLE",
+            "MIRROR",
+            "RIM"
+        ],
+        "WHAT A SITTER MIGHT SIT": [
+            "BABY",
+            "HOUSE",
+            "PET",
+            "PLANT"
+        ],
+        "___ BAND": [
+            "BOY",
+            "RUBBER",
+            "TRIBUTE",
+            "WEDDING"
+        ]
     }
 }
