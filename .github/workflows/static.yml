@@ -35,10 +35,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4   
-      - name: Move Website Files
-        run: |
-          mkdir site
-          mv index.html script.js favicon.svg site
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload Artifact
