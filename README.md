@@ -1,11 +1,6 @@
-# NYT Games Archive <img src="favicon.svg" width="64" height="64" alt="Favicon">
+# NYT Games Archive <img src="site/favicon.svg" width="64" height="64" alt="Favicon">
 
 <div align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Hamster45105/nyt-games-archive?style=social">
-  <img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/Hamster45105/nyt-games-archive?style=social">
-  <img alt="GitHub Repo forks" src="https://img.shields.io/github/watchers/Hamster45105/nyt-games-archive?style=social">
-
-  <br/>
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Actions%20-8A2BE2?style=for-the-badge&logo=github&color=000000">
