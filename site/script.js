@@ -45,3 +45,49 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
       console.log('There was a problem with the fetch operation: ' + e.message);
     });
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const page = urlParams.get('page');
+
+  const script = document.createElement('script');
+  script.src = './script.js'; 
+
+  script.addEventListener('load', function() {
+    if (page === 'connections') {
+      title.textContent = 'Connections Archive';
+      subtitle.textContent = 'A list of all NYT Connections EVER + all confirmed future ones!';
+      // For Connections
+      fetchSolutions('https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json', 'solutionsTable', (data, date) => {
+        let solutionHTML = '<ul>';
+          for (const category in data[date]) {
+              solutionHTML += `<li><strong>${category}</strong><ul>`;
+              for (const word of data[date][category]) {
+                  solutionHTML += `<li>${word}</li>`;
+              }
+              solutionHTML += '</ul></li>';
+          }
+          solutionHTML += '</ul>';
+          return solutionHTML;
+      }, 1);
+    } else if (page === 'wordle') {
+      title.textContent = 'Wordle Archive';
+      subtitle.textContent = 'A list of all NYT Wordles EVER + all confirmed future ones!';
+      fetchSolutions('https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json', 'solutionsTable', (data, date) => data[date], 0);
+    } else {
+      // Default page
+      location.href = '?page=wordle';
+    }
+  });
+
+  document.body.appendChild(script);
+});
+
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+function bottomFunction() {
+  window.scrollTo(0, document.body.scrollHeight);
+}
