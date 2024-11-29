@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
   const title = document.getElementById('title');
   const subtitle = document.getElementById('subtitle');
   const urlParams = new URLSearchParams(window.location.search);
@@ -68,7 +68,7 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
           const revealButton = document.createElement('button');
           revealButton.className = 'btn btn-primary reveal-btn';
           revealButton.textContent = 'Reveal';
-          revealButton.addEventListener('click', function() {
+          revealButton.addEventListener('click', function () {
             cell3.innerHTML = solutionHTML;
           });
           cell3.appendChild(revealButton);
