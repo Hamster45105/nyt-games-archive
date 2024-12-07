@@ -1,3 +1,4 @@
+// SCRIPT.JS
 document.addEventListener('DOMContentLoaded', function () {
   const title = document.getElementById('title');
   const subtitle = document.getElementById('subtitle');
@@ -22,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
       'solutionsTable',
       generateConnectionsSolutionHTML,
       1,
-      true // Include "No." column
+      true
     );
   } else if (page === 'wordle') {
     title.textContent = 'Wordle Archive';
@@ -38,8 +39,8 @@ document.addEventListener('DOMContentLoaded', function () {
       'https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json',
       'solutionsTable',
       (data, date) => data[date],
-      0,
-      true // Include "No." column
+      1,
+      true
     );
   } else if (page === 'strands') {
     title.textContent = 'Strands Archive';
@@ -56,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
       'solutionsTable',
       generateStrandsSolutionHTML,
       0,
-      false // Exclude "No." column
+      false
     );
   } else {
     location.href = '?page=wordle';
@@ -96,6 +97,7 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startIndex, includeN
     .then(data => {
       const table = document.getElementById(tableId);
       let index = startIndex;
+      table.innerHTML = ''; // Clear existing table rows
       for (const date in data) {
         const row = table.insertRow();
         if (includeNoColumn) {
