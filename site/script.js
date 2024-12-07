@@ -63,7 +63,6 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 });
 
-// Helper functions to generate solution HTML
 function generateConnectionsSolutionHTML(data, date) {
   let solutionHTML = '<ul>';
   for (const category in data[date]) {
@@ -110,4 +109,12 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startIndex, includeN
       }
     })
     .catch(error => console.error('Error fetching solutions:', error));
+}
+
+function bottomFunction() {
+  window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+}
+
+function topFunction() {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
