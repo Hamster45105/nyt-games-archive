@@ -6,6 +6,7 @@ import requests
 # Initialize solutions as empty dictionaries
 wordle_solutions = {}
 connections_solutions = {}
+strands_solutions = {}
 
 # Load existing Wordle solutions if wordle_solutions.json exists
 if os.path.exists('./solutions/wordle_solutions.json'):
@@ -16,6 +17,11 @@ if os.path.exists('./solutions/wordle_solutions.json'):
 if os.path.exists('./solutions/connections_solutions.json'):
     with open('./solutions/connections_solutions.json', 'r', encoding='utf-8') as f:
         connections_solutions = json.load(f)
+
+# Load existing Strands solutions if strands_solutions.json exists
+if os.path.exists('./solutions/strands_solutions.json'):
+    with open('./solutions/strands_solutions.json', 'r', encoding='utf-8') as f:
+        strands_solutions = json.load(f)
 
 # Function to fetch Wordle solution
 def fetch_wordle_solution(input_date):
@@ -40,9 +46,23 @@ def fetch_connections_solution(input_date):
         connections_solutions[input_date] = solution
         print(f'Fetched Connections solution for {input_date}')
 
+# Function to fetch Strands solution
+def fetch_strands_solution(input_date):
+    if input_date not in strands_solutions:
+        response = requests.get(f'https://www.nytimes.com/svc/strands/v2/{input_date}.json')
+        data = response.json()
+        solution = {
+            'clue': data['clue'],
+            'spangram': data['spangram'],
+            'themeWords': data['themeWords']
+        }
+        strands_solutions[input_date] = solution
+        print(f'Fetched Strands solution for {input_date}')
+
 # Fetch solutions from start date
 wordle_start_date = date(2021, 6, 19)
 connections_start_date = date(2023, 6, 12)
+strands_start_date = date(2024, 3, 4)
 delta = timedelta(days=1)
 
 while True:
@@ -61,6 +81,14 @@ while True:
         print('No more Connections solutions')
         break
 
+while True:
+    try:
+        fetch_strands_solution(strands_start_date.strftime('%Y-%m-%d'))
+        strands_start_date += delta
+    except KeyError:
+        print('No more Strands solutions')
+        break
+
 # Save Wordle solutions to a local JSON file
 with open('./solutions/wordle_solutions.json', 'w', encoding='utf-8') as f:
     json.dump(wordle_solutions, f, indent=4)
@@ -69,4 +97,9 @@ with open('./solutions/wordle_solutions.json', 'w', encoding='utf-8') as f:
 # Save Connections solutions to a local JSON file
 with open('./solutions/connections_solutions.json', 'w', encoding='utf-8') as f:
     json.dump(connections_solutions, f, indent=4)
+    f.write('\n')
+
+# Save Strands solutions to a local JSON file
+with open('./solutions/strands_solutions.json', 'w', encoding='utf-8') as f:
+    json.dump(strands_solutions, f, indent=4)
     f.write('\n')
