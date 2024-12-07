@@ -500,7 +500,7 @@
             "RYE",
             "SPELT"
         ],
-        "ROYAL TITLES": [
+        "ROYAL AND NOBLE TITLES": [
             "BARON",
             "EARL",
             "KING",
@@ -965,11 +965,11 @@
         "TREES": [
             "ASH",
             "CEDAR",
-            "MAPLE",
-            "PINE"
+            "OAK",
+            "POPLAR"
         ],
         "LAND FORMATIONS": [
-            "HILL",
+            "CANYON",
             "MOUNTAIN",
             "PLATEAU",
             "VALLEY"
@@ -9698,29 +9698,29 @@
         ]
     },
     "2024-06-19": {
-        "PURSUIT": [
-            "CHASE",
-            "HUNT",
-            "QUEST",
-            "SEARCH"
+        "POSITIONS IN FAVOR": [
+            "AYE",
+            "FOR",
+            "PRO",
+            "YEA"
         ],
-        "ROMANTIC LETTER SIGN-OFFS": [
-            "ALWAYS",
-            "KISSES",
-            "LOVE",
-            "YOURS"
+        "GO OUT WITH": [
+            "COURT",
+            "DATE",
+            "SEE",
+            "WOO"
         ],
-        "GROUP WITHIN A GROUP": [
-            "CAMP",
-            "PARTY",
-            "SIDE",
-            "WING"
+        "MULTITUDE": [
+            "DROVE",
+            "HOST",
+            "PACK",
+            "SEA"
         ],
-        "GOLD ___": [
-            "BOND",
-            "LEAF",
-            "MINE",
-            "RUSH"
+        "THINGS READ IN DIVINATION": [
+            "AURA",
+            "PALM",
+            "TAROT",
+            "TEA"
         ]
     },
     "2024-06-20": {
@@ -9906,29 +9906,29 @@
         ]
     },
     "2024-06-27": {
-        "AFFIRMATIVE POSITIONS": [
-            "AYE",
-            "FOR",
-            "PRO",
-            "YEA"
+        "PURSUIT": [
+            "CHASE",
+            "HUNT",
+            "QUEST",
+            "SEARCH"
         ],
-        "GO OUT WITH": [
-            "COURT",
-            "DATE",
-            "SEE",
-            "WOO"
+        "ROMANTIC LETTER SIGN-OFFS": [
+            "ALWAYS",
+            "KISSES",
+            "LOVE",
+            "YOURS"
         ],
-        "MULTITUDE": [
-            "DROVE",
-            "HOST",
-            "PACK",
-            "SEA"
+        "GROUP WITHIN A GROUP": [
+            "CAMP",
+            "PARTY",
+            "SIDE",
+            "WING"
         ],
-        "THINGS READ IN DIVINATION": [
-            "AURA",
-            "PALM",
-            "TAROT",
-            "TEA"
+        "GOLD ___": [
+            "BOND",
+            "LEAF",
+            "MINE",
+            "RUSH"
         ]
     },
     "2024-06-28": {
@@ -10028,7 +10028,7 @@
             "SEAL",
             "WASHINGTON"
         ],
-        "FIRST WORDS OF CANADIAN PROVINCES": [
+        "FIRST WORDS OF CANADIAN PROVINCES/TERRITORIES": [
             "BRITISH",
             "NORTHWEST",
             "NOVA",
@@ -10036,7 +10036,7 @@
         ]
     },
     "2024-07-02": {
-        "COLLECT FOR FUTURE USE": [
+        "PACK (AWAY) FOR FUTURE USE": [
             "SQUIRREL",
             "STASH",
             "STORE",
@@ -10076,9 +10076,9 @@
         ],
         "KINDS OF CAKE": [
             "BIRTHDAY",
-            "BLACKOUT",
             "CRUMB",
-            "MARBLE"
+            "MARBLE",
+            "POUND"
         ],
         "THINGS YOU CAN THROW, IN METAPHORS": [
             "CURVEBALL",
@@ -10504,29 +10504,29 @@
         ]
     },
     "2024-07-20": {
-        "ANCIENT WRITING SURFACES": [
-            "CLAY",
-            "PAPYRUS",
-            "PARCHMENT",
-            "WAX"
+        "EFFORTLESS": [
+            "FLUID",
+            "GRACEFUL",
+            "NATURAL",
+            "SMOOTH"
         ],
-        "LEAD, AS A TV PROGRAM": [
-            "ANCHOR",
-            "HOST",
-            "MODERATE",
-            "PRESENT"
+        "EXERTION": [
+            "EFFORT",
+            "LABOR",
+            "SWEAT",
+            "WORK"
         ],
-        "NATURAL ABILITY": [
-            "FACULTY",
-            "FLAIR",
-            "INSTINCT",
-            "TALENT"
+        "ENERGY FOR AN ELECTRONIC DEVICE": [
+            "BATTERY",
+            "CHARGE",
+            "JUICE",
+            "POWER"
         ],
-        "WRAPPED THINGS": [
-            "BURRITO",
-            "GIFT",
-            "MUMMY",
-            "SPRAIN"
+        "WHAT \u201cPOP\u201d MIGHT MEAN": [
+            "BURST",
+            "DAD",
+            "MAINSTREAM",
+            "SODA"
         ]
     },
     "2024-07-21": {
@@ -10634,29 +10634,29 @@
         ]
     },
     "2024-07-25": {
-        "EFFORTLESS": [
-            "FLUID",
-            "GRACEFUL",
-            "NATURAL",
-            "SMOOTH"
+        "ANCIENT WRITING SURFACES": [
+            "CLAY",
+            "PAPYRUS",
+            "PARCHMENT",
+            "WAX"
         ],
-        "EXERTION": [
-            "EFFORT",
-            "LABOR",
-            "SWEAT",
-            "WORK"
+        "LEAD, AS A TV PROGRAM": [
+            "ANCHOR",
+            "HOST",
+            "MODERATE",
+            "PRESENT"
         ],
-        "ENERGY FOR AN ELECTRONIC DEVICE": [
-            "BATTERY",
-            "CHARGE",
-            "JUICE",
-            "POWER"
+        "NATURAL ABILITY": [
+            "FACULTY",
+            "FLAIR",
+            "INSTINCT",
+            "TALENT"
         ],
-        "WHAT \u201cPOP\u201d MIGHT MEAN": [
-            "BURST",
-            "DAD",
-            "MAINSTREAM",
-            "SODA"
+        "WRAPPED THINGS": [
+            "BURRITO",
+            "GIFT",
+            "MUMMY",
+            "SPRAIN"
         ]
     },
     "2024-07-26": {
@@ -10686,17 +10686,17 @@
         ]
     },
     "2024-07-27": {
-        "CREATE, AS RESULTS": [
-            "BEAR",
-            "GENERATE",
-            "PRODUCE",
-            "YIELD"
-        ],
         "OFF-TOPIC REMARKS": [
             "ASIDE",
             "DETOUR",
             "DIGRESSION",
             "TANGENT"
+        ],
+        "CREATE, AS RESULTS": [
+            "BEAR",
+            "GENERATE",
+            "PRODUCE",
+            "YIELD"
         ],
         "HOTTIE": [
             "BABE",
@@ -10704,7 +10704,7 @@
             "SNACK",
             "TEN"
         ],
-        "WHAT \u201cR\u201d MIGHT MEAN": [
+        "WORDS REPRESENTED BY THE LETTER \"R\"": [
             "ARE",
             "RADIUS",
             "REVERSE",
@@ -10712,29 +10712,29 @@
         ]
     },
     "2024-07-28": {
-        "SPLASHY WAYS TO ENTER A POOL": [
-            "BACKFLIP",
-            "BELLYFLOP",
-            "CANNONBALL",
-            "JACKKNIFE"
+        "PARTS OF A BOOK": [
+            "COVER",
+            "JACKET",
+            "PAGE",
+            "SPINE"
         ],
-        "REITERATE": [
-            "ECHO",
-            "PARROT",
-            "REPEAT",
-            "QUOTE"
+        "CAT COAT PATTERNS": [
+            "CALICO",
+            "TABBY",
+            "TORTOISESHELL",
+            "TUXEDO"
         ],
-        "MAINSTAY": [
-            "ANCHOR",
-            "BACKBONE",
-            "CORNERSTONE",
-            "PILLAR"
+        "NERVOUSNESS, IN THE SINGULAR": [
+            "BUTTERFLY",
+            "JITTER",
+            "NERVE",
+            "WILLY"
         ],
-        "___ RADIO": [
-            "HAM",
-            "PIRATE",
-            "SATELLITE",
-            "TALK"
+        "STARTING WITH VEGETABLES": [
+            "BEETHOVEN",
+            "CORNUCOPIA",
+            "KALEIDOSCOPE",
+            "PEACOCK"
         ]
     },
     "2024-07-29": {
@@ -10791,10 +10791,10 @@
     },
     "2024-07-31": {
         "RASPY": [
-            "GRAVEL",
             "GRUFF",
             "HOARSE",
-            "HUSKY"
+            "HUSKY",
+            "ROUGH"
         ],
         "FINGERS": [
             "LITTLE",
@@ -10835,7 +10835,7 @@
             "TRAVEL"
         ],
         "___ SOCKS": [
-            "BOBBY",
+            "ANKLE",
             "CREW",
             "SWEAT",
             "TUBE"
@@ -10946,7 +10946,7 @@
         ]
     },
     "2024-08-06": {
-        "WHITE FLUFFY THINGS": [
+        "FLUFFY WHITE THINGS": [
             "CLOUD",
             "COTTON BALL",
             "DANDELION",
@@ -10958,7 +10958,7 @@
             "SUBJECT",
             "VOLUNTEER"
         ],
-        "TAKE ISSUE WITH": [
+        "TAKE ISSUE": [
             "DISAPPROVE",
             "MIND",
             "OBJECT",
@@ -10998,29 +10998,29 @@
         ]
     },
     "2024-08-08": {
-        "PARTS OF A BOOK": [
-            "COVER",
-            "JACKET",
-            "PAGE",
-            "SPINE"
+        "SPLASHY WAYS TO ENTER A POOL": [
+            "BACKFLIP",
+            "BELLYFLOP",
+            "CANNONBALL",
+            "JACKKNIFE"
         ],
-        "CAT COAT PATTERNS": [
-            "CALICO",
-            "TABBY",
-            "TORTOISESHELL",
-            "TUXEDO"
+        "REITERATE": [
+            "ECHO",
+            "PARROT",
+            "REPEAT",
+            "QUOTE"
         ],
-        "NERVOUSNESS, IN THE SINGULAR": [
-            "BUTTERFLY",
-            "JITTER",
-            "NERVE",
-            "WILLY"
+        "MAINSTAY": [
+            "ANCHOR",
+            "BACKBONE",
+            "CORNERSTONE",
+            "PILLAR"
         ],
-        "STARTING WITH VEGETABLES": [
-            "BEETHOVEN",
-            "CORNUCOPIA",
-            "KALEIDOSCOPE",
-            "PEACOCK"
+        "___ RADIO": [
+            "HAM",
+            "PIRATE",
+            "SATELLITE",
+            "TALK"
         ]
     },
     "2024-08-09": {
@@ -11030,17 +11030,17 @@
             "GONE",
             "MIA"
         ],
-        "ROCK GENRES": [
-            "GLAM",
-            "GOTH",
-            "METAL",
-            "PUNK"
-        ],
         "SUPPORTER": [
             "ADVOCATE",
             "CHAMPION",
             "CHEERLEADER",
             "EXPONENT"
+        ],
+        "ROCK GENRES": [
+            "GLAM",
+            "GOTH",
+            "METAL",
+            "PUNK"
         ],
         "SHOCK ___": [
             "HORROR",
@@ -11076,29 +11076,29 @@
         ]
     },
     "2024-08-11": {
-        "BLUNDER": [
-            "BOO-BOO",
-            "FLUB",
-            "GAFFE",
-            "GOOF"
+        "LARGE BOAT": [
+            "BARGE",
+            "CRAFT",
+            "SHIP",
+            "VESSEL"
         ],
-        "FLOWERS": [
-            "DAISY",
-            "JASMINE",
-            "PETUNIA",
-            "POPPY"
+        "ALL-TIME GREAT": [
+            "BEST",
+            "CHAMP",
+            "GOAT",
+            "LEGEND"
         ],
-        "THINGS BEES DO": [
-            "BUZZ",
-            "DANCE",
-            "POLLINATE",
-            "STING"
+        "REGARDING": [
+            "ABOUT",
+            "CONCERNING",
+            "ON",
+            "TOWARD"
         ],
-        "FIRST NAMES OF YANKEES LEGENDS": [
-            "BABE",
-            "LOU",
-            "MICKEY",
-            "YOGI"
+        "HOMOPHONES OF BODY FEATURES": [
+            "HARE",
+            "I",
+            "MUSSEL",
+            "NAVAL"
         ]
     },
     "2024-08-12": {
@@ -11154,29 +11154,29 @@
         ]
     },
     "2024-08-14": {
-        "LARGE BOAT": [
-            "BARGE",
-            "CRAFT",
-            "SHIP",
-            "VESSEL"
+        "BLUNDER": [
+            "BOO-BOO",
+            "FLUB",
+            "GAFFE",
+            "GOOF"
         ],
-        "ALL-TIME GREAT": [
-            "BEST",
-            "CHAMP",
-            "GOAT",
-            "LEGEND"
+        "FLOWERS": [
+            "DAISY",
+            "JASMINE",
+            "PETUNIA",
+            "POPPY"
         ],
-        "REGARDING": [
-            "ABOUT",
-            "CONCERNING",
-            "ON",
-            "TOWARD"
+        "THINGS BEES DO": [
+            "BUZZ",
+            "DANCE",
+            "POLLINATE",
+            "STING"
         ],
-        "HOMOPHONES OF BODY FEATURES": [
-            "HARE",
-            "I",
-            "MUSSEL",
-            "NAVAL"
+        "FIRST NAMES OF YANKEES LEGENDS": [
+            "BABE",
+            "LOU",
+            "MICKEY",
+            "YOGI"
         ]
     },
     "2024-08-15": {
@@ -11186,17 +11186,17 @@
             "REACH",
             "SCOPE"
         ],
-        "BEERS, FAMILIARLY": [
-            "BUD",
-            "NATTY",
-            "SIERRA",
-            "STELLA"
-        ],
         "OTHER HALF": [
             "COMPLEMENT",
             "MATCH",
             "MATE",
             "PARTNER"
+        ],
+        "BEERS, FAMILIARLY": [
+            "BUD",
+            "NATTY",
+            "SIERRA",
+            "STELLA"
         ],
         "WORDS AFTER \u201cPAY\u201d": [
             "CHECK",
@@ -11219,8 +11219,8 @@
             "PA"
         ],
         "KINDS OF BOOTS": [
+            "ANKLE",
             "COWBOY",
-            "DESERT",
             "GO-GO",
             "THIGH-HIGH"
         ],
@@ -11258,37 +11258,11 @@
         ]
     },
     "2024-08-18": {
-        "PLAYGROUND EQUIPMENT": [
-            "MONKEY BARS",
-            "SLIDE",
-            "SWING",
-            "TEETER-TOTTER"
-        ],
-        "SHOES": [
-            "ESPADRILLE",
-            "FLIP-FLOP",
-            "MARY JANE",
-            "OXFORD"
-        ],
-        "DESCRIBED AS DRY": [
-            "DESERT",
-            "HUMOR",
-            "MARTINI",
-            "TEETOTALER"
-        ],
-        "ASSOCIATED WITH NUMBERS": [
-            "DEVIL",
-            "INTRO",
-            "JAMES BOND",
-            "MARIJUANA"
-        ]
-    },
-    "2024-08-19": {
-        "CANDY PIECES": [
-            "KISS",
-            "NERD",
-            "RUNT",
-            "WHOPPER"
+        "ALARM CLOCK BUTTONS": [
+            "ALARM",
+            "HOUR",
+            "SNOOZE",
+            "TIME SET"
         ],
         "\u201cHERE\u2019S A THOUGHT ...\u201d": [
             "PERHAPS",
@@ -11296,17 +11270,43 @@
             "SUPPOSE",
             "WHAT IF"
         ],
-        "ALARM CLOCK BUTTONS": [
-            "ALARM",
-            "HOUR",
-            "SNOOZE",
-            "TIME SET"
+        "CANDY PIECES": [
+            "KISS",
+            "NERD",
+            "RUNT",
+            "WHOPPER"
         ],
-        "SEVEN DWARVES MINUS LAST LETTER": [
+        "SEVEN DWARFS MINUS LAST LETTER": [
             "DO",
             "DOPE",
             "GRUMP",
             "SLEEP"
+        ]
+    },
+    "2024-08-19": {
+        "MUSIC GENRES": [
+            "BLUES",
+            "COUNTRY",
+            "FOLK",
+            "ROCK"
+        ],
+        "BRATWURST GO-WITHS": [
+            "BRAT",
+            "BUN",
+            "MUSTARD",
+            "SAUERKRAUT"
+        ],
+        "YOGA POSES": [
+            "CHAIR",
+            "MOUNTAIN",
+            "TREE",
+            "WARRIOR"
+        ],
+        "STARTING WITH PIXAR MOVIES": [
+            "COCONUT",
+            "SOULMATE",
+            "UPDO",
+            "WALLET"
         ]
     },
     "2024-08-20": {
@@ -11328,7 +11328,7 @@
             "LION",
             "RAM"
         ],
-        "SUBJECTS IN DR. SEUSS TITLES": [
+        "DR. SEUSS TITLE FIGURES": [
             "CAT",
             "GRINCH",
             "POP",
@@ -11336,17 +11336,17 @@
         ]
     },
     "2024-08-21": {
-        "THINGS THAT ARE INFLATED": [
-            "BALLOON",
-            "BASKETBALL",
-            "FLOATIE",
-            "TIRE"
-        ],
         "COVER WITH A THICK LAYER": [
             "CAKE",
             "COAT",
             "PLASTER",
             "SMEAR"
+        ],
+        "THINGS THAT ARE INFLATED": [
+            "BALLOON",
+            "BASKETBALL",
+            "FLOATIE",
+            "TIRE"
         ],
         "KINDS OF CHARTS": [
             "BAR",
@@ -11521,12 +11521,12 @@
         "PLAYGROUND EQUIPMENT": [
             "MONKEY BARS",
             "SLIDE",
-            "SWING",
+            "SWINGS",
             "TEETER-TOTTER"
         ],
-        "FOUND AT THE END OF A CORD": [
-            "BALLOON",
-            "FISH HOOK",
+        "FOUND AT THE END OF A STRING/CORD": [
+            "PENDULUM",
+            "TEA BAG",
             "TETHERBALL",
             "YO-YO"
         ],
@@ -11544,6 +11544,12 @@
         ]
     },
     "2024-08-29": {
+        "KINDS OF PIANOS": [
+            "ELECTRONIC",
+            "GRAND",
+            "PLAYER",
+            "UPRIGHT"
+        ],
         "DEEM": [
             "CONSIDER",
             "COUNT",
@@ -11556,12 +11562,6 @@
             "HOWARD",
             "SMITH"
         ],
-        "KINDS OF PIANOS": [
-            "ELECTRONIC",
-            "GRAND",
-            "PLAYER",
-            "UPRIGHT"
-        ],
         "SECOND NAMES IN COMPANIES WITH AMPERSANDS": [
             "GAMBLE",
             "JOHNSON",
@@ -11570,11 +11570,11 @@
         ]
     },
     "2024-08-30": {
-        "SPARKLY OPULENT THINGS": [
-            "CHAMPAGNE",
+        "SPARKLING THINGS": [
             "DIAMOND",
             "GLITTER",
-            "GOLD"
+            "GOLD",
+            "SEQUIN"
         ],
         "PARTICIPATE IN SUMMER OLYMPIC EVENTS": [
             "BOX",
@@ -11622,7 +11622,7 @@
         ]
     },
     "2024-09-01": {
-        "COOK ON A PAN": [
+        "COOK IN A PAN": [
             "BROWN",
             "CHAR",
             "GRILL",
@@ -11637,8 +11637,8 @@
         "SHADES OF BLACK": [
             "CHARCOAL",
             "JET",
-            "LICORICE",
-            "RAVEN"
+            "RAVEN",
+            "SABLE"
         ],
         "WHERE YOU MIGHT FIND \u201cA DRIVER\u201d": [
             "GOLF BAG",
@@ -11700,19 +11700,19 @@
         ]
     },
     "2024-09-04": {
-        "PUPPY PURCHASES": [
-            "BED",
-            "BOWL",
-            "COLLAR",
-            "CRATE"
-        ],
         "VERY SMALL AMOUNT": [
             "HINT",
             "TOUCH",
             "TRACE",
             "SHRED"
         ],
-        "BE A PARTY PERSON": [
+        "PUPPY PURCHASES": [
+            "BED",
+            "BOWL",
+            "COLLAR",
+            "CRATE"
+        ],
+        "HELP PUT ON A PARTY": [
             "CATER",
             "HOST",
             "THROW",
@@ -11726,29 +11726,29 @@
         ]
     },
     "2024-09-05": {
-        "RESIDE": [
-            "DWELL",
-            "INHABIT",
-            "LIVE",
-            "STAY"
+        "HAIR SALON OFFERINGS": [
+            "BLOWOUT",
+            "COLOR",
+            "CUT",
+            "TRIM"
         ],
-        "DECREASE": [
-            "DECLINE",
-            "DROP",
-            "DWINDLE",
-            "EBB"
+        "CRITICIZE": [
+            "BASH",
+            "BLAST",
+            "PAN",
+            "SLAM"
         ],
-        "DOOFUS": [
-            "CLOWN",
-            "DWEEB",
-            "SAP",
-            "TURKEY"
+        "OBTAIN": [
+            "BAG",
+            "LAND",
+            "SCORE",
+            "SNAG"
         ],
-        "MEMBERS OF A SEPTET": [
-            "DWARF",
-            "SEA",
-            "SIN",
-            "WONDER"
+        "MEASURED IN FOOTBALL STATS": [
+            "ATTEMPT",
+            "RECEPTION",
+            "SACK",
+            "YARD"
         ]
     },
     "2024-09-06": {
@@ -11767,13 +11767,13 @@
         "THINGS RECEIVED IN THE MAIL": [
             "BILL",
             "CARD",
-            "CATALOGUE",
+            "CATALOG",
             "LETTER"
         ],
         "WHAT \u201cSPRING\u201d MIGHT REFER TO": [
             "BOUNCE",
             "COIL",
-            "FOUNTAIN",
+            "GEYSER",
             "SEASON"
         ]
     },
@@ -11784,7 +11784,7 @@
             "ROTATE",
             "SCALE"
         ],
-        "USED TO START A HOLE IN GOLF": [
+        "THINGS USED IN GOLF": [
             "BALL",
             "DRIVER",
             "GLOVE",
@@ -11796,7 +11796,7 @@
             "ROCKS",
             "TANK"
         ],
-        "COMPANIES WHOSE LOGOS FEATURE HORSES": [
+        "LOGOS WITH HORSES": [
             "COACH",
             "GODIVA",
             "MUSTANG",
@@ -11874,7 +11874,7 @@
             "STARS",
             "THUMBS"
         ],
-        "WHERE TO FIND KINGS": [
+        "THINGS WITH KINGS": [
             "CHECKERS",
             "DECK OF CARDS",
             "MONARCHY",
@@ -11892,7 +11892,7 @@
             "KERNEL",
             "NUGGET",
             "PEARL",
-            "WORDS"
+            "TIDBIT"
         ],
         "FEATURED IN \u201cJURASSIC PARK\u201d": [
             "AMBER",
@@ -11934,32 +11934,6 @@
         ]
     },
     "2024-09-13": {
-        "BEVERAGES": [
-            "JUICE",
-            "MILK",
-            "PUNCH",
-            "SODA"
-        ],
-        "CARE FOR A PLANT": [
-            "FERTILIZE",
-            "POT",
-            "PRUNE",
-            "WATER"
-        ],
-        "ITEM SOLD IN PAIRS": [
-            "BOOKEND",
-            "CHOPSTICK",
-            "EARBUD",
-            "SOCK"
-        ],
-        "BUGS PLUS STARTING LETTER": [
-            "BLOUSE",
-            "PANT",
-            "SMITE",
-            "STICK"
-        ]
-    },
-    "2024-09-14": {
         "VITALITY": [
             "ENERGY",
             "JUICE",
@@ -11985,30 +11959,56 @@
             "VOLT"
         ]
     },
+    "2024-09-14": {
+        "WINE BOTTLE INFO": [
+            "GRAPE",
+            "REGION",
+            "VINTAGE",
+            "WINERY"
+        ],
+        "CONSOLE INPUTS": [
+            "BUTTON",
+            "KNOB",
+            "SLIDER",
+            "SWITCH"
+        ],
+        "PREFIXES": [
+            "PRO",
+            "RETRO",
+            "SUB",
+            "SUPER"
+        ],
+        "___ KING": [
+            "BURGER",
+            "CALIFORNIA",
+            "LION",
+            "PROM"
+        ]
+    },
     "2024-09-15": {
-        "HAIR SALON OFFERINGS": [
-            "BLOWOUT",
-            "COLOR",
-            "CUT",
-            "TRIM"
+        "RESIDE": [
+            "DWELL",
+            "INHABIT",
+            "LIVE",
+            "STAY"
         ],
-        "CRITICIZE": [
-            "BASH",
-            "BLAST",
-            "PAN",
-            "SLAM"
+        "DECREASE": [
+            "DECLINE",
+            "DROP",
+            "DWINDLE",
+            "EBB"
         ],
-        "OBTAIN": [
-            "BAG",
-            "LAND",
-            "SCORE",
-            "SNAG"
+        "DOOFUS": [
+            "CLOWN",
+            "DWEEB",
+            "SAP",
+            "TURKEY"
         ],
-        "MEASURED IN FOOTBALL STATS": [
-            "ATTEMPT",
-            "RECEPTION",
-            "SACK",
-            "YARD"
+        "MEMBER OF A SEPTET": [
+            "DWARF",
+            "SEA",
+            "SIN",
+            "WONDER"
         ]
     },
     "2024-09-16": {
@@ -12018,17 +12018,17 @@
             "PRINCIPAL",
             "SUPREME"
         ],
-        "OVERLY SENTIMENTAL WORK": [
-            "CHEESE",
-            "CORN",
-            "MUSH",
-            "PAP"
-        ],
         "SPIKY THINGS": [
             "CACTUS",
             "HEDGEHOG",
             "MACE",
             "PINEAPPLE"
+        ],
+        "OVERLY SENTIMENTAL WORK": [
+            "CHEESE",
+            "CORN",
+            "MUSH",
+            "PAP"
         ],
         "THINGS THAT ARE CAPPED": [
             "BOTTLE",
@@ -12038,10 +12038,10 @@
         ]
     },
     "2024-09-17": {
-        "GET EXCITED": [
+        "GET EXCITED, WITH \"UP\"": [
             "AMP",
+            "FIRE",
             "HYPE",
-            "JAZZ",
             "PSYCH"
         ],
         "KINDS OF SHOES": [
@@ -12090,58 +12090,6 @@
         ]
     },
     "2024-09-19": {
-        "WINE BOTTLE INFO": [
-            "GRAPE",
-            "REGION",
-            "VINTAGE",
-            "WINERY"
-        ],
-        "CONSOLE INPUTS": [
-            "BUTTON",
-            "KNOB",
-            "SLIDER",
-            "SWITCH"
-        ],
-        "PREFIXES": [
-            "PRO",
-            "RETRO",
-            "SUB",
-            "SUPER"
-        ],
-        "___ KING": [
-            "BURGER",
-            "CALIFORNIA",
-            "LION",
-            "PROM"
-        ]
-    },
-    "2024-09-20": {
-        "PRESUME": [
-            "FIGURE",
-            "IMAGINE",
-            "SUSPECT",
-            "THINK"
-        ],
-        "SOMEBODY": [
-            "CHARACTER",
-            "INDIVIDUAL",
-            "PARTY",
-            "PERSON"
-        ],
-        "CHARACTERS IN \u201cTHE EMPIRE STRIKES BACK\u201d": [
-            "BOBA",
-            "CHEWY",
-            "EMPEROR",
-            "SOLO"
-        ],
-        "WORDS AFTER \u201cKITTY\u201d": [
-            "CAT",
-            "CORNER",
-            "HAWK",
-            "LITTER"
-        ]
-    },
-    "2024-09-21": {
         "PREFIX MEANING \u201cVERY\u201d": [
             "EXTRA",
             "HYPER",
@@ -12165,6 +12113,58 @@
             "CHAMPAGNE",
             "NICE",
             "REUNION"
+        ]
+    },
+    "2024-09-20": {
+        "PRESUME": [
+            "FIGURE",
+            "IMAGINE",
+            "SUSPECT",
+            "THINK"
+        ],
+        "SOMEBODY": [
+            "CHARACTER",
+            "INDIVIDUAL",
+            "PARTY",
+            "PERSON"
+        ],
+        "CHARACTERS IN \u201cTHE EMPIRE STRIKES BACK,\" FAMILIARLY": [
+            "BOBA",
+            "CHEWIE",
+            "EMPEROR",
+            "SOLO"
+        ],
+        "WORDS AFTER \u201cKITTY\u201d": [
+            "CAT",
+            "CORNER",
+            "HAWK",
+            "LITTER"
+        ]
+    },
+    "2024-09-21": {
+        "CLAIRVOYANT": [
+            "MEDIUM",
+            "MYSTIC",
+            "ORACLE",
+            "PSYCHIC"
+        ],
+        "SPECIAL EDITION ADJECTIVES": [
+            "COLLECTIBLE",
+            "EXCLUSIVE",
+            "LIMITED",
+            "RARE"
+        ],
+        "\u201cGREAT JOB!\u201d": [
+            "IMPRESSIVE",
+            "NICE",
+            "PROPS",
+            "WELL DONE"
+        ],
+        "EXTREMELY": [
+            "AWFUL",
+            "BLOODY",
+            "REAL",
+            "WAY"
         ]
     },
     "2024-09-22": {
@@ -12194,17 +12194,17 @@
         ]
     },
     "2024-09-23": {
-        "BIT OF LAND FOR GROWING": [
-            "BED",
-            "PARCEL",
-            "PATCH",
-            "PLOT"
-        ],
         "NOT SMOOTH, AS TERRAIN": [
             "BUMPY",
             "ROUGH",
             "RUGGED",
             "UNEVEN"
+        ],
+        "BIT OF LAND FOR GROWING": [
+            "BED",
+            "PARCEL",
+            "PATCH",
+            "PLOT"
         ],
         "MEMBER OF A CARTOON DUO": [
             "CHIP",
@@ -12220,11 +12220,11 @@
         ]
     },
     "2024-09-24": {
-        "ONLINE CONTENT CREATOR": [
-            "AMBASSADOR",
-            "INFLUENCER",
-            "REVIEWER",
-            "STREAMER"
+        "INSPIRED": [
+            "CREATIVE",
+            "FRESH",
+            "NOVEL",
+            "ORIGINAL"
         ],
         "PROCURE IN ADVANCE": [
             "BOOK",
@@ -12232,17 +12232,17 @@
             "RESERVE",
             "SECURE"
         ],
-        "INSPIRED": [
-            "CREATIVE",
-            "FRESH",
-            "NOVEL",
-            "ORIGINAL"
-        ],
         "BIT OF PARTY DECORATION": [
             "BALLOON",
             "BANNER",
             "CONFETTI",
             "GARLAND"
+        ],
+        "ONLINE PERSONALITY": [
+            "AMBASSADOR",
+            "INFLUENCER",
+            "MODEL",
+            "STREAMER"
         ]
     },
     "2024-09-25": {
@@ -12310,7 +12310,7 @@
             "SUBSTANCE",
             "WEIGHT"
         ],
-        "ACTIONS IN FANTASY FOOTBALL": [
+        "ACTIONS IN FANTASY SPORTS": [
             "BENCH",
             "DRAFT",
             "START",
@@ -12324,29 +12324,29 @@
         ]
     },
     "2024-09-28": {
-        "CLAIRVOYANT": [
-            "MEDIUM",
-            "MYSTIC",
-            "ORACLE",
-            "PSYCHIC"
+        "COMPOSITE": [
+            "BLEND",
+            "COMPOUND",
+            "CROSS",
+            "HYBRID"
         ],
-        "SPECIAL EDITION ADJECTIVES": [
-            "COLLECTIBLE",
-            "EXCLUSIVE",
-            "LIMITED",
-            "RARE"
+        "EMBED": [
+            "LODGE",
+            "PLANT",
+            "STICK",
+            "WEDGE"
         ],
-        "\u201cGREAT JOB!\u201d": [
-            "IMPRESSIVE",
-            "NICE",
-            "PROPS",
-            "WELL DONE"
+        "ITEMS IN A MONOPOLY BOX": [
+            "DEED",
+            "HOTEL",
+            "HOUSE",
+            "TOKEN"
         ],
-        "EXTREMELY": [
-            "AWFUL",
-            "BLOODY",
-            "REAL",
-            "WAY"
+        "___ CONTROL": [
+            "BIRTH",
+            "CRUISE",
+            "QUALITY",
+            "REMOTE"
         ]
     },
     "2024-09-29": {
@@ -12383,7 +12383,7 @@
             "STEAM"
         ],
         "COMMON PERFUME INGREDIENTS": [
-            "AMBER",
+            "AMBERGRIS",
             "MUSK",
             "ROSE",
             "VANILLA"
@@ -12395,10 +12395,10 @@
             "WALLACE"
         ],
         "CAPITAL CITY HOMOPHONES": [
-            "COBBLE",
             "KETO",
             "ROAM",
-            "SOPHIA"
+            "SOPHIA",
+            "SOUL"
         ]
     },
     "2024-10-01": {
@@ -12446,7 +12446,7 @@
             "JOKER",
             "TAXI DRIVER"
         ],
-        "FAMOUS FOR THEIR ARMS (OR LACK THEREOF)": [
+        "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)": [
             "OCTOPUS",
             "SHIVA",
             "SLOT MACHINE",
@@ -12570,8 +12570,8 @@
             "SKRRT",
             "VROOM"
         ],
-        "SOUNDS FOR LAUGHTER": [
-            "HEE-HAW",
+        "SOUNDS OF LAUGHTER": [
+            "HAR-HAR",
             "HOOT",
             "WHOOP",
             "YUK"
@@ -12616,11 +12616,11 @@
             "FOAM",
             "FROTH"
         ],
-        "THRIVING PERIOD": [
+        "BURGEON": [
             "BLOSSOM",
-            "HEYDAY",
-            "PEAK",
-            "PRIME"
+            "DEVELOP",
+            "MATURE",
+            "PROGRESS"
         ],
         "MUSIC PUBLICATIONS": [
             "BILLBOARD",
@@ -12628,7 +12628,7 @@
             "PITCHFORK",
             "SPIN"
         ],
-        "ENDING WITH UTENSILS": [
+        "ENDING WITH TABLEWARE": [
             "BOILERPLATE",
             "BUTTERCUP",
             "JACKKNIFE",
@@ -12648,7 +12648,7 @@
             "ILL",
             "RAD"
         ],
-        "MOVIES WITH THREE-LETTER TITLES": [
+        "MOVIES": [
             "BIG",
             "ELF",
             "HER",
@@ -12674,21 +12674,21 @@
             "SPLASH",
             "SWIM"
         ],
-        "BRASHNESS": [
-            "BRASS",
-            "CHEEK",
-            "NERVE",
-            "SAUCE"
-        ],
         "ADDITIONAL BENEFIT": [
             "BONUS",
             "EXTRA",
             "FROSTING",
             "GRAVY"
+        ],
+        "BRASHNESS": [
+            "BRASS",
+            "CHEEK",
+            "NERVE",
+            "SAUCE"
         ]
     },
     "2024-10-12": {
-        "ACCESSORIES MADE OF FABRIC": [
+        "DRAPED ACCESSORIES": [
             "SCARF",
             "SHAWL",
             "STOLE",
@@ -12758,7 +12758,7 @@
             "PONY",
             "TWIST"
         ],
-        "THINGS WITH LEAVES": [
+        "THINGS THAT CAN HAVE LEAVES": [
             "BOOK",
             "SALAD",
             "TABLE",
@@ -12798,7 +12798,7 @@
             "NEXT",
             "SOON"
         ],
-        "TOURNAMENT TERMS": [
+        "PARTS OF A TOURNAMENT SETUP": [
             "BRACKET",
             "BYE",
             "ROUND",
@@ -12928,17 +12928,17 @@
             "NAVY",
             "PINTO"
         ],
-        "AUTOMATIC GEAR SHIFTER POSITIONS": [
-            "DRIVE",
-            "LOW",
-            "NEUTRAL",
-            "REVERSE"
-        ],
         "ATTRACT": [
             "DRAW",
             "GRAB",
             "HOOK",
             "PULL"
+        ],
+        "AUTOMATIC GEAR SHIFTER POSITIONS": [
+            "DRIVE",
+            "LOW",
+            "NEUTRAL",
+            "REVERSE"
         ],
         "___POOL": [
             "CAR",
@@ -12960,8 +12960,8 @@
             "HATCH",
             "MASTERMIND"
         ],
-        "NASA MISSIONS": [
-            "EXPLORER",
+        "NASA SPACECRAFT": [
+            "GALILEO",
             "PIONEER",
             "VIKING",
             "VOYAGER"
@@ -13006,7 +13006,7 @@
             "SCHEDULE",
             "SLATE"
         ],
-        "NYT APPS": [
+        "NYT OFFERINGS": [
             "AUDIO",
             "COOKING",
             "GAMES",
@@ -13020,7 +13020,7 @@
         ],
         "FRENCH WORDS": [
             "ADIEU",
-            "COMMENT",
+            "BELLE",
             "PAIN",
             "TEMPS"
         ]
@@ -13032,17 +13032,17 @@
             "POINT",
             "TITTLE"
         ],
-        "IPHONE MESSAGE TAPBACK RESPONSES": [
-            "EXCLAMATION POINTS",
-            "HEART",
-            "QUESTION MARK",
-            "THUMBS UP"
-        ],
         "EVENT WITH DANCING": [
             "BALL",
             "FORMAL",
             "HOP",
             "RAVE"
+        ],
+        "IPHONE MESSAGE TAPBACK RESPONSES": [
+            "EXCLAMATION POINTS",
+            "HEART",
+            "QUESTION MARK",
+            "THUMBS UP"
         ],
         "\u201cPAN\u201d": [
             "BAD REVIEW",
@@ -13084,7 +13084,7 @@
             "SMART",
             "WISE"
         ],
-        "AMBIANCE": [
+        "AMBIENCE": [
             "AIR",
             "MOOD",
             "FEELING",
@@ -13104,17 +13104,17 @@
         ]
     },
     "2024-10-28": {
-        "INDICATE": [
-            "MEAN",
-            "SIGNIFY",
-            "SPELL",
-            "SUGGEST"
-        ],
         "AUDIO APPS": [
             "AUDIBLE",
             "PANDORA",
             "SHAZAM",
             "TIDAL"
+        ],
+        "INDICATE": [
+            "MEAN",
+            "SIGNIFY",
+            "SPELL",
+            "SUGGEST"
         ],
         "CHURCH OF ENGLAND WEDDING VOW VERBS": [
             "CHERISH",
@@ -13252,7 +13252,7 @@
             "MOUNTAIN CLIMBER",
             "PLANK"
         ],
-        "KIND OF EARRINGS": [
+        "KINDS OF EARRINGS": [
             "CHANDELIER",
             "DROP",
             "HOOP",
@@ -13370,7 +13370,7 @@
             "SCRAMBLE",
             "STEW"
         ],
-        "REPUTATION": [
+        "PUBLIC STANDING": [
             "CHARACTER",
             "IMAGE",
             "NAME",
@@ -13468,29 +13468,29 @@
         ]
     },
     "2024-11-11": {
-        "ATTAIN": [
-            "EARN",
-            "LAND",
-            "SCORE",
-            "WIN"
+        "CANDY BARS": [
+            "CRUNCH",
+            "DOVE",
+            "MARS",
+            "PAYDAY"
         ],
-        "LARGE GROUP": [
-            "CROWD",
-            "FLOCK",
-            "HOST",
-            "SEA"
+        "GIST": [
+            "CORE",
+            "MEAT",
+            "SUBSTANCE",
+            "THRUST"
         ],
-        "PARTS OF A SHIP": [
-            "ANCHOR",
-            "BOW",
-            "BRIDGE",
-            "DECK"
+        "KINDS OF BRAS": [
+            "DEMI",
+            "PUSH-UP",
+            "SPORTS",
+            "WIRELESS"
         ],
-        "ASSOCIATED IN CHINESE PHILOSOPHY": [
-            "EXPANSIVE",
-            "LIGHT",
-            "MASCULINE",
-            "YANG"
+        "___ BIRD": [
+            "BIG",
+            "EARLY",
+            "LADY",
+            "SUE"
         ]
     },
     "2024-11-12": {
@@ -13552,19 +13552,19 @@
             "EXHAUST",
             "SAP"
         ],
-        "WORDS ON A RESTAURANT RECEIPT": [
-            "TAX",
-            "TIP",
-            "TOTAL",
-            "SIGNATURE"
-        ],
         "PLAY MUSIC WITH PASSION": [
             "GROOVE",
             "JAM",
             "ROCK",
             "SHRED"
         ],
-        "SUGAR FORMATS": [
+        "WORDS ON A RESTAURANT RECEIPT": [
+            "TAX",
+            "TIP",
+            "TOTAL",
+            "SIGNATURE"
+        ],
+        "FORMS OF SUGAR": [
             "CUBE",
             "GRAIN",
             "POWDER",
@@ -13572,29 +13572,29 @@
         ]
     },
     "2024-11-15": {
-        "CHOCOLATE BARS": [
-            "CRUNCH",
-            "DOVE",
-            "PAYDAY",
-            "SYMPHONY"
+        "FISSURE": [
+            "CRACK",
+            "HOLE",
+            "LEAK",
+            "PUNCTURE"
         ],
-        "GIST": [
-            "CORE",
-            "MEAT",
-            "SUBSTANCE",
-            "THRUST"
+        "ELEMENTS OF WRITING": [
+            "LETTER",
+            "PHRASE",
+            "SENTENCE",
+            "WORD"
         ],
-        "KINDS OF BRAS": [
-            "DEMI",
-            "PUSH-UP",
-            "SPORTS",
-            "WIRELESS"
+        "INSTRUMENTS YOU BLOW INTO": [
+            "JUG",
+            "PIPE",
+            "RECORDER",
+            "WHISTLE"
         ],
-        "___ BIRD": [
-            "BIG",
-            "EARLY",
-            "LADY",
-            "SUE"
+        "___ OF TIME": [
+            "NICK",
+            "PASSAGE",
+            "SANDS",
+            "WASTE"
         ]
     },
     "2024-11-16": {
@@ -13636,7 +13636,7 @@
             "SLINKY",
             "SNUG"
         ],
-        "OCCASIONS ONE MIGHT KNEEL": [
+        "OCCASIONS WHEN ONE MIGHT KNEEL": [
             "APOLOGY",
             "DUBBING",
             "PRAYER",
@@ -13720,7 +13720,7 @@
             "STIR",
             "STRAIN"
         ],
-        "WAYS TO VISUALIZE HIERARCHY": [
+        "ORGANIZATIONAL STRUCTURES, METAPHORICALLY": [
             "CHAIN",
             "LADDER",
             "PYRAMID",
@@ -13780,29 +13780,29 @@
         ]
     },
     "2024-11-23": {
-        "FANTASY CREATURES": [
-            "DRAGON",
-            "GIANT",
-            "PIXIE",
-            "TROLL"
+        "TELLING OF EVENTS": [
+            "ACCOUNT",
+            "CHRONICLE",
+            "DESCRIPTION",
+            "STORY"
         ],
-        "EMAIL FOLDERS": [
-            "DRAFTS",
-            "SENT",
-            "SPAM",
-            "TRASH"
+        "SECRETED BY TREES": [
+            "GUM",
+            "LATEX",
+            "RESIN",
+            "SAP"
         ],
-        "SODA BRANDS": [
-            "CRUSH",
-            "MUG",
-            "SPRITE",
-            "STARRY"
+        "THINGS ON STICKS": [
+            "BALL-IN-CUP",
+            "CORN DOG",
+            "COTTON SWAB",
+            "LOLLIPOP"
         ],
-        "ANIMAL HOMOPHONES": [
-            "BORE",
-            "LINKS",
-            "PHISH",
-            "TOWED"
+        "BLACK OR RED": [
+            "BALANCE SHEET",
+            "CHECKERS",
+            "LICORICE",
+            "ROULETTE"
         ]
     },
     "2024-11-24": {
@@ -13832,29 +13832,29 @@
         ]
     },
     "2024-11-25": {
-        "FISSURE": [
-            "CRACK",
-            "HOLE",
-            "LEAK",
-            "PUNCTURE"
+        "ATTAIN": [
+            "EARN",
+            "LAND",
+            "SCORE",
+            "WIN"
         ],
-        "GRAMMAR ELEMENTS": [
-            "LETTER",
-            "PHRASE",
-            "SENTENCE",
-            "WORD"
+        "LARGE GROUP": [
+            "CROWD",
+            "FLOCK",
+            "HOST",
+            "SEA"
         ],
-        "INSTRUMENTS YOU BLOW INTO": [
-            "JUG",
-            "PIPE",
-            "RECORDER",
-            "WHISTLE"
+        "PARTS OF A SHIP": [
+            "ANCHOR",
+            "BOW",
+            "BRIDGE",
+            "DECK"
         ],
-        "___ OF TIME": [
-            "NICK",
-            "PASSAGE",
-            "SANDS",
-            "WASTE"
+        "ASSOCIATED PRINCIPLES IN CHINESE PHILOSOPHY": [
+            "EXPANSIVE",
+            "LIGHT",
+            "MASCULINE",
+            "YANG"
         ]
     },
     "2024-11-26": {
@@ -13884,32 +13884,6 @@
         ]
     },
     "2024-11-27": {
-        "TELLING OF EVENTS": [
-            "ACCOUNT",
-            "CHRONICLE",
-            "DESCRIPTION",
-            "STORY"
-        ],
-        "SECRETED BY TREES": [
-            "GUM",
-            "LATEX",
-            "RESIN",
-            "SAP"
-        ],
-        "THINGS ON STICKS": [
-            "BALL-IN-CUP",
-            "CORN DOG",
-            "COTTON SWAB",
-            "LOLLIPOP"
-        ],
-        "BLACK OR RED": [
-            "BALANCE SHEET",
-            "CHECKERS",
-            "LICORICE",
-            "ROULETTE"
-        ]
-    },
-    "2024-11-28": {
         "NOT WORKING RELIABLY": [
             "BUGGY",
             "ERRATIC",
@@ -13933,6 +13907,32 @@
             "RUBBER",
             "TRIBUTE",
             "WEDDING"
+        ]
+    },
+    "2024-11-28": {
+        "APPRECIATION": [
+            "CREDIT",
+            "PRAISE",
+            "RECOGNITION",
+            "THANKS"
+        ],
+        "FRAUDSTER": [
+            "CHEAT",
+            "CON",
+            "FAKE",
+            "QUACK"
+        ],
+        "EAT VORACIOUSLY": [
+            "BOLT",
+            "DOWN",
+            "GOBBLE",
+            "SCARF"
+        ],
+        "___ TUESDAY": [
+            "FAT",
+            "GIVING",
+            "SUPER",
+            "TACO"
         ]
     },
     "2024-11-29": {
@@ -14020,7 +14020,7 @@
             "HERALD",
             "TRUMPET"
         ],
-        "USE MALLETS": [
+        "THINGS INVOLVING MALLETS": [
             "CARPENTRY",
             "CROQUET",
             "WHAC-A-MOLE",
@@ -14066,29 +14066,29 @@
         ]
     },
     "2024-12-04": {
-        "UTOPIA": [
-            "PARADISE",
-            "SEVENTH HEAVEN",
-            "SHANGRI-LA",
-            "XANADU"
+        "STEER": [
+            "DIRECT",
+            "GUIDE",
+            "LEAD",
+            "SHEPHERD"
         ],
-        "THINGS YOU SHAKE": [
-            "HAIRSPRAY",
-            "MAGIC 8 BALL",
-            "SALAD DRESSING",
-            "SNOWGLOBE"
+        "THINGS WITH NEEDLE/S": [
+            "COMPASS",
+            "PINE TREE",
+            "SEWING KIT",
+            "TURNTABLE"
         ],
-        "PROPER NOUN PORTMANTEAUX": [
-            "JAZZERCISE",
-            "PARALYMPICS",
-            "POKEMON",
-            "WIKIPEDIA"
+        "FIGURES IN GREEK MYTH": [
+            "ATLAS",
+            "ECHO",
+            "HELEN",
+            "PAN"
         ],
-        "ENDING IN SYNONYMS FOR \u201cFRIEND\u201d": [
-            "KETCHUM",
-            "PAYPAL",
-            "PRIMATE",
-            "ROSEBUD"
+        "STARTING WITH SYNONYMS FOR LAVATORY": [
+            "CANDLE",
+            "LOOFAH",
+            "JOHNSON",
+            "TOILETRIES"
         ]
     },
     "2024-12-05": {
@@ -14107,8 +14107,8 @@
         "TECH COMPANIES": [
             "AMAZON",
             "APPLE",
-            "ORACLE",
-            "SAP"
+            "INTUIT",
+            "ORACLE"
         ],
         "___STONE": [
             "BRIM",
@@ -14196,55 +14196,55 @@
         ]
     },
     "2024-12-09": {
-        "\u201cLIONS AND TIGERS AND BEARS, OH MY!\u201d": [
-            "BEARS",
-            "LIONS",
-            "OH MY",
-            "TIGERS"
+        "DELIBERATION": [
+            "CONSIDERATION",
+            "REFLECTION",
+            "SCRUTINY",
+            "THOUGHT"
         ],
-        "BELOVED, AS A FRIEND": [
-            "CLOSE",
-            "DEAR",
-            "INTIMATE",
-            "TIGHT"
+        "USED IN STARTING A FIRE": [
+            "FLINT",
+            "LIGHTER",
+            "MAGNIFYING GLASS",
+            "MATCHES"
         ],
-        "WORDS THAT SOUND LIKE PLURAL LETTERS": [
-            "BEES",
-            "EASE",
-            "GEEZ",
-            "USE"
+        "USED TO VIEW A BIOLOGICAL SAMPLE": [
+            "MICROSCOPE",
+            "SLIDE",
+            "SPECIMEN",
+            "STAIN"
         ],
-        "WHEN TRIPLED, HIT SONG TITLES": [
-            "BILLS",
-            "BYE",
-            "GIMME",
-            "PLEASE"
+        "WORDS AFTER \u201cX\u201d": [
+            "FACTOR",
+            "FILES",
+            "GAMES",
+            "RAY"
         ]
     },
     "2024-12-10": {
-        "STEER": [
-            "DIRECT",
-            "GUIDE",
-            "LEAD",
-            "SHEPHERD"
+        "GIVE A TITLE TO": [
+            "CALL",
+            "DUB",
+            "LABEL",
+            "NAME"
         ],
-        "THINGS WITH NEEDLE/S": [
-            "COMPASS",
-            "PINE TREE",
-            "SEWING KIT",
-            "TURNTABLE"
+        "PARTS OF A FLIGHT": [
+            "CRUISE",
+            "TAKEOFF",
+            "TAXI",
+            "TOUCHDOWN"
         ],
-        "FIGURES IN GREEK MYTH": [
-            "ATLAS",
-            "ECHO",
-            "HELEN",
-            "PAN"
+        "FEEL AROUND (FOR)": [
+            "FISH",
+            "FUMBLE",
+            "ROOT",
+            "RUMMAGE"
         ],
-        "STARTING WITH SYNONYMS FOR LAVATORY": [
-            "CANDLE",
-            "LOOFAH",
-            "JOHNSON",
-            "TOILETRIES"
+        "COUNTRIES MINUS FIRST LETTER": [
+            "INLAND",
+            "OLIVIA",
+            "RAN",
+            "WANDA"
         ]
     },
     "2024-12-11": {
@@ -14263,7 +14263,7 @@
         "PROPER NOUN PORTMANTEAUX": [
             "JAZZERCISE",
             "PARALYMPICS",
-            "POKEMON",
+            "POK\u00c9MON",
             "WIKIPEDIA"
         ],
         "ENDING IN SYNONYMS FOR \u201cFRIEND\u201d": [
@@ -14356,7 +14356,7 @@
             "CLOVE",
             "MACE",
             "NUTMEG",
-            "SAGE"
+            "PEPPER"
         ],
         "PERFORM POORLY": [
             "FLAIL",
@@ -14404,7 +14404,7 @@
         ]
     },
     "2024-12-17": {
-        "INTREPIDY": [
+        "INTREPIDITY": [
             "GRIT",
             "HEART",
             "NERVE",
