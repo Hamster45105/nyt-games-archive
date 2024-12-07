@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
     title.textContent = 'Strands Archive';
     subtitle.textContent = 'A list of all NYT Strands EVER + all confirmed future ones!';
     fetchSolutions(
-      './strands_solutions.json',
+      'https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json',
       'solutionsTable',
       (data, date) => {
         const solutionData = data[date];
