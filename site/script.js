@@ -89,3 +89,25 @@ function generateStrandsSolutionHTML(data, date) {
   solutionHTML += '</ul>';
   return solutionHTML;
 }
+
+// Function to fetch and display solutions
+function fetchSolutions(url, tableId, generateSolutionHTML, startIndex, includeNoColumn) {
+  fetch(url)
+    .then(response => response.json())
+    .then(data => {
+      const table = document.getElementById(tableId);
+      let index = startIndex;
+      for (const date in data) {
+        const row = table.insertRow();
+        if (includeNoColumn) {
+          const cellNo = row.insertCell();
+          cellNo.textContent = index++;
+        }
+        const cellDate = row.insertCell();
+        cellDate.textContent = date;
+        const cellSolution = row.insertCell();
+        cellSolution.innerHTML = generateSolutionHTML(data, date);
+      }
+    })
+    .catch(error => console.error('Error fetching solutions:', error));
+}
