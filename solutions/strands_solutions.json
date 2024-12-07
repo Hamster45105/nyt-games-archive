@@ -1,1 +1,3664 @@
-{}
+{
+    "2024-03-04": {
+        "clue": "Mark my words",
+        "spangram": "PUNCTUATION",
+        "themeWords": [
+            "APOSTROPHE",
+            "COLON",
+            "COMMA",
+            "HYPHEN",
+            "PERIOD",
+            "SLASH"
+        ]
+    },
+    "2024-03-05": {
+        "clue": "She\u2019ll have a ball",
+        "spangram": "CINDERELLA",
+        "themeWords": [
+            "DANCE",
+            "MIDNIGHT",
+            "PRINCE",
+            "PUMPKIN",
+            "SLIPPER",
+            "SPELL"
+        ]
+    },
+    "2024-03-06": {
+        "clue": "I gotta dip!",
+        "spangram": "GUACAMOLE",
+        "themeWords": [
+            "AVOCADO",
+            "CILANTRO",
+            "GARLIC",
+            "JALAPENO",
+            "LIME",
+            "TOMATO"
+        ]
+    },
+    "2024-03-07": {
+        "clue": "Don\u2019t do it!",
+        "spangram": "CARDINALSINS",
+        "themeWords": [
+            "ENVY",
+            "GLUTTONY",
+            "GREED",
+            "LUST",
+            "PRIDE",
+            "SLOTH",
+            "WRATH"
+        ]
+    },
+    "2024-03-08": {
+        "clue": "Do the do",
+        "spangram": "HAIRSTYLE",
+        "themeWords": [
+            "BEEHIVE",
+            "BRAID",
+            "DREADS",
+            "MOHAWK",
+            "PONYTAIL",
+            "TOPKNOT"
+        ]
+    },
+    "2024-03-09": {
+        "clue": "FRAGILE: handle with care",
+        "spangram": "BREAKABLE",
+        "themeWords": [
+            "BREAD",
+            "HEART",
+            "MOLD",
+            "PROMISE",
+            "RECORD",
+            "SILENCE",
+            "SWEAT"
+        ]
+    },
+    "2024-03-10": {
+        "clue": "Sounds good to me",
+        "spangram": "INSTRUMENTS",
+        "themeWords": [
+            "GUITAR",
+            "HARP",
+            "PIANO",
+            "SAXOPHONE",
+            "TRUMPET",
+            "VIOLIN"
+        ]
+    },
+    "2024-03-11": {
+        "clue": "To put it mildly",
+        "spangram": "EUPHEMISMS",
+        "themeWords": [
+            "DARN",
+            "FUDGE",
+            "GADZOOKS",
+            "GOLLY",
+            "HECK",
+            "JEEPERS",
+            "SHOOT"
+        ]
+    },
+    "2024-03-12": {
+        "clue": "Ruler\u2019s decree",
+        "spangram": "MEASUREMENTS",
+        "themeWords": [
+            "FATHOM",
+            "FOOT",
+            "FURLONG",
+            "INCH",
+            "LEAGUE",
+            "METER",
+            "YARD"
+        ]
+    },
+    "2024-03-13": {
+        "clue": "One thousand followers",
+        "spangram": "GRANDFINALE",
+        "themeWords": [
+            "CANYON",
+            "CENTRAL",
+            "JURY",
+            "PIANO",
+            "PRIZE",
+            "RAPIDS",
+            "SLAM"
+        ]
+    },
+    "2024-03-14": {
+        "clue": "Get animated",
+        "spangram": "LOONEYTUNES",
+        "themeWords": [
+            "BUGS",
+            "COYOTE",
+            "DAFFY",
+            "FOGHORN",
+            "PORKY",
+            "ROADRUNNER"
+        ]
+    },
+    "2024-03-15": {
+        "clue": "Old haunts",
+        "spangram": "SUPERNATURAL",
+        "themeWords": [
+            "GHOST",
+            "PHANTOM",
+            "SHADE",
+            "SPECTER",
+            "SPIRIT",
+            "WRAITH"
+        ]
+    },
+    "2024-03-16": {
+        "clue": "Grow up!",
+        "spangram": "PARENTHOOD",
+        "themeWords": [
+            "ADULT",
+            "BABY",
+            "FOAL",
+            "FROG",
+            "HORSE",
+            "LAMB",
+            "SHEEP",
+            "TADPOLE"
+        ]
+    },
+    "2024-03-17": {
+        "clue": "Outside interests",
+        "spangram": "FORECAST",
+        "themeWords": [
+            "BLIZZARD",
+            "HAIL",
+            "RAIN",
+            "SNOW",
+            "STORM",
+            "SUNSHINE",
+            "TORNADO"
+        ]
+    },
+    "2024-03-18": {
+        "clue": "World piece",
+        "spangram": "TERRAIN",
+        "themeWords": [
+            "DESERT",
+            "FOREST",
+            "MARSH",
+            "MOUNTAIN",
+            "PLAIN",
+            "SWAMP",
+            "TUNDRA"
+        ]
+    },
+    "2024-03-19": {
+        "clue": "That\u2019s fortunate",
+        "spangram": "LUCKYCHARMS",
+        "themeWords": [
+            "HORSESHOE",
+            "LADYBUG",
+            "PENNY",
+            "SHAMROCK",
+            "WISHBONE"
+        ]
+    },
+    "2024-03-20": {
+        "clue": "Back and forth",
+        "spangram": "PALINDROME",
+        "themeWords": [
+            "CIVIC",
+            "KAYAK",
+            "LEVEL",
+            "MADAM",
+            "NOON",
+            "RACECAR",
+            "ROTATOR"
+        ]
+    },
+    "2024-03-21": {
+        "clue": "What\u2019s the issue?",
+        "spangram": "MAGAZINES",
+        "themeWords": [
+            "HIGHLIGHTS",
+            "PEOPLE",
+            "SEVENTEEN",
+            "TIME",
+            "VOGUE",
+            "WIRED"
+        ]
+    },
+    "2024-03-22": {
+        "clue": "Animal sounds",
+        "spangram": "HOMOPHONES",
+        "themeWords": [
+            "CHORAL",
+            "DEAR",
+            "GRISLY",
+            "HOARSE",
+            "MOUSSE",
+            "MUSCLE",
+            "WAIL"
+        ]
+    },
+    "2024-03-23": {
+        "clue": "Romeo and Juliet",
+        "spangram": "STARCROSSED",
+        "themeWords": [
+            "BALCONY",
+            "FEUD",
+            "KISS",
+            "LOVE",
+            "POISON",
+            "TRAGEDY",
+            "TRYST"
+        ]
+    },
+    "2024-03-24": {
+        "clue": "Lock steps",
+        "spangram": "HAIRCARE",
+        "themeWords": [
+            "APPLY",
+            "CONDITION",
+            "LATHER",
+            "MOISTURIZE",
+            "RINSE",
+            "TOWEL"
+        ]
+    },
+    "2024-03-25": {
+        "clue": "Sign language",
+        "spangram": "ASTROLOGY",
+        "themeWords": [
+            "ARCHER",
+            "BULL",
+            "GOAT",
+            "SCALES",
+            "SCORPION",
+            "TWINS",
+            "VIRGIN"
+        ]
+    },
+    "2024-03-26": {
+        "clue": "That\u2019s fantastic!",
+        "spangram": "MYTHOLOGICAL",
+        "themeWords": [
+            "CENTAUR",
+            "CYCLOPS",
+            "DRAGON",
+            "FAIRY",
+            "MERMAID",
+            "OGRE"
+        ]
+    },
+    "2024-03-27": {
+        "clue": "This is where I draw the line",
+        "spangram": "GRAPHICART",
+        "themeWords": [
+            "CARTOON",
+            "COMIC",
+            "DESIGN",
+            "DOODLE",
+            "PORTRAIT",
+            "SKETCH"
+        ]
+    },
+    "2024-03-28": {
+        "clue": "Off the shelf",
+        "spangram": "GENRES",
+        "themeWords": [
+            "BIOGRAPHY",
+            "FANTASY",
+            "FICTION",
+            "HUMOR",
+            "MYSTERY",
+            "ROMANCE"
+        ]
+    },
+    "2024-03-29": {
+        "clue": "Pardon my French!",
+        "spangram": "LOANWORDS",
+        "themeWords": [
+            "APERITIF",
+            "BERET",
+            "BUREAU",
+            "CHAUFFEUR",
+            "CHIC",
+            "LIAISON"
+        ]
+    },
+    "2024-03-30": {
+        "clue": "Camouflage",
+        "spangram": "SPOTTY",
+        "themeWords": [
+            "CHEETAH",
+            "DALMATIAN",
+            "GIRAFFE",
+            "HYENA",
+            "LADYBUG",
+            "LEOPARD"
+        ]
+    },
+    "2024-03-31": {
+        "clue": "It\u2019s lit!",
+        "spangram": "ILLUMINATION",
+        "themeWords": [
+            "ANGLERFISH",
+            "BULB",
+            "FIREFLY",
+            "LANTERN",
+            "NEON",
+            "STAR"
+        ]
+    },
+    "2024-04-01": {
+        "clue": "What\u2019s so funny?",
+        "spangram": "HILARIOUS",
+        "themeWords": [
+            "CHORTLE",
+            "CHUCKLE",
+            "GUFFAW",
+            "HOOT",
+            "LAUGH",
+            "ROAR",
+            "TITTER"
+        ]
+    },
+    "2024-04-02": {
+        "clue": "Rolling in the aisles",
+        "spangram": "GROCERYSTORE",
+        "themeWords": [
+            "BAKERY",
+            "DAIRY",
+            "FROZEN",
+            "MEATS",
+            "PRODUCE",
+            "SEAFOOD"
+        ]
+    },
+    "2024-04-03": {
+        "clue": "Play time!",
+        "spangram": "BROADWAY",
+        "themeWords": [
+            "CABARET",
+            "CAROUSEL",
+            "CATS",
+            "GREASE",
+            "HAIRSPRAY",
+            "WICKED"
+        ]
+    },
+    "2024-04-04": {
+        "clue": "Consumerism",
+        "spangram": "LUNCHMONEY",
+        "themeWords": [
+            "BACON",
+            "BREAD",
+            "CABBAGE",
+            "CHIPS",
+            "CLAM",
+            "DOUGH",
+            "LETTUCE"
+        ]
+    },
+    "2024-04-05": {
+        "clue": "Am I blushing?",
+        "spangram": "REDALERT",
+        "themeWords": [
+            "BURGUNDY",
+            "CARDINAL",
+            "CINNAMON",
+            "STRAWBERRY",
+            "TOMATO"
+        ]
+    },
+    "2024-04-06": {
+        "clue": "Picture this",
+        "spangram": "PHOTOGRAPHY",
+        "themeWords": [
+            "CAMERA",
+            "FILTER",
+            "FLASH",
+            "LENS",
+            "LIGHT",
+            "TIMER",
+            "TRIPOD"
+        ]
+    },
+    "2024-04-07": {
+        "clue": "This\u2019ll all blow over",
+        "spangram": "LIGHTWEIGHT",
+        "themeWords": [
+            "BALLOON",
+            "BUBBLE",
+            "EYELASH",
+            "FEATHER",
+            "PAPER",
+            "STRAW"
+        ]
+    },
+    "2024-04-08": {
+        "clue": "It goes by fast",
+        "spangram": "TIMEPIECES",
+        "themeWords": [
+            "CENTURY",
+            "DECADE",
+            "HOUR",
+            "MINUTE",
+            "MONTH",
+            "SECOND",
+            "WEEK"
+        ]
+    },
+    "2024-04-09": {
+        "clue": "Can I have my quarter back?",
+        "spangram": "TEAMPLAYERS",
+        "themeWords": [
+            "COWBOY",
+            "DOLPHIN",
+            "PANTHER",
+            "PATRIOT",
+            "RAVEN",
+            "TITAN"
+        ]
+    },
+    "2024-04-10": {
+        "clue": "In closing",
+        "spangram": "SIGNINGOFF",
+        "themeWords": [
+            "ALWAYS",
+            "BEST",
+            "CHEERS",
+            "REGARDS",
+            "SINCERELY",
+            "THANKS"
+        ]
+    },
+    "2024-04-11": {
+        "clue": "It\u2019s all in your head",
+        "spangram": "MAKEBELIEVE",
+        "themeWords": [
+            "DAYDREAM",
+            "FANTASY",
+            "FIGMENT",
+            "ILLUSION",
+            "REVERIE"
+        ]
+    },
+    "2024-04-12": {
+        "clue": "You can say that again!",
+        "spangram": "REPETITION",
+        "themeWords": [
+            "CANCAN",
+            "COUSCOUS",
+            "GOGO",
+            "MAMA",
+            "MURMUR",
+            "POMPOM",
+            "TUTU"
+        ]
+    },
+    "2024-04-13": {
+        "clue": "Group think",
+        "spangram": "ROCKBANDS",
+        "themeWords": [
+            "HEART",
+            "JOURNEY",
+            "NIRVANA",
+            "OASIS",
+            "POISON",
+            "QUEEN",
+            "RUSH"
+        ]
+    },
+    "2024-04-14": {
+        "clue": "Join the club!",
+        "spangram": "SANDWICH",
+        "themeWords": [
+            "BACON",
+            "LETTUCE",
+            "MAYONNAISE",
+            "PICKLE",
+            "TOMATO",
+            "TURKEY"
+        ]
+    },
+    "2024-04-15": {
+        "clue": "This and that",
+        "spangram": "PARTNERS",
+        "themeWords": [
+            "ERROR",
+            "GIVE",
+            "MIRRORS",
+            "PEACE",
+            "QUIET",
+            "SMOKE",
+            "TAKE",
+            "TRIAL"
+        ]
+    },
+    "2024-04-16": {
+        "clue": "On the grid",
+        "spangram": "UTILITIES",
+        "themeWords": [
+            "CABLE",
+            "ELECTRIC",
+            "HEAT",
+            "INTERNET",
+            "TELEPHONE",
+            "WATER"
+        ]
+    },
+    "2024-04-17": {
+        "clue": "The long run",
+        "spangram": "MARATHON",
+        "themeWords": [
+            "COURSE",
+            "GAIT",
+            "NUTRITION",
+            "PACE",
+            "SPEED",
+            "TRACK",
+            "TRAINER"
+        ]
+    },
+    "2024-04-18": {
+        "clue": "Sew what?",
+        "spangram": "TAILORING",
+        "themeWords": [
+            "CLOTH",
+            "NEEDLE",
+            "PATCH",
+            "SEAM",
+            "STITCH",
+            "THIMBLE",
+            "THREAD"
+        ]
+    },
+    "2024-04-19": {
+        "clue": "Get to work!",
+        "spangram": "DRIVETIME",
+        "themeWords": [
+            "COMEDY",
+            "MUSIC",
+            "NEWS",
+            "SPORTS",
+            "TALK",
+            "TRAFFIC",
+            "WEATHER"
+        ]
+    },
+    "2024-04-20": {
+        "clue": "Walk this way",
+        "spangram": "PEDESTRIAN",
+        "themeWords": [
+            "AMBLE",
+            "MARCH",
+            "SAUNTER",
+            "STROLL",
+            "STRUT",
+            "TREK",
+            "TRUDGE"
+        ]
+    },
+    "2024-04-21": {
+        "clue": "That\u2019s life!",
+        "spangram": "MILESTONES",
+        "themeWords": [
+            "CRAWL",
+            "DRIVE",
+            "GRADUATE",
+            "MARRY",
+            "RETIRE",
+            "SPEAK",
+            "VOTE"
+        ]
+    },
+    "2024-04-22": {
+        "clue": "Character class",
+        "spangram": "FANTASY",
+        "themeWords": [
+            "ASSASSIN",
+            "BARD",
+            "HUNTER",
+            "KNIGHT",
+            "MAGE",
+            "ROGUE",
+            "SORCERER"
+        ]
+    },
+    "2024-04-23": {
+        "clue": "As easy as pie",
+        "spangram": "INGREDIENTS",
+        "themeWords": [
+            "BUTTER",
+            "FLOUR",
+            "PECAN",
+            "SALT",
+            "SUGAR",
+            "SYRUP",
+            "VANILLA"
+        ]
+    },
+    "2024-04-24": {
+        "clue": "This is a puzzle",
+        "spangram": "BRAINTEASERS",
+        "themeWords": [
+            "CONUNDRUM",
+            "ENIGMA",
+            "MYSTERY",
+            "QUANDARY",
+            "RIDDLE"
+        ]
+    },
+    "2024-04-25": {
+        "clue": "That\u2019s cap!",
+        "spangram": "HEADWEAR",
+        "themeWords": [
+            "BEANIE",
+            "BERET",
+            "BONNET",
+            "CROWN",
+            "FEDORA",
+            "HELMET",
+            "TURBAN"
+        ]
+    },
+    "2024-04-26": {
+        "clue": "Staff members",
+        "spangram": "NOTATION",
+        "themeWords": [
+            "CLEF",
+            "FLAT",
+            "MEASURE",
+            "NATURAL",
+            "REST",
+            "SHARP",
+            "SIGNATURE"
+        ]
+    },
+    "2024-04-27": {
+        "clue": "Call me?",
+        "spangram": "TITLES",
+        "themeWords": [
+            "ADMIRAL",
+            "DOCTOR",
+            "PROFESSOR",
+            "QUEEN",
+            "REVEREND",
+            "SENATOR"
+        ]
+    },
+    "2024-04-28": {
+        "clue": "Coming clean",
+        "spangram": "SHOWER",
+        "themeWords": [
+            "CONDITIONER",
+            "RAZOR",
+            "SHAMPOO",
+            "SOAP",
+            "SPONGE",
+            "WASHCLOTH"
+        ]
+    },
+    "2024-04-29": {
+        "clue": "Name dropping",
+        "spangram": "MUSICIANS",
+        "themeWords": [
+            "BRANDY",
+            "COMMON",
+            "JEWEL",
+            "MEATLOAF",
+            "PINK",
+            "PRINCE",
+            "SEAL"
+        ]
+    },
+    "2024-04-30": {
+        "clue": "Pour it on",
+        "spangram": "CONDIMENT",
+        "themeWords": [
+            "AIOLI",
+            "KETCHUP",
+            "MAYO",
+            "MUSTARD",
+            "SRIRACHA",
+            "TZATZIKI"
+        ]
+    },
+    "2024-05-01": {
+        "clue": "A token of our appreciation",
+        "spangram": "MONOPOLY",
+        "themeWords": [
+            "IRON",
+            "PENGUIN",
+            "RACECAR",
+            "SHIP",
+            "THIMBLE",
+            "WHEELBARROW"
+        ]
+    },
+    "2024-05-02": {
+        "clue": "What's my line?",
+        "spangram": "STRIPED",
+        "themeWords": [
+            "BUMBLEBEE",
+            "CHIPMUNK",
+            "CLOWNFISH",
+            "SKUNK",
+            "TIGER",
+            "ZEBRA"
+        ]
+    },
+    "2024-05-03": {
+        "clue": "A shade envious?",
+        "spangram": "GREENS",
+        "themeWords": [
+            "ARTICHOKE",
+            "EMERALD",
+            "FOREST",
+            "JUNGLE",
+            "OLIVE",
+            "PISTACHIO"
+        ]
+    },
+    "2024-05-04": {
+        "clue": "The horror",
+        "spangram": "SCARYMOVIE",
+        "themeWords": [
+            "HALLOWEEN",
+            "HOSTEL",
+            "POLTERGEIST",
+            "PSYCHO",
+            "SCREAM"
+        ]
+    },
+    "2024-05-05": {
+        "clue": "Tools for the job",
+        "spangram": "YARDWORK",
+        "themeWords": [
+            "EDGER",
+            "GLOVES",
+            "RAKE",
+            "SHEARS",
+            "SHOVEL",
+            "TRIMMER",
+            "TROWEL"
+        ]
+    },
+    "2024-05-06": {
+        "clue": "Signed, Sealed, Delivered",
+        "spangram": "SNAILMAIL",
+        "themeWords": [
+            "BILL",
+            "INVITE",
+            "LETTER",
+            "MAGAZINE",
+            "PACKAGE",
+            "POSTCARD"
+        ]
+    },
+    "2024-05-07": {
+        "clue": "Can you dig it?",
+        "spangram": "HEAVYMETAL",
+        "themeWords": [
+            "ANTIMONY",
+            "ARSENIC",
+            "BISMUTH",
+            "COPPER",
+            "GOLD",
+            "SILVER"
+        ]
+    },
+    "2024-05-08": {
+        "clue": "Can you digit?",
+        "spangram": "NUMBERS",
+        "themeWords": [
+            "BACON",
+            "BINARY",
+            "DANCE",
+            "LUCKY",
+            "SERIAL",
+            "TELEPHONE",
+            "WHOLE"
+        ]
+    },
+    "2024-05-09": {
+        "clue": "Tap to play",
+        "spangram": "MINIGOLF",
+        "themeWords": [
+            "BOULDER",
+            "CASTLE",
+            "RAMP",
+            "TUNNEL",
+            "WATERFALL",
+            "WINDMILL"
+        ]
+    },
+    "2024-05-10": {
+        "clue": "Like a rocket",
+        "spangram": "SPACEFLIGHT",
+        "themeWords": [
+            "ENCOUNTER",
+            "LAUNCH",
+            "ORBIT",
+            "REENTRY",
+            "SPLASHDOWN"
+        ]
+    },
+    "2024-05-11": {
+        "clue": "It's a date!",
+        "spangram": "PROMNIGHT",
+        "themeWords": [
+            "BOUTONNIERE",
+            "CORSAGE",
+            "COURT",
+            "DANCE",
+            "DRESS",
+            "TUXEDO"
+        ]
+    },
+    "2024-05-12": {
+        "clue": "Picture perfect",
+        "spangram": "OSCARWINNERS",
+        "themeWords": [
+            "CRASH",
+            "GLADIATOR",
+            "PARASITE",
+            "ROCKY",
+            "SPOTLIGHT"
+        ]
+    },
+    "2024-05-13": {
+        "clue": "Best in show",
+        "spangram": "DOGPILE",
+        "themeWords": [
+            "BEAGLE",
+            "BOXER",
+            "COLLIE",
+            "HOUND",
+            "HUSKY",
+            "POODLE",
+            "SHEPHERD"
+        ]
+    },
+    "2024-05-14": {
+        "clue": "On board",
+        "spangram": "CHARCUTERIE",
+        "themeWords": [
+            "BRIE",
+            "CRACKER",
+            "FRUIT",
+            "NUTS",
+            "OLIVE",
+            "SALAMI",
+            "SPREAD"
+        ]
+    },
+    "2024-05-15": {
+        "clue": "American pastime",
+        "spangram": "BALLPARK",
+        "themeWords": [
+            "BASE",
+            "BULLPEN",
+            "DUGOUT",
+            "INFIELD",
+            "MOUND",
+            "PLATE",
+            "STANDS"
+        ]
+    },
+    "2024-05-16": {
+        "clue": "Tasty!",
+        "spangram": "FLAVORS",
+        "themeWords": [
+            "BITTER",
+            "PIQUANT",
+            "SALTY",
+            "SOUR",
+            "SPICY",
+            "SWEET",
+            "TART",
+            "UMAMI"
+        ]
+    },
+    "2024-05-17": {
+        "clue": "Looking for a mate",
+        "spangram": "PAIRED",
+        "themeWords": [
+            "BOOKEND",
+            "CHOPSTICK",
+            "EARPLUG",
+            "MITTEN",
+            "PLIER",
+            "TONG",
+            "WING"
+        ]
+    },
+    "2024-05-18": {
+        "clue": "Part of the equation",
+        "spangram": "MATHEMATICS",
+        "themeWords": [
+            "CALCULATE",
+            "DERIVE",
+            "DIVIDE",
+            "MULTIPLY",
+            "SUBTRACT"
+        ]
+    },
+    "2024-05-19": {
+        "clue": "\u2728\ud83d\udd25\ud83c\udf39\ud83d\udc80\ud83e\udd29\ud83d\udc40\ud83d\udc90",
+        "spangram": "EMOJIS",
+        "themeWords": [
+            "BOUQUET",
+            "EYES",
+            "FIRE",
+            "ROSE",
+            "SKULL",
+            "SPARKLES",
+            "STARSTRUCK"
+        ]
+    },
+    "2024-05-20": {
+        "clue": "Fowl fairy tale",
+        "spangram": "UGLYDUCKLING",
+        "themeWords": [
+            "BEAUTIFUL",
+            "JOURNEY",
+            "MISFIT",
+            "REFLECTION",
+            "SWAN"
+        ]
+    },
+    "2024-05-21": {
+        "clue": "At the bar",
+        "spangram": "MENUITEMS",
+        "themeWords": [
+            "EDIT",
+            "FAVORITES",
+            "FILE",
+            "HELP",
+            "HISTORY",
+            "TOOLS",
+            "WINDOW"
+        ]
+    },
+    "2024-05-22": {
+        "clue": "Home grown",
+        "spangram": "HERBGARDEN",
+        "themeWords": [
+            "BASIL",
+            "CORIANDER",
+            "PARSLEY",
+            "ROSEMARY",
+            "SAGE",
+            "THYME"
+        ]
+    },
+    "2024-05-23": {
+        "clue": "No dice!",
+        "spangram": "PARTYGAMES",
+        "themeWords": [
+            "CELEBRITY",
+            "CHARADES",
+            "MAFIA",
+            "TELEPHONE",
+            "TWISTER"
+        ]
+    },
+    "2024-05-24": {
+        "clue": "Raise a glass",
+        "spangram": "COCKTAILS",
+        "themeWords": [
+            "DAIQUIRI",
+            "GIMLET",
+            "MARGARITA",
+            "MOJITO",
+            "SOUR",
+            "SPRITZ"
+        ]
+    },
+    "2024-05-25": {
+        "clue": "Sounds delicious!",
+        "spangram": "HOMOPHONES",
+        "themeWords": [
+            "CHILLY",
+            "LEAK",
+            "MEET",
+            "MOOSE",
+            "PAIR",
+            "SERIAL",
+            "STAKE",
+            "TIME"
+        ]
+    },
+    "2024-05-26": {
+        "clue": "Beyond Nashville",
+        "spangram": "COUNTRYSTARS",
+        "themeWords": [
+            "BROOKS",
+            "CASH",
+            "HILL",
+            "PAISLEY",
+            "SWIFT",
+            "TWAIN",
+            "URBAN"
+        ]
+    },
+    "2024-05-27": {
+        "clue": "Noodle on this one",
+        "spangram": "PASTASHAPES",
+        "themeWords": [
+            "BOWTIE",
+            "ELBOW",
+            "RIBBON",
+            "SHELL",
+            "SPIRAL",
+            "TUBE",
+            "WHEEL"
+        ]
+    },
+    "2024-05-28": {
+        "clue": "All atwitter",
+        "spangram": "BIRDSONG",
+        "themeWords": [
+            "CHIRP",
+            "CLUCK",
+            "SCREECH",
+            "TRILL",
+            "TWEET",
+            "WARBLE",
+            "WHISTLE"
+        ]
+    },
+    "2024-05-29": {
+        "clue": "A good workout",
+        "spangram": "FITNESS",
+        "themeWords": [
+            "BIKE",
+            "CABLES",
+            "ELLIPTICAL",
+            "ROWER",
+            "TREADMILL",
+            "WEIGHTS"
+        ]
+    },
+    "2024-05-30": {
+        "clue": "Pump it up!",
+        "spangram": "HIGHHEELS",
+        "themeWords": [
+            "BLOCK",
+            "CHUNKY",
+            "CONE",
+            "CUBAN",
+            "KITTEN",
+            "STILETTO",
+            "WEDGE"
+        ]
+    },
+    "2024-05-31": {
+        "clue": "On the yellow brick road",
+        "spangram": "RUBYSLIPPERS",
+        "themeWords": [
+            "POPPIES",
+            "RAINBOW",
+            "SCARECROW",
+            "TWISTER",
+            "WIZARD"
+        ]
+    },
+    "2024-06-01": {
+        "clue": "Start the day right",
+        "spangram": "BREAKFAST",
+        "themeWords": [
+            "BACON",
+            "EGGS",
+            "HASH",
+            "OATMEAL",
+            "QUICHE",
+            "SAUSAGE",
+            "WAFFLE"
+        ]
+    },
+    "2024-06-02": {
+        "clue": "Nailed it!",
+        "spangram": "MANICURE",
+        "themeWords": [
+            "BASE",
+            "BUFF",
+            "CLEANSE",
+            "COLOR",
+            "FILE",
+            "MOISTURIZE",
+            "TOPPER"
+        ]
+    },
+    "2024-06-03": {
+        "clue": "Better with age",
+        "spangram": "FERMENTED",
+        "themeWords": [
+            "KEFIR",
+            "KIMCHI",
+            "KOMBUCHA",
+            "MISO",
+            "SAUERKRAUT",
+            "YOGURT"
+        ]
+    },
+    "2024-06-04": {
+        "clue": "Purposeful pairs",
+        "spangram": "USEFULADVICE",
+        "themeWords": [
+            "CONQUER",
+            "DIVIDE",
+            "FORGET",
+            "FORGIVE",
+            "LEARN",
+            "WATCH"
+        ]
+    },
+    "2024-06-05": {
+        "clue": "They're good people",
+        "spangram": "VIRTUENAMES",
+        "themeWords": [
+            "FAITH",
+            "FELICITY",
+            "GRACE",
+            "HOPE",
+            "JUSTICE",
+            "PRUDENCE"
+        ]
+    },
+    "2024-06-06": {
+        "clue": "Tidal treasures",
+        "spangram": "BEACHCOMBING",
+        "themeWords": [
+            "BOTTLE",
+            "DRIFTWOOD",
+            "FOSSIL",
+            "GLASS",
+            "SHELL",
+            "STONE"
+        ]
+    },
+    "2024-06-07": {
+        "clue": "Sorority signs",
+        "spangram": "GREEKLETTERS",
+        "themeWords": [
+            "ALPHA",
+            "BETA",
+            "DELTA",
+            "EPSILON",
+            "GAMMA",
+            "KAPPA",
+            "SIGMA"
+        ]
+    },
+    "2024-06-08": {
+        "clue": "Beat the heat",
+        "spangram": "SUMMER",
+        "themeWords": [
+            "BEACH",
+            "CAMP",
+            "CARNIVAL",
+            "HOPSCOTCH",
+            "LEMONADE",
+            "POPSICLE"
+        ]
+    },
+    "2024-06-09": {
+        "clue": "Way to grow!",
+        "spangram": "GARDEN",
+        "themeWords": [
+            "EARTH",
+            "LOVE",
+            "PROTECTION",
+            "SEEDS",
+            "SPACE",
+            "SUNLIGHT",
+            "WATER"
+        ]
+    },
+    "2024-06-10": {
+        "clue": "Print edition",
+        "spangram": "NEWSPAPER",
+        "themeWords": [
+            "ARTICLE",
+            "BYLINE",
+            "CAPTION",
+            "COLUMN",
+            "FOLD",
+            "FOLIO",
+            "PAGE"
+        ]
+    },
+    "2024-06-11": {
+        "clue": "Hold up...",
+        "spangram": "ALLRISE",
+        "themeWords": [
+            "BOOST",
+            "ELEVATE",
+            "EXALT",
+            "HOIST",
+            "LEVITATE",
+            "LIFT",
+            "SUPPORT"
+        ]
+    },
+    "2024-06-12": {
+        "clue": "By the dozen",
+        "spangram": "DOUGHNUTS",
+        "themeWords": [
+            "CAKE",
+            "CIDER",
+            "FROSTED",
+            "GLAZED",
+            "HOLE",
+            "JELLY",
+            "POWDERED"
+        ]
+    },
+    "2024-06-13": {
+        "clue": "Good times ahead",
+        "spangram": "AFTERPARTY",
+        "themeWords": [
+            "ANIMAL",
+            "BOAT",
+            "CRASHER",
+            "FAVOR",
+            "FOUL",
+            "HEARTY",
+            "POOPER"
+        ]
+    },
+    "2024-06-14": {
+        "clue": "Take a load off!",
+        "spangram": "SEATING",
+        "themeWords": [
+            "ARMCHAIR",
+            "CHAISE",
+            "COUCH",
+            "DIVAN",
+            "RECLINER",
+            "SOFA",
+            "STOOL"
+        ]
+    },
+    "2024-06-15": {
+        "clue": "Deep dive",
+        "spangram": "MARINELIFE",
+        "themeWords": [
+            "CLAM",
+            "CORAL",
+            "LOBSTER",
+            "OCTOPUS",
+            "SHARK",
+            "SQUID",
+            "WHALE"
+        ]
+    },
+    "2024-06-16": {
+        "clue": "It\u2019s in the bag",
+        "spangram": "TEATIME",
+        "themeWords": [
+            "CHAI",
+            "CHAMOMILE",
+            "GUNPOWDER",
+            "JASMINE",
+            "MATCHA",
+            "OOLONG"
+        ]
+    },
+    "2024-06-17": {
+        "clue": "Picking up the pieces",
+        "spangram": "BOARDGAMES",
+        "themeWords": [
+            "BATTLESHIP",
+            "CLUE",
+            "MONOPOLY",
+            "RISK",
+            "SORRY",
+            "TROUBLE"
+        ]
+    },
+    "2024-06-18": {
+        "clue": "It\u2019s right under your nose!",
+        "spangram": "MUSTACHE",
+        "themeWords": [
+            "HANDLEBAR",
+            "HORSESHOE",
+            "PENCIL",
+            "TOOTHBRUSH",
+            "WALRUS"
+        ]
+    },
+    "2024-06-19": {
+        "clue": "Home work helpers",
+        "spangram": "DESKTOP",
+        "themeWords": [
+            "KEYBOARD",
+            "MONITOR",
+            "MOUSE",
+            "PRINTER",
+            "SPEAKERS",
+            "WEBCAM"
+        ]
+    },
+    "2024-06-20": {
+        "clue": "They're good for a laugh",
+        "spangram": "SITCOMS",
+        "themeWords": [
+            "BEWITCHED",
+            "CHEERS",
+            "COMMUNITY",
+            "FRIENDS",
+            "SCRUBS",
+            "VEEP"
+        ]
+    },
+    "2024-06-21": {
+        "clue": "We do",
+        "spangram": "WEDDING",
+        "themeWords": [
+            "BOUQUET",
+            "CAKE",
+            "DANCE",
+            "FAMILY",
+            "FRIENDS",
+            "KISS",
+            "RING",
+            "VOWS"
+        ]
+    },
+    "2024-06-22": {
+        "clue": "I love the nightlife",
+        "spangram": "NOCTURNAL",
+        "themeWords": [
+            "AARDVARK",
+            "COYOTE",
+            "LEOPARD",
+            "OPOSSUM",
+            "SKUNK",
+            "WOMBAT"
+        ]
+    },
+    "2024-06-23": {
+        "clue": "Fine diners",
+        "spangram": "CHAINLINK",
+        "themeWords": [
+            "CHECKERS",
+            "CHILIS",
+            "OUTBACK",
+            "SIZZLER",
+            "SONIC",
+            "SUBWAY"
+        ]
+    },
+    "2024-06-24": {
+        "clue": "Fine print",
+        "spangram": "PATTERNS",
+        "themeWords": [
+            "ARGYLE",
+            "CHEVRON",
+            "GINGHAM",
+            "PAISLEY",
+            "STRIPES",
+            "TARTAN"
+        ]
+    },
+    "2024-06-25": {
+        "clue": "Frame game",
+        "spangram": "BOWLING",
+        "themeWords": [
+            "ALLEY",
+            "GUTTER",
+            "LANE",
+            "PINS",
+            "SPARE",
+            "SPLIT",
+            "STRIKE",
+            "TURKEY"
+        ]
+    },
+    "2024-06-26": {
+        "clue": "Looking good",
+        "spangram": "FASHIONISTA",
+        "themeWords": [
+            "CHIC",
+            "DAPPER",
+            "DRIPPY",
+            "POSH",
+            "SNAZZY",
+            "SPIFFY",
+            "SWANK"
+        ]
+    },
+    "2024-06-27": {
+        "clue": "Better together",
+        "spangram": "COMBOMEALS",
+        "themeWords": [
+            "BISCUITS",
+            "BURGER",
+            "CHEESE",
+            "FRIES",
+            "GRAVY",
+            "MACARONI"
+        ]
+    },
+    "2024-06-28": {
+        "clue": "That's my jam!",
+        "spangram": "MUSICGENRE",
+        "themeWords": [
+            "BLUES",
+            "COUNTRY",
+            "DISCO",
+            "FOLK",
+            "JAZZ",
+            "ROCK",
+            "SALSA",
+            "SOUL"
+        ]
+    },
+    "2024-06-29": {
+        "clue": "It's way over your head",
+        "spangram": "OUTERSPACE",
+        "themeWords": [
+            "ASTEROID",
+            "COMET",
+            "GALAXY",
+            "MOON",
+            "PLANET",
+            "SATELLITE"
+        ]
+    },
+    "2024-06-30": {
+        "clue": "Cut and color",
+        "spangram": "JEWELTONES",
+        "themeWords": [
+            "AMETHYST",
+            "EMERALD",
+            "GARNET",
+            "RUBY",
+            "SAPPHIRE",
+            "TOPAZ"
+        ]
+    },
+    "2024-07-01": {
+        "clue": "We've got the beat",
+        "spangram": "PERCUSSION",
+        "themeWords": [
+            "CYMBAL",
+            "DRUM",
+            "GONG",
+            "RATTLE",
+            "TAMBOURINE",
+            "TRIANGLE"
+        ]
+    },
+    "2024-07-02": {
+        "clue": "Heat and eat",
+        "spangram": "COOKING",
+        "themeWords": [
+            "BLANCH",
+            "BRAISE",
+            "DEGLAZE",
+            "FLAMBE",
+            "POACH",
+            "SIMMER",
+            "STEAM"
+        ]
+    },
+    "2024-07-03": {
+        "clue": "Spin your wheels",
+        "spangram": "BICYCLE",
+        "themeWords": [
+            "BRAKE",
+            "CHAIN",
+            "FENDER",
+            "FRAME",
+            "KICKSTAND",
+            "PEDAL",
+            "SADDLE"
+        ]
+    },
+    "2024-07-04": {
+        "clue": "Nation celebration",
+        "spangram": "INDEPENDENCEDAY",
+        "themeWords": [
+            "FIREWORKS",
+            "FLAG",
+            "PARADE",
+            "PICNIC",
+            "SPARKLER"
+        ]
+    },
+    "2024-07-05": {
+        "clue": "Say something",
+        "spangram": "ARTICULATION",
+        "themeWords": [
+            "DECLARE",
+            "EXPRESS",
+            "SIGN",
+            "SPEAK",
+            "TALK",
+            "TELL",
+            "UTTER"
+        ]
+    },
+    "2024-07-06": {
+        "clue": "By the yard",
+        "spangram": "LAWNORNAMENT",
+        "themeWords": [
+            "BIRDBATH",
+            "FLAMINGO",
+            "GNOME",
+            "PLANTER",
+            "WINDSOCK"
+        ]
+    },
+    "2024-07-07": {
+        "clue": "Not just black and white",
+        "spangram": "GRAYSCALE",
+        "themeWords": [
+            "CHARCOAL",
+            "FLINT",
+            "GRAPHITE",
+            "PLATINUM",
+            "SLATE",
+            "STEEL"
+        ]
+    },
+    "2024-07-08": {
+        "clue": "Rise and shine",
+        "spangram": "MORNINGROUTINE",
+        "themeWords": [
+            "BREAKFAST",
+            "DRESS",
+            "SHOWER",
+            "SNOOZE",
+            "WAKE",
+            "WORK"
+        ]
+    },
+    "2024-07-09": {
+        "clue": "Now on exhibit",
+        "spangram": "ARTMUSEUM",
+        "themeWords": [
+            "COLLAGE",
+            "LITHOGRAPH",
+            "MURAL",
+            "PAINTING",
+            "SCULPTURE"
+        ]
+    },
+    "2024-07-10": {
+        "clue": "In Neverland",
+        "spangram": "PETERPAN",
+        "themeWords": [
+            "CROCODILE",
+            "DARLING",
+            "HOOK",
+            "LAGOON",
+            "MERMAID",
+            "PIRATES"
+        ]
+    },
+    "2024-07-11": {
+        "clue": "Loaded lunch",
+        "spangram": "BAKEDPOTATO",
+        "themeWords": [
+            "BACON",
+            "BROCCOLI",
+            "BUTTER",
+            "CHEDDAR",
+            "CHILI",
+            "CHIVES"
+        ]
+    },
+    "2024-07-12": {
+        "clue": "Auto suggestion",
+        "spangram": "CARMODELS",
+        "themeWords": [
+            "ACCORD",
+            "CHARGER",
+            "EQUINOX",
+            "EXPLORER",
+            "OUTBACK",
+            "SOUL"
+        ]
+    },
+    "2024-07-13": {
+        "clue": "Hello kitty",
+        "spangram": "FURCOAT",
+        "themeWords": [
+            "BLACK",
+            "CALICO",
+            "ORANGE",
+            "TABBY",
+            "TORTOISESHELL",
+            "TUXEDO"
+        ]
+    },
+    "2024-07-14": {
+        "clue": "Say my name",
+        "spangram": "HOMOPHONES",
+        "themeWords": [
+            "ATOM",
+            "FILL",
+            "GALE",
+            "HAIRY",
+            "MERRY",
+            "PEAT",
+            "RUSTLE",
+            "WHINNY"
+        ]
+    },
+    "2024-07-15": {
+        "clue": "Give it the ol' college try",
+        "spangram": "UNIVERSITIES",
+        "themeWords": [
+            "BROWN",
+            "DUKE",
+            "NORTHWESTERN",
+            "RICE",
+            "TEMPLE",
+            "TUFTS"
+        ]
+    },
+    "2024-07-16": {
+        "clue": "Were you raised in a barn?",
+        "spangram": "BABYANIMAL",
+        "themeWords": [
+            "CALF",
+            "CHICK",
+            "DUCKLING",
+            "FOAL",
+            "GOSLING",
+            "LAMB",
+            "PIGLET"
+        ]
+    },
+    "2024-07-17": {
+        "clue": "Park place",
+        "spangram": "PLAYGROUND",
+        "themeWords": [
+            "BENCHES",
+            "CLIMBER",
+            "SANDBOX",
+            "SEESAW",
+            "SLIDE",
+            "SWINGS"
+        ]
+    },
+    "2024-07-18": {
+        "clue": "At your fingertips",
+        "spangram": "KEYBOARD",
+        "themeWords": [
+            "CONTROL",
+            "DELETE",
+            "ENTER",
+            "ESCAPE",
+            "RETURN",
+            "SHIFT",
+            "SPACE"
+        ]
+    },
+    "2024-07-19": {
+        "clue": "And the Oscar goes to ...",
+        "spangram": "BESTACTING",
+        "themeWords": [
+            "BERRY",
+            "BRIDGES",
+            "FIELD",
+            "HUNT",
+            "PHOENIX",
+            "STONE",
+            "SWANK"
+        ]
+    },
+    "2024-07-20": {
+        "clue": "A seat at the table",
+        "spangram": "PLACESETTING",
+        "themeWords": [
+            "FORK",
+            "GLASS",
+            "KNIFE",
+            "NAPKIN",
+            "PLATE",
+            "SAUCER",
+            "SPOON"
+        ]
+    },
+    "2024-07-21": {
+        "clue": "S-words? (a cutting-edge theme!)",
+        "spangram": "BLADES",
+        "themeWords": [
+            "CLAYMORE",
+            "CUTLASS",
+            "KATANA",
+            "MACHETE",
+            "RAPIER",
+            "SCIMITAR"
+        ]
+    },
+    "2024-07-22": {
+        "clue": "Make waves",
+        "spangram": "WATERCRAFT",
+        "themeWords": [
+            "CANOE",
+            "DINGHY",
+            "DORY",
+            "GONDOLA",
+            "KAYAK",
+            "PADDLEBOARD"
+        ]
+    },
+    "2024-07-23": {
+        "clue": "You're the best!",
+        "spangram": "CHAMPION",
+        "themeWords": [
+            "EXCELLENT",
+            "ICONIC",
+            "PERFECT",
+            "SUPERLATIVE",
+            "SUPREME"
+        ]
+    },
+    "2024-07-24": {
+        "clue": "Screen time",
+        "spangram": "MOVIETHEATER",
+        "themeWords": [
+            "CANDY",
+            "FEATURE",
+            "POPCORN",
+            "PROJECTOR",
+            "TRAILERS"
+        ]
+    },
+    "2024-07-25": {
+        "clue": "All that jazz",
+        "spangram": "SUBGENRE",
+        "themeWords": [
+            "ACID",
+            "BEBOP",
+            "COOL",
+            "FUNK",
+            "FUSION",
+            "MODAL",
+            "RAGTIME",
+            "SWING"
+        ]
+    },
+    "2024-07-26": {
+        "clue": "Go for the gold",
+        "spangram": "OLYMPICS",
+        "themeWords": [
+            "ARCHERY",
+            "EQUESTRIAN",
+            "GOLF",
+            "KARATE",
+            "SWIMMING",
+            "TRACK"
+        ]
+    },
+    "2024-07-27": {
+        "clue": "Bedtime story",
+        "spangram": "GOODNIGHTMOON",
+        "themeWords": [
+            "CLOCKS",
+            "KITTENS",
+            "MITTENS",
+            "MUSH",
+            "NOBODY",
+            "SOCKS"
+        ]
+    },
+    "2024-07-28": {
+        "clue": "Daily delivery",
+        "spangram": "NEWSPAPER",
+        "themeWords": [
+            "CHRONICLE",
+            "GLOBE",
+            "HERALD",
+            "JOURNAL",
+            "TIMES",
+            "TRIBUNE"
+        ]
+    },
+    "2024-07-29": {
+        "clue": "Book it!",
+        "spangram": "PUBLICLIBRARY",
+        "themeWords": [
+            "BORROW",
+            "BROWSE",
+            "LEARN",
+            "MEET",
+            "READ",
+            "RENEW",
+            "STUDY"
+        ]
+    },
+    "2024-07-30": {
+        "clue": "That's a stretch!",
+        "spangram": "YOGAPOSES",
+        "themeWords": [
+            "BRIDGE",
+            "CHAIR",
+            "COBRA",
+            "CROW",
+            "MOUNTAIN",
+            "TREE",
+            "WARRIOR"
+        ]
+    },
+    "2024-07-31": {
+        "clue": "Staying power",
+        "spangram": "STICKYSTUFF",
+        "themeWords": [
+            "ADHESIVE",
+            "BUBBLEGUM",
+            "CARAMEL",
+            "EPOXY",
+            "GLUE",
+            "TAPE"
+        ]
+    },
+    "2024-08-01": {
+        "clue": "Not stirred",
+        "spangram": "SHAKEN",
+        "themeWords": [
+            "BOOTY",
+            "HAIRSPRAY",
+            "HANDS",
+            "MARACA",
+            "MARTINI",
+            "RATTLE",
+            "SALT"
+        ]
+    },
+    "2024-08-02": {
+        "clue": "Here, there, and everywhere",
+        "spangram": "LOCATION",
+        "themeWords": [
+            "ABOVE",
+            "AMONG",
+            "BESIDE",
+            "BETWEEN",
+            "THROUGH",
+            "UNDERNEATH"
+        ]
+    },
+    "2024-08-03": {
+        "clue": "A night at the museum",
+        "spangram": "ARTHISTORY",
+        "themeWords": [
+            "BAROQUE",
+            "CLASSICAL",
+            "MEDIEVAL",
+            "MODERN",
+            "ROMANTIC"
+        ]
+    },
+    "2024-08-04": {
+        "clue": "In glove",
+        "spangram": "ONHAND",
+        "themeWords": [
+            "CUTICLE",
+            "MIDDLE",
+            "NAIL",
+            "PALM",
+            "PINKY",
+            "POINTER",
+            "RING",
+            "THUMB"
+        ]
+    },
+    "2024-08-05": {
+        "clue": "Rolling in it",
+        "spangram": "THATSRICH",
+        "themeWords": [
+            "AFFLUENT",
+            "MONEYED",
+            "OPULENT",
+            "PROSPEROUS",
+            "WEALTHY"
+        ]
+    },
+    "2024-08-06": {
+        "clue": "Bed, bath and beyond",
+        "spangram": "LINENCLOSET",
+        "themeWords": [
+            "BLANKET",
+            "PILLOWCASE",
+            "SHEET",
+            "TABLECLOTH",
+            "TOWEL"
+        ]
+    },
+    "2024-08-07": {
+        "clue": "Oh, oh, oh!",
+        "spangram": "RHYMETIME",
+        "themeWords": [
+            "AVOCADO",
+            "CHATEAU",
+            "DOUGH",
+            "MISTLETOE",
+            "RAINBOW",
+            "WHOA"
+        ]
+    },
+    "2024-08-08": {
+        "clue": "Splashy event",
+        "spangram": "POOLPARTY",
+        "themeWords": [
+            "DRINKS",
+            "FLOATS",
+            "MUSIC",
+            "NOODLES",
+            "SUNSCREEN",
+            "TOWELS"
+        ]
+    },
+    "2024-08-09": {
+        "clue": "Back to nature",
+        "spangram": "OUTDOORSY",
+        "themeWords": [
+            "BIRDWATCH",
+            "CAMP",
+            "FISH",
+            "FORAGE",
+            "HIKE",
+            "STARGAZE",
+            "SWIM"
+        ]
+    },
+    "2024-08-10": {
+        "clue": "Not just for poking",
+        "spangram": "STICKS",
+        "themeWords": [
+            "CINNAMON",
+            "CONTROL",
+            "HOCKEY",
+            "LICORICE",
+            "MEMORY",
+            "SWIZZLE"
+        ]
+    },
+    "2024-08-11": {
+        "clue": "Home stretch?",
+        "spangram": "BONUSSPACES",
+        "themeWords": [
+            "BALCONY",
+            "DECK",
+            "PATIO",
+            "SUNROOM",
+            "TERRACE",
+            "VERANDA"
+        ]
+    },
+    "2024-08-12": {
+        "clue": "Everybody cut footloose!",
+        "spangram": "DANCEMOVES",
+        "themeWords": [
+            "FLOSS",
+            "HUSTLE",
+            "MOONWALK",
+            "PIROUETTE",
+            "TWERK",
+            "VOGUE"
+        ]
+    },
+    "2024-08-13": {
+        "clue": "Look it up!",
+        "spangram": "REFERENCE",
+        "themeWords": [
+            "ALMANAC",
+            "ATLAS",
+            "DICTIONARY",
+            "HANDBOOK",
+            "THESAURUS"
+        ]
+    },
+    "2024-08-14": {
+        "clue": "Honey I'm home!",
+        "spangram": "HOUSES",
+        "themeWords": [
+            "BUNGALOW",
+            "CABIN",
+            "COLONIAL",
+            "COTTAGE",
+            "CRAFTSMAN",
+            "RANCH"
+        ]
+    },
+    "2024-08-15": {
+        "clue": "Is this some kind of joke?",
+        "spangram": "YOUREKIDDING",
+        "themeWords": [
+            "BUFFOON",
+            "CLOWN",
+            "COMIC",
+            "FOOL",
+            "JESTER",
+            "PRANKSTER"
+        ]
+    },
+    "2024-08-16": {
+        "clue": "This or that",
+        "spangram": "OPTIONS",
+        "themeWords": [
+            "BREAK",
+            "DOUBLE",
+            "FAMINE",
+            "FEAST",
+            "MAKE",
+            "NOTHING",
+            "SINK",
+            "SWIM"
+        ]
+    },
+    "2024-08-17": {
+        "clue": "Carle classic",
+        "spangram": "HUNGRYCATERPILLAR",
+        "themeWords": [
+            "APPLE",
+            "LEAF",
+            "PICKLE",
+            "SALAMI",
+            "WATERMELON"
+        ]
+    },
+    "2024-08-18": {
+        "clue": "What do you make of this?",
+        "spangram": "ARTCLASS",
+        "themeWords": [
+            "BRUSH",
+            "CANVAS",
+            "CHARCOAL",
+            "EASEL",
+            "MOLD",
+            "PAINT",
+            "PALETTE"
+        ]
+    },
+    "2024-08-19": {
+        "clue": "Hear me roar!",
+        "spangram": "BIGCAT",
+        "themeWords": [
+            "CHEETAH",
+            "COUGAR",
+            "JAGUAR",
+            "LEOPARD",
+            "LION",
+            "PANTHER",
+            "TIGER"
+        ]
+    },
+    "2024-08-20": {
+        "clue": "I think we're covered",
+        "spangram": "RAINGEAR",
+        "themeWords": [
+            "GAITERS",
+            "GALOSHES",
+            "HOOD",
+            "PONCHO",
+            "SLICKER",
+            "UMBRELLA"
+        ]
+    },
+    "2024-08-21": {
+        "clue": "One for the ages",
+        "spangram": "HAPPYBIRTHDAY",
+        "themeWords": [
+            "CAKE",
+            "CANDLES",
+            "CARDS",
+            "CELEBRATE",
+            "GIFTS",
+            "PARTY"
+        ]
+    },
+    "2024-08-22": {
+        "clue": "Smoothie moves",
+        "spangram": "BLENDERSETTING",
+        "themeWords": [
+            "CHOP",
+            "GRIND",
+            "LIQUEFY",
+            "PULSE",
+            "PUREE",
+            "STIR",
+            "WHIP"
+        ]
+    },
+    "2024-08-23": {
+        "clue": "The nose knows",
+        "spangram": "COMMONSCENTS",
+        "themeWords": [
+            "CEDAR",
+            "LAVENDER",
+            "LEMON",
+            "MUSK",
+            "ROSE",
+            "SANDALWOOD"
+        ]
+    },
+    "2024-08-24": {
+        "clue": "Crumby theme",
+        "spangram": "CRACKERS",
+        "themeWords": [
+            "ANIMAL",
+            "GOLDFISH",
+            "OYSTER",
+            "RICE",
+            "SALTINE",
+            "SODA",
+            "WATER"
+        ]
+    },
+    "2024-08-25": {
+        "clue": "Into the woods",
+        "spangram": "FOREST",
+        "themeWords": [
+            "BEECH",
+            "CHESTNUT",
+            "GINKGO",
+            "MAPLE",
+            "PINE",
+            "SYCAMORE",
+            "WILLOW"
+        ]
+    },
+    "2024-08-26": {
+        "clue": "See you on the court",
+        "spangram": "GRANDSLAM",
+        "themeWords": [
+            "FOREHAND",
+            "LOVE",
+            "RACKET",
+            "SERVE",
+            "SLICE",
+            "SMASH",
+            "VOLLEY"
+        ]
+    },
+    "2024-08-27": {
+        "clue": "Pixar fare",
+        "spangram": "RATATOUILLE",
+        "themeWords": [
+            "EGGPLANT",
+            "ONIONS",
+            "PEPPERS",
+            "TOMATOES",
+            "ZUCCHINI"
+        ]
+    },
+    "2024-08-28": {
+        "clue": "Commuter benefits",
+        "spangram": "PUBLICTRANSPORT",
+        "themeWords": [
+            "FERRY",
+            "MONORAIL",
+            "STREETCAR",
+            "SUBWAY",
+            "TRAIN"
+        ]
+    },
+    "2024-08-29": {
+        "clue": "Wake up and ...",
+        "spangram": "COFFEEORDER",
+        "themeWords": [
+            "BLACK",
+            "CAPPUCCINO",
+            "ESPRESSO",
+            "ICED",
+            "LATTE",
+            "MOCHA"
+        ]
+    },
+    "2024-08-30": {
+        "clue": "Let's play",
+        "spangram": "VIDEOGAMES",
+        "themeWords": [
+            "FALLOUT",
+            "HALO",
+            "MINECRAFT",
+            "OVERWATCH",
+            "UNCHARTED"
+        ]
+    },
+    "2024-08-31": {
+        "clue": "Makeshift music",
+        "spangram": "JUGBAND",
+        "themeWords": [
+            "BONES",
+            "BROOM",
+            "COWBELL",
+            "SPOONS",
+            "STOVEPIPE",
+            "WASHBOARD"
+        ]
+    },
+    "2024-09-01": {
+        "clue": "Serve ginger-ly?",
+        "spangram": "CALIFORNIAROLL",
+        "themeWords": [
+            "AVOCADO",
+            "CRAB",
+            "CUCUMBER",
+            "MAYO",
+            "RICE",
+            "SEAWEED"
+        ]
+    },
+    "2024-09-02": {
+        "clue": "Order in the court!",
+        "spangram": "TITLES",
+        "themeWords": [
+            "BARON",
+            "DUCHESS",
+            "EARL",
+            "ESQUIRE",
+            "KNIGHT",
+            "QUEEN",
+            "VISCOUNT"
+        ]
+    },
+    "2024-09-03": {
+        "clue": "Striking sounds",
+        "spangram": "BELLTONES",
+        "themeWords": [
+            "CHIME",
+            "CLANG",
+            "JINGLE",
+            "KNELL",
+            "PEAL",
+            "RING",
+            "TINKLE",
+            "TOLL"
+        ]
+    },
+    "2024-09-04": {
+        "clue": "American beauty",
+        "spangram": "NATIONALPARKS",
+        "themeWords": [
+            "ARCHES",
+            "BADLANDS",
+            "GLACIER",
+            "REDWOOD",
+            "SAGUARO"
+        ]
+    },
+    "2024-09-05": {
+        "clue": "Going underground",
+        "spangram": "ROOTVEGETABLES",
+        "themeWords": [
+            "BEET",
+            "JICAMA",
+            "POTATO",
+            "RUTABAGA",
+            "TARO",
+            "TURNIP"
+        ]
+    },
+    "2024-09-06": {
+        "clue": "Just right",
+        "spangram": "THREEBEARS",
+        "themeWords": [
+            "BABY",
+            "BEDS",
+            "CHAIRS",
+            "HARD",
+            "MAMA",
+            "PAPA",
+            "PORRIDGE",
+            "SOFT"
+        ]
+    },
+    "2024-09-07": {
+        "clue": "Know your material",
+        "spangram": "FABRIC",
+        "themeWords": [
+            "CHIFFON",
+            "DENIM",
+            "JERSEY",
+            "MUSLIN",
+            "SATIN",
+            "SPANDEX",
+            "VELVET"
+        ]
+    },
+    "2024-09-08": {
+        "clue": "A royal shade",
+        "spangram": "PURPLES",
+        "themeWords": [
+            "LAVENDER",
+            "LILAC",
+            "MAGENTA",
+            "MAUVE",
+            "ORCHID",
+            "PLUM",
+            "VIOLET"
+        ]
+    },
+    "2024-09-09": {
+        "clue": "Go play outside!",
+        "spangram": "LAWNGAMES",
+        "themeWords": [
+            "BADMINTON",
+            "BOCCE",
+            "CORNHOLE",
+            "CROQUET",
+            "HORSESHOES"
+        ]
+    },
+    "2024-09-10": {
+        "clue": "Give it a whirl!",
+        "spangram": "BALLROOMDANCE",
+        "themeWords": [
+            "FOXTROT",
+            "JIVE",
+            "QUICKSTEP",
+            "RUMBA",
+            "SALSA",
+            "WALTZ"
+        ]
+    },
+    "2024-09-11": {
+        "clue": "Play-with words",
+        "spangram": "TOYSTORE",
+        "themeWords": [
+            "BLOCKS",
+            "DOLL",
+            "PUPPET",
+            "PUZZLE",
+            "SLIME",
+            "TRICYCLE",
+            "TRUCK"
+        ]
+    },
+    "2024-09-12": {
+        "clue": "This should be right up your alley",
+        "spangram": "THOROUGHFARE",
+        "themeWords": [
+            "AVENUE",
+            "BOULEVARD",
+            "HIGHWAY",
+            "LANE",
+            "ROAD",
+            "STREET"
+        ]
+    },
+    "2024-09-13": {
+        "clue": "Boots and saddles",
+        "spangram": "WESTERNS",
+        "themeWords": [
+            "BOUNTY",
+            "COWBOY",
+            "DUEL",
+            "HORSE",
+            "OUTLAW",
+            "SALOON",
+            "SHERIFF"
+        ]
+    },
+    "2024-09-14": {
+        "clue": "Elements of style",
+        "spangram": "ACCESSORIZING",
+        "themeWords": [
+            "BELT",
+            "GLASSES",
+            "HANDBAG",
+            "JEWELRY",
+            "SCARF",
+            "WATCH"
+        ]
+    },
+    "2024-09-15": {
+        "clue": "On the rocks",
+        "spangram": "OLDFASHIONED",
+        "themeWords": [
+            "BITTERS",
+            "CHERRY",
+            "ORANGE",
+            "SUGAR",
+            "WATER",
+            "WHISKEY"
+        ]
+    },
+    "2024-09-16": {
+        "clue": "What a stud!",
+        "spangram": "PIERCING",
+        "themeWords": [
+            "CHEEK",
+            "EARLOBE",
+            "EYEBROW",
+            "NAVEL",
+            "NOSE",
+            "SEPTUM",
+            "TONGUE"
+        ]
+    },
+    "2024-09-17": {
+        "clue": "On the rebound",
+        "spangram": "LETSBOUNCE",
+        "themeWords": [
+            "BASKETBALL",
+            "ECHO",
+            "KANGAROO",
+            "SPRING",
+            "TRAMPOLINE"
+        ]
+    },
+    "2024-09-18": {
+        "clue": "Handy helpers",
+        "spangram": "TOOLCHEST",
+        "themeWords": [
+            "HAMMER",
+            "KNIFE",
+            "LEVEL",
+            "PLIERS",
+            "SCREWDRIVER",
+            "WRENCH"
+        ]
+    },
+    "2024-09-19": {
+        "clue": "Work out the bugs",
+        "spangram": "CREEPYCRAWLIES",
+        "themeWords": [
+            "BEETLE",
+            "EARWIG",
+            "MILLIPEDE",
+            "SPIDER",
+            "TERMITE"
+        ]
+    },
+    "2024-09-20": {
+        "clue": "A way with words",
+        "spangram": "POETRY",
+        "themeWords": [
+            "DICTION",
+            "METER",
+            "RHYME",
+            "SCANSION",
+            "STANZA",
+            "SYNTAX",
+            "VERSE"
+        ]
+    },
+    "2024-09-21": {
+        "clue": "I've got the music in me!",
+        "spangram": "CONCERTVENUE",
+        "themeWords": [
+            "ARENA",
+            "FESTIVAL",
+            "NIGHTCLUB",
+            "STADIUM",
+            "THEATER"
+        ]
+    },
+    "2024-09-22": {
+        "clue": "I've got you under my skin",
+        "spangram": "INTERNALORGANS",
+        "themeWords": [
+            "BRAIN",
+            "HEART",
+            "KIDNEYS",
+            "LIVER",
+            "LUNGS",
+            "STOMACH"
+        ]
+    },
+    "2024-09-23": {
+        "clue": "Gnaw-it-alls",
+        "spangram": "RODENTS",
+        "themeWords": [
+            "CHINCHILLA",
+            "HAMSTER",
+            "MUSKRAT",
+            "PORCUPINE",
+            "SQUIRREL"
+        ]
+    },
+    "2024-09-24": {
+        "clue": "Spacing out",
+        "spangram": "SCIENCEFICTION",
+        "themeWords": [
+            "ALIEN",
+            "CYBORG",
+            "DROID",
+            "MARTIAN",
+            "MUTANT",
+            "ROBOT"
+        ]
+    },
+    "2024-09-25": {
+        "clue": "Claim your steak",
+        "spangram": "BEEFCUTS",
+        "themeWords": [
+            "BRISKET",
+            "CHUCK",
+            "FLANK",
+            "RIBEYE",
+            "ROUND",
+            "SHANK",
+            "SIRLOIN"
+        ]
+    },
+    "2024-09-26": {
+        "clue": "Special delivery",
+        "spangram": "BABYGEAR",
+        "themeWords": [
+            "BLANKET",
+            "CRIB",
+            "HIGHCHAIR",
+            "PLAYPEN",
+            "STROLLER",
+            "SWING"
+        ]
+    },
+    "2024-09-27": {
+        "clue": "Medieval marvel",
+        "spangram": "CASTLE",
+        "themeWords": [
+            "COURTYARD",
+            "DRAWBRIDGE",
+            "KEEP",
+            "MOAT",
+            "TOWER",
+            "TURRET",
+            "WALL"
+        ]
+    },
+    "2024-09-28": {
+        "clue": "Feeling good",
+        "spangram": "EMOTIONS",
+        "themeWords": [
+            "EXCITEMENT",
+            "GRATITUDE",
+            "HAPPINESS",
+            "LOVE",
+            "PLEASURE"
+        ]
+    },
+    "2024-09-29": {
+        "clue": "Weed 'em and reap",
+        "spangram": "FALLHARVEST",
+        "themeWords": [
+            "APPLE",
+            "KOHLRABI",
+            "ONION",
+            "PUMPKIN",
+            "RADISH",
+            "SQUASH"
+        ]
+    },
+    "2024-09-30": {
+        "clue": "Words with weight",
+        "spangram": "BOXING",
+        "themeWords": [
+            "BANTAM",
+            "CRUISER",
+            "FEATHER",
+            "HEAVY",
+            "LIGHT",
+            "MIDDLE",
+            "WELTER"
+        ]
+    },
+    "2024-10-01": {
+        "clue": "Channel surfing",
+        "spangram": "NETWORK",
+        "themeWords": [
+            "DISCOVERY",
+            "HALLMARK",
+            "HISTORY",
+            "LIFETIME",
+            "PARAMOUNT"
+        ]
+    },
+    "2024-10-02": {
+        "clue": "Fresh out of the oven",
+        "spangram": "PASTRIES",
+        "themeWords": [
+            "CROISSANT",
+            "DANISH",
+            "GALETTE",
+            "MUFFIN",
+            "SCONE",
+            "STRUDEL"
+        ]
+    },
+    "2024-10-03": {
+        "clue": "Hairy styles",
+        "spangram": "SHORTCUTS",
+        "themeWords": [
+            "BUZZ",
+            "FADE",
+            "FAUXHAWK",
+            "FLATTOP",
+            "PAGEBOY",
+            "PIXIE",
+            "SHAG"
+        ]
+    },
+    "2024-10-04": {
+        "clue": "Driver's catch-all",
+        "spangram": "GLOVEBOX",
+        "themeWords": [
+            "ATLAS",
+            "FLARE",
+            "MANUAL",
+            "QUARTER",
+            "REGISTRATION",
+            "TITLE"
+        ]
+    },
+    "2024-10-05": {
+        "clue": "No way!",
+        "spangram": "THATSUNREAL",
+        "themeWords": [
+            "CHARLATAN",
+            "FAKE",
+            "HOAX",
+            "HUMBUG",
+            "PHONY",
+            "QUACK",
+            "SHAM"
+        ]
+    },
+    "2024-10-06": {
+        "clue": "Got any bleu cheese?",
+        "spangram": "COBBSALAD",
+        "themeWords": [
+            "BACON",
+            "CHICKEN",
+            "EGGS",
+            "GREENS",
+            "TOMATO",
+            "VINAIGRETTE"
+        ]
+    },
+    "2024-10-07": {
+        "clue": "Most excellent",
+        "spangram": "THATSCOOL",
+        "themeWords": [
+            "BOSS",
+            "CHOICE",
+            "DANDY",
+            "GROOVY",
+            "HYPE",
+            "RIGHTEOUS",
+            "SWELL"
+        ]
+    },
+    "2024-10-08": {
+        "clue": "Protective measures",
+        "spangram": "SECURITY",
+        "themeWords": [
+            "BACKUP",
+            "ENCRYPTION",
+            "FIREWALL",
+            "LOCK",
+            "PASSWORD",
+            "SAFE"
+        ]
+    },
+    "2024-10-09": {
+        "clue": "Full house",
+        "spangram": "HOMEROOM",
+        "themeWords": [
+            "FOYER",
+            "HALL",
+            "KITCHEN",
+            "LIBRARY",
+            "OFFICE",
+            "PANTRY",
+            "STUDY"
+        ]
+    },
+    "2024-10-10": {
+        "clue": "Think about it",
+        "spangram": "PUZZLES",
+        "themeWords": [
+            "CROSSWORD",
+            "CRYPTOGRAM",
+            "JIGSAW",
+            "JUMBLE",
+            "MAZE",
+            "SUDOKU"
+        ]
+    },
+    "2024-10-11": {
+        "clue": "Let's experiment",
+        "spangram": "CHEMISTRYLAB",
+        "themeWords": [
+            "BEAKER",
+            "FLASK",
+            "GOGGLES",
+            "PIPETTE",
+            "THERMOMETER"
+        ]
+    },
+    "2024-10-12": {
+        "clue": "Toon time",
+        "spangram": "CHARACTERS",
+        "themeWords": [
+            "BUGS",
+            "DAFFY",
+            "FOGHORN",
+            "FOXY",
+            "GRANNY",
+            "PETUNIA",
+            "PORKY"
+        ]
+    },
+    "2024-10-13": {
+        "clue": "Time to get cozy",
+        "spangram": "FALLFASHION",
+        "themeWords": [
+            "CARDIGAN",
+            "FLANNEL",
+            "FLEECE",
+            "SCARF",
+            "SWEATER",
+            "VEST"
+        ]
+    },
+    "2024-10-14": {
+        "clue": "Get out of here!",
+        "spangram": "MOVINGDAY",
+        "themeWords": [
+            "BOXES",
+            "BUNGEE",
+            "CRATE",
+            "DOLLY",
+            "FOAM",
+            "STRAP",
+            "TAPE",
+            "TRUCK"
+        ]
+    },
+    "2024-10-15": {
+        "clue": "Beast mode",
+        "spangram": "CREATUREFEATURE",
+        "themeWords": [
+            "FEATHER",
+            "HAIR",
+            "HORN",
+            "SCALE",
+            "SHELL",
+            "TAIL",
+            "WING"
+        ]
+    },
+    "2024-10-16": {
+        "clue": "How Poe-tic",
+        "spangram": "THERAVEN",
+        "themeWords": [
+            "DREARY",
+            "MIDNIGHT",
+            "NEVERMORE",
+            "PONDERED",
+            "WEAK",
+            "WEARY"
+        ]
+    },
+    "2024-10-17": {
+        "clue": "Dream teams",
+        "spangram": "FANTASYLEAGUE",
+        "themeWords": [
+            "DRAFT",
+            "MATCHUPS",
+            "ROSTER",
+            "STANDINGS",
+            "WAIVERS"
+        ]
+    },
+    "2024-10-18": {
+        "clue": "All wrapped up",
+        "spangram": "DUMPLINGS",
+        "themeWords": [
+            "EMPANADA",
+            "GYOZA",
+            "PIEROGI",
+            "RAVIOLI",
+            "SAMOSA",
+            "WONTON"
+        ]
+    },
+    "2024-10-19": {
+        "clue": "Turn it up a notch",
+        "spangram": "EXTRASOMETHING",
+        "themeWords": [
+            "FIZZ",
+            "KICK",
+            "OOMPH",
+            "PIZZAZZ",
+            "SPARK",
+            "VERVE",
+            "ZING"
+        ]
+    },
+    "2024-10-20": {
+        "clue": "Make yourself at home",
+        "spangram": "LIVINGROOM",
+        "themeWords": [
+            "FIREPLACE",
+            "OTTOMAN",
+            "RECLINER",
+            "SHELF",
+            "SOFA",
+            "TABLE"
+        ]
+    },
+    "2024-10-21": {
+        "clue": "We're in this together",
+        "spangram": "GROUPNAME",
+        "themeWords": [
+            "COLONY",
+            "FLOCK",
+            "HERD",
+            "KNOT",
+            "PACK",
+            "PRIDE",
+            "SCHOOL",
+            "SWARM"
+        ]
+    },
+    "2024-10-22": {
+        "clue": "Cool color!",
+        "spangram": "THEBLUES",
+        "themeWords": [
+            "AZURE",
+            "COBALT",
+            "INDIGO",
+            "NAVY",
+            "PERIWINKLE",
+            "TURQUOISE"
+        ]
+    },
+    "2024-10-23": {
+        "clue": "On the road",
+        "spangram": "TRAFFICSIGNS",
+        "themeWords": [
+            "BUMP",
+            "CONSTRUCTION",
+            "DETOUR",
+            "MERGE",
+            "STOP",
+            "YIELD"
+        ]
+    },
+    "2024-10-24": {
+        "clue": "My cup of tea",
+        "spangram": "MASALACHAI",
+        "themeWords": [
+            "ANISE",
+            "CARDAMOM",
+            "CINNAMON",
+            "CLOVE",
+            "NUTMEG",
+            "PEPPER"
+        ]
+    },
+    "2024-10-25": {
+        "clue": "Make some noise!",
+        "spangram": "PETSOUNDS",
+        "themeWords": [
+            "BARK",
+            "CHIRP",
+            "GROWL",
+            "GRUNT",
+            "MEOW",
+            "PURR",
+            "SQUAWK",
+            "SQUEAK"
+        ]
+    },
+    "2024-10-26": {
+        "clue": "Sing-song",
+        "spangram": "VOCALMUSIC",
+        "themeWords": [
+            "ARIA",
+            "BALLAD",
+            "JINGLE",
+            "LULLABY",
+            "SHANTY",
+            "SPIRITUAL"
+        ]
+    },
+    "2024-10-27": {
+        "clue": "Best of the best",
+        "spangram": "PERFECTPAIR",
+        "themeWords": [
+            "CLASS",
+            "CREAM",
+            "CROP",
+            "HEAD",
+            "LIFE",
+            "LITTER",
+            "PARTY",
+            "PICK"
+        ]
+    },
+    "2024-10-28": {
+        "clue": "Fall fun",
+        "spangram": "ORCHARDS",
+        "themeWords": [
+            "APPLES",
+            "CIDER",
+            "DOUGHNUTS",
+            "HAYRIDES",
+            "MAZE",
+            "PUMPKINS"
+        ]
+    },
+    "2024-10-29": {
+        "clue": "You and me",
+        "spangram": "TOGETHERNESS",
+        "themeWords": [
+            "BESTIE",
+            "COMPANION",
+            "FRIEND",
+            "PARTNER",
+            "SIDEKICK"
+        ]
+    },
+    "2024-10-30": {
+        "clue": "How sweet!",
+        "spangram": "CANDYSTORE",
+        "themeWords": [
+            "CHOCOLATE",
+            "GUMDROP",
+            "LICORICE",
+            "LOLLIPOP",
+            "TOFFEE"
+        ]
+    },
+    "2024-10-31": {
+        "clue": "Trick or treat!",
+        "spangram": "COSTUME",
+        "themeWords": [
+            "CLOWN",
+            "GHOST",
+            "MUMMY",
+            "PIRATE",
+            "PRINCESS",
+            "PUMPKIN",
+            "WITCH"
+        ]
+    },
+    "2024-11-01": {
+        "clue": "Strategy game",
+        "spangram": "CHECKMATE",
+        "themeWords": [
+            "BISHOP",
+            "BOARD",
+            "KING",
+            "KNIGHT",
+            "PAWN",
+            "QUEEN",
+            "ROOK",
+            "TIMER"
+        ]
+    },
+    "2024-11-02": {
+        "clue": "Good on paper",
+        "spangram": "OFFICESUPPLIES",
+        "themeWords": [
+            "PENCILS",
+            "PRINTER",
+            "RULER",
+            "SCISSORS",
+            "STAPLER"
+        ]
+    },
+    "2024-11-03": {
+        "clue": "In my kingdom",
+        "spangram": "TAXONOMY",
+        "themeWords": [
+            "CLASS",
+            "DOMAIN",
+            "FAMILY",
+            "GENUS",
+            "ORDER",
+            "PHYLUM",
+            "SPECIES"
+        ]
+    },
+    "2024-11-04": {
+        "clue": "In a(n) ...",
+        "spangram": "SMALLTIME",
+        "themeWords": [
+            "FLASH",
+            "INSTANT",
+            "JIFFY",
+            "MINUTE",
+            "MOMENT",
+            "SECOND",
+            "TICK"
+        ]
+    },
+    "2024-11-05": {
+        "clue": "More than just sports",
+        "spangram": "AFTERSCHOOL",
+        "themeWords": [
+            "BAND",
+            "CHOIR",
+            "DEBATE",
+            "DRAMA",
+            "ORCHESTRA",
+            "YEARBOOK"
+        ]
+    },
+    "2024-11-06": {
+        "clue": "Strumming right along ...",
+        "spangram": "STRINGY",
+        "themeWords": [
+            "BANJO",
+            "GUITAR",
+            "HARP",
+            "MANDOLIN",
+            "SITAR",
+            "UKULELE",
+            "VIOLIN"
+        ]
+    },
+    "2024-11-07": {
+        "clue": "Extremely online",
+        "spangram": "SOCIALMEDIA",
+        "themeWords": [
+            "COMMENT",
+            "FOLLOW",
+            "LIKE",
+            "POST",
+            "REPORT",
+            "SHARE",
+            "TWEET"
+        ]
+    },
+    "2024-11-08": {
+        "clue": "\ud83d\udc4b\ud83d\udc4f\ud83e\udd1d\ud83e\udd0f\u270c\ufe0f\u261d\ufe0f\u270a\ud83d\ude4f",
+        "spangram": "HANDGESTURES",
+        "themeWords": [
+            "CLAP",
+            "FIST",
+            "PEACE",
+            "PINCH",
+            "POINT",
+            "PRAY",
+            "SHAKE",
+            "WAVE"
+        ]
+    },
+    "2024-11-09": {
+        "clue": "Generation jam",
+        "spangram": "NINETIESBANDS",
+        "themeWords": [
+            "BLUR",
+            "NIRVANA",
+            "OASIS",
+            "PAVEMENT",
+            "SUBLIME",
+            "TOOL"
+        ]
+    },
+    "2024-11-10": {
+        "clue": "Nice fit",
+        "spangram": "WELLSUITED",
+        "themeWords": [
+            "BIRTHDAY",
+            "BUSINESS",
+            "CIVIL",
+            "JUMP",
+            "LEISURE",
+            "STRONG"
+        ]
+    },
+    "2024-11-11": {
+        "clue": "To your health!",
+        "spangram": "MEDICALCAREER",
+        "themeWords": [
+            "DENTIST",
+            "DOCTOR",
+            "NURSE",
+            "PHARMACIST",
+            "SURGEON"
+        ]
+    },
+    "2024-11-12": {
+        "clue": "Spell it out",
+        "spangram": "NATOALPHABET",
+        "themeWords": [
+            "BRAVO",
+            "DELTA",
+            "ECHO",
+            "FOXTROT",
+            "GOLF",
+            "TANGO",
+            "VICTOR"
+        ]
+    },
+    "2024-11-13": {
+        "clue": "We're walking",
+        "spangram": "BIPEDAL",
+        "themeWords": [
+            "GIBBON",
+            "HUMAN",
+            "KANGAROO",
+            "MEERKAT",
+            "OSTRICH",
+            "PANGOLIN"
+        ]
+    },
+    "2024-11-14": {
+        "clue": "Name of the game",
+        "spangram": "CLUESUSPECTS",
+        "themeWords": [
+            "GREEN",
+            "MUSTARD",
+            "ORCHID",
+            "PEACOCK",
+            "PLUM",
+            "SCARLET"
+        ]
+    },
+    "2024-11-15": {
+        "clue": "Dress for lunch",
+        "spangram": "SALADGREENS",
+        "themeWords": [
+            "ICEBERG",
+            "KALE",
+            "RADICCHIO",
+            "ROMAINE",
+            "WATERCRESS"
+        ]
+    },
+    "2024-11-16": {
+        "clue": "\"Oh, you!\"",
+        "spangram": "THATSFUNNY",
+        "themeWords": [
+            "AMUSING",
+            "COMIC",
+            "DROLL",
+            "LAUGHABLE",
+            "RIOTOUS",
+            "WITTY"
+        ]
+    },
+    "2024-11-17": {
+        "clue": "Would you look at that?",
+        "spangram": "LANDMARKS",
+        "themeWords": [
+            "ARCH",
+            "BRIDGE",
+            "CASTLE",
+            "FORT",
+            "MONUMENT",
+            "PALACE",
+            "TOWER"
+        ]
+    },
+    "2024-11-18": {
+        "clue": "Coming up for air",
+        "spangram": "MARINEMAMMALS",
+        "themeWords": [
+            "DOLPHIN",
+            "MANATEE",
+            "NARWHAL",
+            "ORCA",
+            "SEAL",
+            "WALRUS"
+        ]
+    },
+    "2024-11-19": {
+        "clue": "Pick-ups",
+        "spangram": "UTENSILS",
+        "themeWords": [
+            "CHOPSTICKS",
+            "FORK",
+            "KNIFE",
+            "SKEWER",
+            "SPOON",
+            "SPORK",
+            "TONGS"
+        ]
+    },
+    "2024-11-20": {
+        "clue": "For our furry friends",
+        "spangram": "PETSUPPLIES",
+        "themeWords": [
+            "BALL",
+            "BONE",
+            "CATNIP",
+            "COLLAR",
+            "KIBBLE",
+            "LASER",
+            "LITTER"
+        ]
+    },
+    "2024-11-21": {
+        "clue": "You're getting warm",
+        "spangram": "FIREPLACE",
+        "themeWords": [
+            "BROOM",
+            "CHIMNEY",
+            "FLUE",
+            "HEARTH",
+            "MANTEL",
+            "POKER",
+            "SCREEN"
+        ]
+    },
+    "2024-11-22": {
+        "clue": "This is the place!",
+        "spangram": "CITYNAME",
+        "themeWords": [
+            "BEND",
+            "BOULDER",
+            "BUFFALO",
+            "MOBILE",
+            "PHOENIX",
+            "RIVERSIDE"
+        ]
+    },
+    "2024-11-23": {
+        "clue": "Did you hear that?",
+        "spangram": "SOUNDEFFECTS",
+        "themeWords": [
+            "BANG",
+            "CRASH",
+            "CRUNCH",
+            "HONK",
+            "JINGLE",
+            "KAPOW",
+            "SIZZLE"
+        ]
+    },
+    "2024-11-24": {
+        "clue": "Start small",
+        "spangram": "LITTLE",
+        "themeWords": [
+            "DEVIL",
+            "DIPPER",
+            "FOOT",
+            "LEAGUE",
+            "RASCALS",
+            "ROCK",
+            "SPOON",
+            "WOMEN"
+        ]
+    },
+    "2024-11-25": {
+        "clue": "Plan on it",
+        "spangram": "CALENDAR",
+        "themeWords": [
+            "APPOINTMENT",
+            "DATE",
+            "EVENT",
+            "HOLIDAY",
+            "MONTH",
+            "WEEK",
+            "YEAR"
+        ]
+    },
+    "2024-11-26": {
+        "clue": "Open-and-shut case",
+        "spangram": "HANDBAGS",
+        "themeWords": [
+            "BARREL",
+            "BUCKET",
+            "CROSSBODY",
+            "DUFFEL",
+            "MESSENGER",
+            "TOTE"
+        ]
+    },
+    "2024-11-27": {
+        "clue": "Come fly with me",
+        "spangram": "AIRLINES",
+        "themeWords": [
+            "DELTA",
+            "FRONTIER",
+            "SOUTHWEST",
+            "SPIRIT",
+            "UNITED",
+            "VIRGIN"
+        ]
+    },
+    "2024-11-28": {
+        "clue": "Thank goodness!",
+        "spangram": "LETSFEAST",
+        "themeWords": [
+            "CRANBERRIES",
+            "GRAVY",
+            "POTATOES",
+            "ROLLS",
+            "TURKEY",
+            "YAMS"
+        ]
+    },
+    "2024-11-29": {
+        "clue": "Give me a break",
+        "spangram": "DOWNTIME",
+        "themeWords": [
+            "CHILL",
+            "LOAF",
+            "LOUNGE",
+            "LUXURIATE",
+            "PAUSE",
+            "RELAX",
+            "UNWIND"
+        ]
+    },
+    "2024-11-30": {
+        "clue": "Yas Queen!",
+        "spangram": "BOHEMIANRHAPSODY",
+        "themeWords": [
+            "BLOWS",
+            "COME",
+            "EASY",
+            "FANTASY",
+            "LIFE",
+            "REAL",
+            "WIND"
+        ]
+    },
+    "2024-12-01": {
+        "clue": "Old hang-ups",
+        "spangram": "ROTARYPHONE",
+        "themeWords": [
+            "CRADLE",
+            "DIAL",
+            "HANDSET",
+            "RECEIVER",
+            "RINGER",
+            "SWITCH"
+        ]
+    },
+    "2024-12-02": {
+        "clue": "Beatlemania!",
+        "spangram": "SONGTITLES",
+        "themeWords": [
+            "BLACKBIRD",
+            "HELP",
+            "REVOLUTION",
+            "TAXMAN",
+            "YESTERDAY"
+        ]
+    },
+    "2024-12-03": {
+        "clue": "Lead the way",
+        "spangram": "ILLUMINATION",
+        "themeWords": [
+            "CANDLE",
+            "FLASHLIGHT",
+            "HEADLAMP",
+            "LANTERN",
+            "TORCH"
+        ]
+    },
+    "2024-12-04": {
+        "clue": "I now pronounce you ...",
+        "spangram": "DIACRITICS",
+        "themeWords": [
+            "ACUTE",
+            "CEDILLA",
+            "CIRCUMFLEX",
+            "GRAVE",
+            "TILDE",
+            "UMLAUT"
+        ]
+    },
+    "2024-12-05": {
+        "clue": "Gonna fly now!",
+        "spangram": "WINGEDTHING",
+        "themeWords": [
+            "ANGEL",
+            "BUTTERFLY",
+            "DRAGON",
+            "FAIRY",
+            "GRIFFIN",
+            "STORK"
+        ]
+    },
+    "2024-12-06": {
+        "clue": "Find your people",
+        "spangram": "FELLOWSHIP",
+        "themeWords": [
+            "BUNCH",
+            "CIRCLE",
+            "CLIQUE",
+            "CLUB",
+            "CROWD",
+            "GROUP",
+            "SOCIETY"
+        ]
+    },
+    "2024-12-07": {
+        "clue": "Prepare to be eaten",
+        "spangram": "HOTPOTATO",
+        "themeWords": [
+            "BAKED",
+            "FONDANT",
+            "FRIED",
+            "MASHED",
+            "ROASTED",
+            "SCALLOPED"
+        ]
+    },
+    "2024-12-08": {
+        "clue": "A timely theme",
+        "spangram": "WATCHWORDS",
+        "themeWords": [
+            "ANALOG",
+            "BEZEL",
+            "CROWN",
+            "DIGITAL",
+            "FACE",
+            "HANDS",
+            "LUXURY"
+        ]
+    },
+    "2024-12-09": {
+        "clue": "Quiet at first",
+        "spangram": "SILENTLETTER",
+        "themeWords": [
+            "GNOME",
+            "HONESTY",
+            "KNUCKLE",
+            "MNEMONIC",
+            "PSALM",
+            "WRAP"
+        ]
+    },
+    "2024-12-10": {
+        "clue": "Something to see",
+        "spangram": "CINEMATIC",
+        "themeWords": [
+            "FEATURE",
+            "FILM",
+            "FLICK",
+            "MOVIE",
+            "PICTURE",
+            "SHORT",
+            "TALKIE"
+        ]
+    },
+    "2024-12-11": {
+        "clue": "Board certified",
+        "spangram": "WOODWORKING",
+        "themeWords": [
+            "CHISEL",
+            "DRILL",
+            "JIGSAW",
+            "LATHE",
+            "PLANE",
+            "SANDER",
+            "VISE"
+        ]
+    },
+    "2024-12-12": {
+        "clue": "Shape and bake",
+        "spangram": "COOKIECUTTER",
+        "themeWords": [
+            "ANGEL",
+            "BELL",
+            "BUNNY",
+            "DIAMOND",
+            "FLOWER",
+            "HEART",
+            "STAR"
+        ]
+    },
+    "2024-12-13": {
+        "clue": "One for the Swifties",
+        "spangram": "ALBUMTITLE",
+        "themeWords": [
+            "EVERMORE",
+            "FEARLESS",
+            "FOLKLORE",
+            "LOVER",
+            "MIDNIGHTS"
+        ]
+    },
+    "2024-12-14": {
+        "clue": "Nothing can stop me!",
+        "spangram": "GOGETTER",
+        "themeWords": [
+            "DEVOTION",
+            "DRIVE",
+            "FIRE",
+            "INTENSITY",
+            "PASSION",
+            "PURPOSE"
+        ]
+    },
+    "2024-12-15": {
+        "clue": "Moonlighting",
+        "spangram": "LUNARPHASE",
+        "themeWords": [
+            "CRESCENT",
+            "FULL",
+            "GIBBOUS",
+            "QUARTER",
+            "WANING",
+            "WAXING"
+        ]
+    },
+    "2024-12-16": {
+        "clue": "Crossed words",
+        "spangram": "PORTMANTEAUX",
+        "themeWords": [
+            "ANKLET",
+            "ATHLEISURE",
+            "BRUNCH",
+            "SMOG",
+            "SPORK",
+            "ZORSE"
+        ]
+    },
+    "2024-12-17": {
+        "clue": "It's lit!",
+        "spangram": "FICTIONGENRE",
+        "themeWords": [
+            "CRIME",
+            "FANTASY",
+            "HISTORICAL",
+            "ROMANCE",
+            "WESTERN"
+        ]
+    },
+    "2024-12-18": {
+        "clue": "You say you want a revolution",
+        "spangram": "SPINNERS",
+        "themeWords": [
+            "BALLERINA",
+            "DRYER",
+            "EARTH",
+            "FOOTBALL",
+            "PINWHEEL",
+            "TIRES"
+        ]
+    },
+    "2024-12-19": {
+        "clue": "Roll with it",
+        "spangram": "ROCKING",
+        "themeWords": [
+            "ALTERNATIVE",
+            "GLAM",
+            "GRUNGE",
+            "METAL",
+            "PROGRESSIVE",
+            "PUNK"
+        ]
+    },
+    "2024-12-20": {
+        "clue": "Morning morsel",
+        "spangram": "CEREAL",
+        "themeWords": [
+            "CHARM",
+            "CHEERIO",
+            "CRUNCH",
+            "FLAKE",
+            "LOOP",
+            "PEBBLE",
+            "PUFF",
+            "SMACK"
+        ]
+    },
+    "2024-12-21": {
+        "clue": "Keeping the faith",
+        "spangram": "SACREDSPACES",
+        "themeWords": [
+            "ABBEY",
+            "MONASTERY",
+            "MOSQUE",
+            "TABERNACLE",
+            "TEMPLE"
+        ]
+    },
+    "2024-12-22": {
+        "clue": "Are you listening?",
+        "spangram": "WINTERWONDERLAND",
+        "themeWords": [
+            "BELLS",
+            "GLISTENING",
+            "SLEIGH",
+            "SNOW",
+            "WALKING"
+        ]
+    },
+    "2024-12-23": {
+        "clue": "Pass the eggnog",
+        "spangram": "HOLIDAYFLAVOR",
+        "themeWords": [
+            "COCOA",
+            "CRANBERRY",
+            "GINGERBREAD",
+            "PEPPERMINT"
+        ]
+    },
+    "2024-12-24": {
+        "clue": "Who in the world ...?",
+        "spangram": "NATURENAMES",
+        "themeWords": [
+            "BROOK",
+            "CLEMENTINE",
+            "HOLLY",
+            "LAUREL",
+            "RIVER",
+            "WILLOW"
+        ]
+    },
+    "2024-12-25": {
+        "clue": "A visit from Santa",
+        "spangram": "STOCKING",
+        "themeWords": [
+            "CANDLE",
+            "CANDY",
+            "COAL",
+            "ORANGE",
+            "PLUSHIE",
+            "SLIPPERS",
+            "TOYS"
+        ]
+    }
+}
