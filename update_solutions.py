@@ -53,6 +53,9 @@ while True:
     except KeyError:
         print('No more Wordle solutions')
         break
+    except Exception as e:
+        print(f'Error fetching Wordle solution for {wordle_start_date}: {e}')
+        break
 
 while True:
     try:
@@ -61,6 +64,9 @@ while True:
     except KeyError:
         print('No more Connections solutions')
         break
+    except Exception as e:
+        print(f'Error fetching Connections solution for {connections_start_date}: {e}')
+        break
 
 while True:
     try:
@@ -68,6 +74,9 @@ while True:
         strands_start_date += delta
     except KeyError:
         print('No more Strands solutions')
+        break
+    except Exception as e:
+        print(f'Error fetching Strands solution for {strands_start_date}: {e}')
         break
 
 # Save Wordle solutions to a local JSON file
