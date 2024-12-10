@@ -1,6 +1,6 @@
+import threading
 from datetime import date, timedelta
 import json
-import os
 import requests
 
 # Initialize solutions as empty dictionaries
@@ -8,7 +8,7 @@ wordle_solutions = {}
 connections_solutions = {}
 strands_solutions = {}
 
-# Function to fetch Wordle solutions
+# Function to fetch Wordle solution
 def fetch_wordle_solution(input_date):
     if input_date not in wordle_solutions:
         response = requests.get(f'https://www.nytimes.com/svc/wordle/v2/{input_date}.json')
@@ -16,7 +16,7 @@ def fetch_wordle_solution(input_date):
         wordle_solutions[input_date] = solution
         print(f'Fetched Wordle solution for {input_date}')
 
-# Function to fetch Connections solutions
+# Function to fetch Connections solution
 def fetch_connections_solution(input_date):
     if input_date not in connections_solutions:
         response = requests.get(f'https://www.nytimes.com/svc/connections/v2/{input_date}.json')
@@ -31,7 +31,7 @@ def fetch_connections_solution(input_date):
         connections_solutions[input_date] = solution
         print(f'Fetched Connections solution for {input_date}')
 
-# Function to fetch Strands solutions
+# Function to fetch Strands solution
 def fetch_strands_solution(input_date):
     if input_date not in strands_solutions:
         response = requests.get(f'https://www.nytimes.com/svc/strands/v2/{input_date}.json')
@@ -50,32 +50,50 @@ connections_start_date = date(2023, 6, 12)
 strands_start_date = date(2024, 3, 4)
 delta = timedelta(days=1)
 
-# Fetch Wordle solutions
-while True:
-    try:
-        fetch_wordle_solution(wordle_start_date.strftime('%Y-%m-%d'))
-        wordle_start_date += delta
-    except KeyError:
-        print('No more Wordle solutions')
-        break
+# Fetch functions for threading
+def fetch_all_wordle_solutions():
+    current_date = wordle_start_date
+    while True:
+        try:
+            fetch_wordle_solution(current_date.strftime('%Y-%m-%d'))
+            current_date += delta
+        except KeyError:
+            print('No more Wordle solutions')
+            break
 
-# Fetch Connections solutions
-while True:
-    try:
-        fetch_connections_solution(connections_start_date.strftime('%Y-%m-%d'))
-        connections_start_date += delta
-    except KeyError:
-        print('No more Connections solutions')
-        break
+def fetch_all_connections_solutions():
+    current_date = connections_start_date
+    while True:
+        try:
+            fetch_connections_solution(current_date.strftime('%Y-%m-%d'))
+            current_date += delta
+        except KeyError:
+            print('No more Connections solutions')
+            break
 
-# Fetch Strands solutions
-while True:
-    try:
-        fetch_strands_solution(strands_start_date.strftime('%Y-%m-%d'))
-        strands_start_date += delta
-    except KeyError:
-        print('No more Strands solutions')
-        break
+def fetch_all_strands_solutions():
+    current_date = strands_start_date
+    while True:
+        try:
+            fetch_strands_solution(current_date.strftime('%Y-%m-%d'))
+            current_date += delta
+        except KeyError:
+            print('No more Strands solutions')
+            break
+
+# Create threads
+threads = []
+threads.append(threading.Thread(target=fetch_all_wordle_solutions))
+threads.append(threading.Thread(target=fetch_all_connections_solutions))
+threads.append(threading.Thread(target=fetch_all_strands_solutions))
+
+# Start threads
+for thread in threads:
+    thread.start()
+
+# Wait for all threads to finish
+for thread in threads:
+    thread.join()
 
 # Save Wordle solutions to a local JSON file
 with open('./solutions/wordle_solutions.json', 'w', encoding='utf-8') as f:
