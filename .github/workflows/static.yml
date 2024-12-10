@@ -6,9 +6,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "index.html"
-      - "script.js"
-      - "favicon.svg"
+      - "site/**"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

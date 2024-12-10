@@ -17,7 +17,7 @@
 
 <br/>
 
-This is a simple website that has an archive of official New York Times Wordle and Connections solutions. 
+This is a simple website that has an archive of official New York Times Wordle, Connections and Strands solutions. 
 
 New solutions are fetched from the New York Times and added to the list daily at 00:00 UTC.
 
@@ -29,7 +29,7 @@ The list is available at the [NYT Games Archive site](https://hamster45105.githu
 
 The raw list of solutions is available in these JSON files:
 
-[Wordle](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json) • [Connections](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json)
+[Wordle](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json) • [Connections](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json) • [Strands](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands_solutions.json)
 
 ## License
 

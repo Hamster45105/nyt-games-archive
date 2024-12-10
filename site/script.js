@@ -33,6 +33,25 @@ document.addEventListener('DOMContentLoaded', function () {
       (data, date) => data[date],
       0
     );
+  } else if (page === 'strands') {
+    title.textContent = 'Strands Archive';
+    subtitle.textContent = 'A list of all NYT Strands EVER + all confirmed future ones!';
+    fetchSolutions(
+      'https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands_solutions.json',
+      'solutionsTable',
+      (data, date) => {
+        const solution = data[date];
+        let solutionHTML = `<p><strong>Clue:</strong> ${solution.clue}</p>`;
+        solutionHTML += `<p><strong>Spangram:</strong> ${solution.spangram}</p>`;
+        solutionHTML += '<p><strong>Theme Words:</strong></p><ul>';
+        for (const word of solution.themeWords) {
+          solutionHTML += `<li>${word}</li>`;
+        }
+        solutionHTML += '</ul>';
+        return solutionHTML;
+      },
+      1
+    );
   } else {
     location.href = '?page=wordle';
   }
