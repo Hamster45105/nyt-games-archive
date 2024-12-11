@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        pip install requests pillow
 
     - name: Update Solutions
       run: python update_solutions.py
@@ -36,6 +36,7 @@ jobs:
         git add ./solutions/wordle_solutions.json
         git add ./solutions/connections_solutions.json
         git add ./solutions/strands_solutions.json
+        git add ./solutions/strands/*
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else

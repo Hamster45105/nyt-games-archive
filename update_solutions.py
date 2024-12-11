@@ -2,6 +2,7 @@ import threading
 from datetime import date, timedelta
 import json
 import requests
+from recreate_strands import recreate_board
 
 # Initialize solutions as empty dictionaries
 wordle_solutions = {}
@@ -42,6 +43,7 @@ def fetch_strands_solution(input_date):
             'themeWords': data['themeWords']
         }
         strands_solutions[input_date] = solution
+        recreate_board(response.json(), output_file=f'./solutions/strands/{input_date}.png')
         print(f'Fetched Strands solution for {input_date}')
 
 # Start dates
