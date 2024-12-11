@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const solution = data[date];
         let solutionHTML = `<p><strong>Clue:</strong> ${solution.clue}</p>`;
         solutionHTML += `<p><strong>Spangram:</strong> ${solution.spangram}</p>`;
-        
+
         const imageUrl = `https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands/${date}.png`;
         solutionHTML += `<div class="mt-3"><a href="${imageUrl}" target="_blank" class="btn btn-success btn-long">View Image</a></div>`;
 

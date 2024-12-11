@@ -8,7 +8,7 @@ def recreate_board(json_data, output_file="board.png"):
 
     if not starting_board or not theme_coords or not spangram_coords:
         raise ValueError("Invalid JSON data.")
-    
+
     cell_size = 60
     font_size = 20
     grid_width = len(starting_board[0])
