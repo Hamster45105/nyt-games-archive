@@ -52,6 +52,13 @@ document.addEventListener('DOMContentLoaded', function () {
           solutionHTML += `<li>${word}</li>`;
         }
         solutionHTML += '</ul>';
+
+        solutionHTML += '<details><summary><strong>Other Words:</strong></summary><ul>';
+        for (const word of solution.otherWords) {
+          solutionHTML += `<li>${word}</li>`;
+        }
+        solutionHTML += '</ul></details>';
+
         return solutionHTML;
       },
       1

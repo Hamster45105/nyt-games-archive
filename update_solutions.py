@@ -40,7 +40,8 @@ def fetch_strands_solution(input_date):
         solution = {
             'clue': data['clue'],
             'spangram': data['spangram'],
-            'themeWords': data['themeWords']
+            'themeWords': data['themeWords'],
+            'otherWords': data['solutions']
         }
         strands_solutions[input_date] = solution
         recreate_board(response.json(), output_file=f'./solutions/strands/{input_date}.png')
