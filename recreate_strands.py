@@ -26,7 +26,7 @@ def recreate_board(json_data, output_file="board.png"):
     draw = ImageDraw.Draw(img)
 
     try:
-        font = ImageFont.truetype("arialbd.ttf", font_size)
+        font = ImageFont.truetype('./Arial_Bold.ttf', font_size)
     except IOError:
         font = ImageFont.load_default()
 
