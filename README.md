@@ -31,6 +31,8 @@ The raw list of solutions is available in these JSON files:
 
 [Wordle](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json) • [Connections](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json) • [Strands](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands_solutions.json)
 
+Solutions for Strands as images are available in [this folder](https://github.com/Hamster45105/nyt-games-archive/tree/main/solutions/strands).
+
 ## License
 
 The code in this repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
