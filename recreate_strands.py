@@ -18,7 +18,7 @@ def recreate_board(json_data, output_file="board.png"):
 
     # Color definitions
     normal_blue = "#aedfee"
-    alternate_blue = "#adbeed"
+    alternate_blue = "#98c2ce"
     normal_gold = "#f8cd05"
     alternate_gold = "#e2bb0b"
 
