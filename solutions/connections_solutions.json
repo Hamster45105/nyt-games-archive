@@ -14676,17 +14676,17 @@
             "PRESSES",
             "TAPS"
         ],
-        "OSCAR-WINNING ACTORS": [
-            "BRIDGES",
-            "IRONS",
-            "PHOENIX",
-            "WASHINGTON"
-        ],
         "THEY HAVE A HORN": [
             "AFRICA",
             "BUGLER",
             "CAR",
             "UNICORN"
+        ],
+        "OSCAR-WINNING ACTORS": [
+            "BRIDGES",
+            "IRONS",
+            "PHOENIX",
+            "WASHINGTON"
         ]
     },
     "2024-12-28": {
@@ -14722,17 +14722,17 @@
             "MAROON",
             "RUBY"
         ],
-        "DIFFERENT AMOUNTS OF HAIR": [
-            "HEAD",
-            "LOCK",
-            "STRAND",
-            "WISP"
-        ],
         "APPOINTMENT SPECIFICATIONS": [
             "DATE",
             "DURATION",
             "LOCATION",
             "TIME"
+        ],
+        "DIFFERENT AMOUNTS OF HAIR": [
+            "HEAD",
+            "LOCK",
+            "STRAND",
+            "WISP"
         ],
         "TREE HOMOPHONES": [
             "BEACH",
@@ -14765,6 +14765,162 @@
             "JEOPARDY",
             "PINK",
             "YAHOO"
+        ]
+    },
+    "2024-12-31": {
+        "FUN TIME": [
+            "BALL",
+            "BLAST",
+            "KICK",
+            "THRILL"
+        ],
+        "MOVE QUICKLY": [
+            "BOLT",
+            "DART",
+            "DASH",
+            "FLY"
+        ],
+        "WORDS BEFORE AN ADDRESSEE": [
+            "ATTENTION",
+            "DEAR",
+            "FOR",
+            "TO"
+        ],
+        "NAME ___": [
+            "BRAND",
+            "DROP",
+            "GAME",
+            "NAMES"
+        ]
+    },
+    "2025-01-01": {
+        "SLIMY ANIMALS": [
+            "EARTHWORM",
+            "EEL",
+            "SALAMANDER",
+            "SLUG"
+        ],
+        "THINGS THAT LUMINESCE": [
+            "AURORA",
+            "FIREFLY",
+            "GLOWSTICK",
+            "RADIUM"
+        ],
+        "DUTCH SYMBOLS": [
+            "CANAL",
+            "CLOG",
+            "TULIP",
+            "WINDMILL"
+        ],
+        "ENDING WITH SYNONYMS FOR \u201cPLUNGE\u201d": [
+            "GATECRASH",
+            "RAINDROP",
+            "SKYDIVE",
+            "WATERFALL"
+        ]
+    },
+    "2025-01-02": {
+        "PERCEIVE": [
+            "CATCH",
+            "CLOCK",
+            "NOTICE",
+            "REGISTER"
+        ],
+        "CADENCE": [
+            "BEAT",
+            "METER",
+            "RHYTHM",
+            "TIME"
+        ],
+        "ONE IN A GROUP OF TWELVE": [
+            "DONUT",
+            "INCH",
+            "JUROR",
+            "MONTH"
+        ],
+        "DOG ___": [
+            "DAYS",
+            "PADDLE",
+            "TAG",
+            "TIRED"
+        ]
+    },
+    "2025-01-03": {
+        "PARTS OF A FOOT": [
+            "ARCH",
+            "BALL",
+            "HEEL",
+            "SOLE"
+        ],
+        "ONE DOLLAR": [
+            "BUCK",
+            "CLAM",
+            "SINGLE",
+            "SMACKER"
+        ],
+        "KINDS OF MUSHROOMS": [
+            "BUTTON",
+            "MOREL",
+            "OYSTER",
+            "TRUMPET"
+        ],
+        "POT___": [
+            "BELLY",
+            "HOLE",
+            "LUCK",
+            "STICKER"
+        ]
+    },
+    "2025-01-04": {
+        "CRUSH INTO A COMPACT SHAPE": [
+            "BALL",
+            "CRUMPLE",
+            "SCRUNCH",
+            "WAD"
+        ],
+        "FASTENERS": [
+            "BUCKLE",
+            "CLIP",
+            "HOOK",
+            "SNAP"
+        ],
+        "MARK AS COMPLETED": [
+            "CHECK",
+            "CROSS",
+            "STRIKE",
+            "TICK"
+        ],
+        "DEPICTED IN DALI\u2019S \u201cTHE PERSISTENCE OF MEMORY\u201d": [
+            "ANT",
+            "BRANCH",
+            "CLOCK",
+            "MELTING"
+        ]
+    },
+    "2025-01-05": {
+        "HARDLY BUSTLING": [
+            "CALM",
+            "QUIET",
+            "SLEEPY",
+            "SLOW"
+        ],
+        "EARN": [
+            "GROSS",
+            "NET",
+            "RETURN",
+            "YIELD"
+        ],
+        "REMOTE CONTROL FUNCTIONS": [
+            "HOME",
+            "MUTE",
+            "STOP",
+            "VOLUME"
+        ],
+        "WORDS BEFORE \u201cDRUM\u201d": [
+            "EAR",
+            "KETTLE",
+            "OIL",
+            "SNARE"
         ]
     }
 }
