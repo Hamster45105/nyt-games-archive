@@ -14922,5 +14922,31 @@
             "OIL",
             "SNARE"
         ]
+    },
+    "2025-01-06": {
+        "BREATHE HARD": [
+            "GASP",
+            "HEAVE",
+            "PANT",
+            "PUFF"
+        ],
+        "METAPHORS FOR EASY THINGS": [
+            "ABC",
+            "BREEZE",
+            "PICNIC",
+            "PIE"
+        ],
+        "CATCHALL": [
+            "BLANKET",
+            "BROAD",
+            "GENERAL",
+            "UMBRELLA"
+        ],
+        "SYNONYMS FOR REAR END MINUS LAST LETTER": [
+            "ARS",
+            "BOOT",
+            "BUT",
+            "RUM"
+        ]
     }
 }
