@@ -69,6 +69,8 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
+  document.getElementById('loading').style.display = 'block';
+
   fetch(`${url}?${new Date().getTime()}`)
     .then(response => {
       if (!response.ok) {
@@ -109,6 +111,10 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
     })
     .catch(e => {
       console.error('There was a problem with the fetch operation: ' + e.message);
+    })
+    .finally(() => {
+      // Hide loading indicator
+      document.getElementById('loading').style.display = 'none';
     });
 }
 
