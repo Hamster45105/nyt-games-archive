@@ -1,4 +1,4 @@
-# NYT Games Archive <img src="site/favicon.svg" width="64" height="64" alt="Favicon">
+# <img src="site/favicon.svg" width="64" height="64" alt="Favicon"> NYT Games Archive 
 
 <div align="center">
 
@@ -35,4 +35,4 @@ Solutions for Strands as images are available in [this folder](https://github.co
 
 ## License
 
-The code in this repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+The code in this repository is licensed under the [MIT License](/LICENSE)
