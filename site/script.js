@@ -53,11 +53,12 @@ document.addEventListener('DOMContentLoaded', function () {
         }
         solutionHTML += '</ul>';
 
-        solutionHTML += '<details><summary><strong>Other Words:</strong></summary><ul>';
-        for (const word of solution.otherWords) {
-          solutionHTML += `<li>${word}</li>`;
-        }
-        solutionHTML += '</ul></details>';
+        solutionHTML += `
+          <details>
+            <summary><strong>Other Words:</strong></summary>
+            <div class="other-words-loading">Loading...</div>
+          </details>
+        `;
 
         return solutionHTML;
       },
@@ -102,10 +103,12 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
           revealButton.textContent = 'Reveal';
           revealButton.addEventListener('click', function () {
             cell3.innerHTML = solutionHTML;
+            addDetailsEventListeners(cell3, data[date]);
           });
           cell3.appendChild(revealButton);
         } else {
           cell3.innerHTML = solutionHTML;
+          addDetailsEventListeners(cell3, data[date]);
         }
       }
     })
@@ -116,6 +119,23 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
       // Hide loading indicator
       document.getElementById('loading').style.display = 'none';
     });
+}
+
+function addDetailsEventListeners(cell, solution) {
+  const details = cell.querySelector('details');
+  if (details) {
+    details.addEventListener('toggle', function () {
+      if (details.open) {
+        const loadingDiv = details.querySelector('.other-words-loading');
+        let otherWordsHTML = '<ul>';
+        for (const word of solution.otherWords) {
+          otherWordsHTML += `<li>${word}</li>`;
+        }
+        otherWordsHTML += '</ul>';
+        loadingDiv.innerHTML = otherWordsHTML;
+      }
+    }, { once: true });
+  }
 }
 
 function topFunction() {
