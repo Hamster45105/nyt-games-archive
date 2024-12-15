@@ -52,7 +52,7 @@ def recreate_board(json_data, output_file="board.png"):
         for i in range(len(centers) - 1):
             start = calculate_edge_point(centers[i], centers[i + 1], radius)
             end = calculate_edge_point(centers[i + 1], centers[i], radius)
-            draw.line([start, end], fill=normal_blue, width=4)  # Thicker lines
+            draw.line([start, end], fill=normal_blue, width=9)
 
     # Draw circles and lines for spangram
     spangram_centers = []
@@ -73,7 +73,7 @@ def recreate_board(json_data, output_file="board.png"):
     for i in range(len(spangram_centers) - 1):
         start = calculate_edge_point(spangram_centers[i], spangram_centers[i + 1], radius)
         end = calculate_edge_point(spangram_centers[i + 1], spangram_centers[i], radius)
-        draw.line([start, end], fill=normal_gold, width=4)  # Thicker lines
+        draw.line([start, end], fill=normal_gold, width=9)
 
     # Draw letters
     for y, row in enumerate(starting_board):
