@@ -143,14 +143,15 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
     })
     .then(data => {
       const tableBody = document.getElementById(tableId).getElementsByTagName('tbody')[0];
-      let i = startNumber;
-      for (const date in data) {
+      const reversedDates = Object.keys(data).sort((a, b) => new Date(b) - new Date(a));
+      let i = startNumber + reversedDates.length - 1;
+      for (const date of reversedDates) {
         const row = tableBody.insertRow(-1);
         const cell1 = row.insertCell(0);
         const cell2 = row.insertCell(1);
         const cell3 = row.insertCell(2);
 
-        cell1.textContent = i++;
+        cell1.textContent = i--;
         cell2.textContent = date;
 
         const solutionHTML = generateSolutionHTML(data, date);
