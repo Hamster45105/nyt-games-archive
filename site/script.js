@@ -186,6 +186,9 @@ function addDetailsEventListeners(cell, solution) {
   if (details) {
     details.addEventListener('toggle', function () {
       if (details.open) {
+        const summary = details.querySelector('summary');
+        summary.innerHTML = `<strong>Other Words</strong> (${solution.otherWords.length})`;
+
         const loadingDiv = details.querySelector('.other-words-loading');
         let otherWordsHTML = '<ul>';
         for (const word of solution.otherWords) {
