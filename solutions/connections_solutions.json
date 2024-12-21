@@ -14768,17 +14768,17 @@
         ]
     },
     "2024-12-31": {
-        "FUN TIME": [
-            "BALL",
-            "BLAST",
-            "KICK",
-            "THRILL"
-        ],
         "MOVE QUICKLY": [
             "BOLT",
             "DART",
             "DASH",
             "FLY"
+        ],
+        "FUN TIME": [
+            "BALL",
+            "BLAST",
+            "KICK",
+            "THRILL"
         ],
         "WORDS BEFORE AN ADDRESSEE": [
             "ATTENTION",
@@ -14947,6 +14947,188 @@
             "BOOT",
             "BUT",
             "RUM"
+        ]
+    },
+    "2025-01-07": {
+        "VOCAL MUSIC": [
+            "A CAPPELLA",
+            "BARBERSHOP",
+            "DOO-WOP",
+            "MADRIGAL"
+        ],
+        "A HANDFUL OF": [
+            "A FEW",
+            "CERTAIN",
+            "SOME",
+            "VARIOUS"
+        ],
+        "BOOK SUBTITLES": [
+            "A LIFE",
+            "A NOVEL",
+            "ESSAYS",
+            "PART ONE"
+        ],
+        "___ IS ___ (IS ___)": [
+            "A DEAL",
+            "A ROSE",
+            "ENOUGH",
+            "LOVE"
+        ]
+    },
+    "2025-01-08": {
+        "SECTION": [
+            "BRANCH",
+            "DIVISION",
+            "LIMB",
+            "WING"
+        ],
+        "ACCESSORIES FOR PLAYING AN INSTRUMENT": [
+            "BOW",
+            "DRUMSTICK",
+            "MALLET",
+            "PICK"
+        ],
+        "DISTINCTIVE FEATURES OF AN ELEPHANT": [
+            "EAR",
+            "MEMORY",
+            "TRUNK",
+            "TUSK"
+        ],
+        "WORDS MISSPELLED IN NU METAL BAND NAMES": [
+            "BISCUIT",
+            "CORN",
+            "LINCOLN",
+            "STAINED"
+        ]
+    },
+    "2025-01-09": {
+        "DOG COMMANDS": [
+            "COME",
+            "HEEL",
+            "SIT",
+            "STAY"
+        ],
+        "VENDOR\u2019S SPOT AT A MARKET": [
+            "BOOTH",
+            "STALL",
+            "STAND",
+            "TABLE"
+        ],
+        "CORPORATE DEPARTMENTS": [
+            "FINANCE",
+            "IT",
+            "LEGAL",
+            "SALES"
+        ],
+        "LAST WORDS IN \u201cAMERICA THE BEAUTIFUL\u201d": [
+            "FROM",
+            "SEA",
+            "SHINING",
+            "TO"
+        ]
+    },
+    "2025-01-10": {
+        "BE CONTINGENT (ON)": [
+            "DEPEND",
+            "HINGE",
+            "RELY",
+            "REST"
+        ],
+        "\u201cCALM DOWN\u201d": [
+            "CHILL",
+            "EASY",
+            "ENOUGH",
+            "RELAX"
+        ],
+        "INGREDIENTS IN AN OLD FASHIONED": [
+            "BITTERS",
+            "ORANGE",
+            "RYE",
+            "SUGAR"
+        ],
+        "FEATURED IN THE MONTY HALL PROBLEM": [
+            "CAR",
+            "DOOR",
+            "GOAT",
+            "HOST"
+        ]
+    },
+    "2025-01-11": {
+        "DISPLAY OF ROWS AND COLUMNS": [
+            "ARRAY",
+            "GRID",
+            "MATRIX",
+            "TABLE"
+        ],
+        "THINGS TO DO AT A WORK EVENT": [
+            "CIRCULATE",
+            "CONVERSE",
+            "MINGLE",
+            "NETWORK"
+        ],
+        "OLYMPIC EVENTS INTRODUCED IN THE 21ST CENTURY": [
+            "BREAKING",
+            "SURFING",
+            "TAEKWONDO",
+            "TRAMPOLINE"
+        ],
+        "___ COURT": [
+            "FOOD",
+            "KANGAROO",
+            "SUPREME",
+            "TENNIS"
+        ]
+    },
+    "2025-01-12": {
+        "FABRICATION": [
+            "FAIRY TALE",
+            "FANTASY",
+            "FICTION",
+            "INVENTION"
+        ],
+        "WOO": [
+            "CHARM",
+            "COURT",
+            "PURSUE",
+            "ROMANCE"
+        ],
+        "CLASSIC ATARI GAMES": [
+            "ASTEROIDS",
+            "BREAKOUT",
+            "CENTIPEDE",
+            "DEFENDER"
+        ],
+        "THINGS FEATURING TAILS": [
+            "COIN TOSS",
+            "COMETS",
+            "DRESS COAT",
+            "SONIC THE HEDGEHOG"
+        ]
+    },
+    "2025-01-13": {
+        "TEACH": [
+            "COACH",
+            "GUIDE",
+            "SCHOOL",
+            "TRAIN"
+        ],
+        "CACHE": [
+            "BANK",
+            "POOL",
+            "RESERVE",
+            "STORE"
+        ],
+        "DRIVING INSTRUCTOR DIRECTIVES": [
+            "BRAKE",
+            "PARK",
+            "SIGNAL",
+            "TURN"
+        ],
+        "___WORM": [
+            "BOOK",
+            "EARTH",
+            "GLOW",
+            "INCH"
         ]
     }
 }
