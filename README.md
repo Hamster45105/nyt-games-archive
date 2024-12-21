@@ -17,19 +17,24 @@
 
 <br/>
 
-This is a simple website that has an archive of official New York Times Wordle, Connections and Strands solutions. 
+This is a simple website that has an archive of solutions to various [New York Times Games](https://www.nytimes.com/crosswords). 
 
 New solutions are fetched from the New York Times and added to the list daily at 00:00 UTC.
 
 **Warning!** May contain spoilers!
 
-The list is available at the [NYT Games Archive site](https://hamster45105.github.io/nyt-games-archive/)
+The list is available at the [https://hamster45105.github.io/nyt-games-archive/](https://hamster45105.github.io/nyt-games-archive/)
 
----
+## Currently Supported Games
+
+- Wordle
+- Connections
+- Strands
+- The Mini
 
 The raw list of solutions is available in these JSON files:
 
-[Wordle](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json) • [Connections](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json) • [Strands](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands_solutions.json)
+[Wordle](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json) • [Connections](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json) • [Strands](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands_solutions.json) • [The Mini](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/mini_solutions.json)
 
 Solutions for Strands as images are available in [this folder](https://github.com/Hamster45105/nyt-games-archive/tree/main/solutions/strands).
 

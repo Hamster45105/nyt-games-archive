@@ -92,6 +92,22 @@ body {
   to { transform: rotate(360deg); }
 }
 
+.letter-box {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #343a40;
+  margin: 5px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #fff;
+}
+.letters {
+  margin-bottom: 15px;
+}
+
 .footer-logo {
   display: block;
   margin-bottom: 10px;

@@ -1,4 +1,4 @@
-name: Update Solutions
+name: Update Solutions (Wordle, Connections, Strands)
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
         pip install requests pillow
 
     - name: Update Solutions
-      run: python update_solutions.py
+      run: python update_solutions.py wordle connections strands
 
     - name: Commit and push if it changed
       run: |
