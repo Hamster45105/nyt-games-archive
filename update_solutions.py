@@ -6,9 +6,14 @@ import requests
 from recreate_strands import recreate_board
 
 # Initialize solutions as empty dictionaries
-wordle_solutions = {}
-connections_solutions = {}
-strands_solutions = {}
+with open('./solutions/wordle_solutions.json', 'r', encoding='utf-8') as f:
+    wordle_solutions = json.load(f)
+
+with open('./solutions/connections_solutions.json', 'r', encoding='utf-8') as f:
+    connections_solutions = json.load(f)
+
+with open('./solutions/strands_solutions.json', 'r', encoding='utf-8') as f:
+    strands_solutions = json.load(f)
 
 with open('./solutions/mini_solutions.json', 'r', encoding='utf-8') as f:
     mini_solutions = json.load(f)
@@ -78,7 +83,7 @@ delta = timedelta(days=1)
 
 # Fetch functions for threading
 def fetch_all_wordle_solutions():
-    current_date = wordle_start_date
+    current_date = date.today() - timedelta(days=3)
     while True:
         try:
             fetch_wordle_solution(current_date.strftime('%Y-%m-%d'))
@@ -88,7 +93,7 @@ def fetch_all_wordle_solutions():
             break
 
 def fetch_all_connections_solutions():
-    current_date = connections_start_date
+    current_date = date.today() - timedelta(days=3)
     while True:
         try:
             fetch_connections_solution(current_date.strftime('%Y-%m-%d'))
@@ -98,7 +103,7 @@ def fetch_all_connections_solutions():
             break
 
 def fetch_all_strands_solutions():
-    current_date = strands_start_date
+    current_date = date.today() - timedelta(days=3)
     while True:
         try:
             fetch_strands_solution(current_date.strftime('%Y-%m-%d'))
