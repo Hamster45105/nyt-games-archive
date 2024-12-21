@@ -1,4 +1,12 @@
 document.addEventListener('DOMContentLoaded', function () {
+  const revealModeSelect = document.getElementById('revealModeSelect');
+  if (revealModeSelect) {
+    revealModeSelect.value = localStorage.getItem('revealMode') || '2';
+    revealModeSelect.addEventListener('change', () => {
+      localStorage.setItem('revealMode', revealModeSelect.value);
+      location.reload();
+    });
+  }
   const title = document.getElementById('title');
   const subtitle = document.getElementById('subtitle');
   const notice = document.getElementById('notice');
@@ -145,6 +153,8 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
       const tableBody = document.getElementById(tableId).getElementsByTagName('tbody')[0];
       const reversedDates = Object.keys(data).sort((a, b) => new Date(b) - new Date(a));
       let i = startNumber + reversedDates.length - 1;
+      const revealMode = localStorage.getItem('revealMode') || '2';
+
       for (const date of reversedDates) {
         const row = tableBody.insertRow(-1);
         const cell1 = row.insertCell(0);
@@ -160,7 +170,8 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
         const today = new Date();
         today.setHours(0, 0, 0, 0);
 
-        if (solutionDate >= today) {
+        if (revealMode === '1') {
+          // Mode 1: Always hide behind Reveal button
           const revealButton = document.createElement('button');
           revealButton.className = 'btn btn-primary reveal-btn';
           revealButton.textContent = 'Reveal';
@@ -169,7 +180,23 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
             addDetailsEventListeners(cell3, data[date]);
           });
           cell3.appendChild(revealButton);
-        } else {
+        } else if (revealMode === '2') {
+          // Mode 2: If solution date >= today, hide; otherwise show
+          if (solutionDate >= today) {
+            const revealButton = document.createElement('button');
+            revealButton.className = 'btn btn-primary reveal-btn';
+            revealButton.textContent = 'Reveal';
+            revealButton.addEventListener('click', function () {
+              cell3.innerHTML = solutionHTML;
+              addDetailsEventListeners(cell3, data[date]);
+            });
+            cell3.appendChild(revealButton);
+          } else {
+            cell3.innerHTML = solutionHTML;
+            addDetailsEventListeners(cell3, data[date]);
+          }
+        } else if (revealMode === '3') {
+          // Mode 3: Always show
           cell3.innerHTML = solutionHTML;
           addDetailsEventListeners(cell3, data[date]);
         }
@@ -179,7 +206,6 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
       console.error('There was a problem with the fetch operation: ' + e.message);
     })
     .finally(() => {
-      // Hide loading indicator
       document.getElementById('loading').style.display = 'none';
     });
 }
