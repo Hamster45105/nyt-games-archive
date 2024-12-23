@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   const title = document.getElementById('title');
   const subtitle = document.getElementById('subtitle');
+  const notice = document.getElementById('notice');
   const urlParams = new URLSearchParams(window.location.search);
   const page = urlParams.get('page');
 
@@ -67,6 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
   } else if (page === 'mini') {
     title.textContent = 'The Mini Archive';
     subtitle.textContent = 'A list of all the NYT "The Mini" Crosswords EVER!';
+    notice.textContent = 'Daily solution should be available a few minutes after it is released';
     fetchSolutions(
       'https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/mini_solutions.json',
       'solutionsTable',
