@@ -15130,5 +15130,187 @@
             "GLOW",
             "INCH"
         ]
+    },
+    "2025-01-14": {
+        "OPERATING": [
+            "ACTIVE",
+            "FUNCTIONAL",
+            "RUNNING",
+            "WORKING"
+        ],
+        "TERM": [
+            "MEETING",
+            "PERIOD",
+            "SESSION",
+            "SITTING"
+        ],
+        "THINGS IN A CAMERA KIT": [
+            "BODY",
+            "FLASH",
+            "LENS",
+            "STRAP"
+        ],
+        "BIRD PLUS LETTER": [
+            "CROWD",
+            "GULLY",
+            "PUFFING",
+            "SWANK"
+        ]
+    },
+    "2025-01-15": {
+        "MEANS": [
+            "MECHANISM",
+            "MEDIUM",
+            "TOOL",
+            "VEHICLE"
+        ],
+        "LACKING": [
+            "LOW",
+            "SHORT",
+            "SHY",
+            "TIGHT"
+        ],
+        "MARTINI SPECIFICATIONS": [
+            "DIRTY",
+            "DRY",
+            "PERFECT",
+            "WET"
+        ],
+        "FICTIONAL MISTERS": [
+            "BIG",
+            "PEANUT",
+            "ROBOT",
+            "TOAD"
+        ]
+    },
+    "2025-01-16": {
+        "BUYING AND SELLING": [
+            "BUSINESS",
+            "COMMERCE",
+            "MARKET",
+            "TRADE"
+        ],
+        "INSTALLED ON A WALL": [
+            "BASEBOARD",
+            "OUTLET",
+            "SCONCE",
+            "SWITCH"
+        ],
+        "SPY": [
+            "AGENT",
+            "ASSET",
+            "MOLE",
+            "PLANT"
+        ],
+        "___ RAT TERMS": [
+            "GYM",
+            "MALL",
+            "PACK",
+            "RUG"
+        ]
+    },
+    "2025-01-17": {
+        "FRANKFURTER": [
+            "BANGER",
+            "BRAT",
+            "LINK",
+            "SAUSAGE"
+        ],
+        "STRIKE": [
+            "BOP",
+            "HIT",
+            "KNOCK",
+            "TAP"
+        ],
+        "WEB BROWSERS": [
+            "CHROME",
+            "EDGE",
+            "OPERA",
+            "SAFARI"
+        ],
+        "ENDING WITH BEER BRANDS": [
+            "AUTOHARP",
+            "CONTRABASS",
+            "PEPPERONI",
+            "ROSEBUD"
+        ]
+    },
+    "2025-01-18": {
+        "DESIRE": [
+            "DRIVE",
+            "IMPULSE",
+            "ITCH",
+            "URGE"
+        ],
+        "BARB": [
+            "SPINE",
+            "SPUR",
+            "STICKER",
+            "THORN"
+        ],
+        "INFO ON A RECORD": [
+            "ALBUM",
+            "ARTIST",
+            "LABEL",
+            "TRACK"
+        ],
+        "TURN THE ___": [
+            "CORNER",
+            "PAGE",
+            "TABLES",
+            "TIDE"
+        ]
+    },
+    "2025-01-19": {
+        "FUND": [
+            "KITTY",
+            "POOL",
+            "POT",
+            "PURSE"
+        ],
+        "COURT FILING": [
+            "ACTION",
+            "CASE",
+            "CLAIM",
+            "SUIT"
+        ],
+        "LANDFORMS": [
+            "BASIN",
+            "BLUFF",
+            "CAPE",
+            "PLAIN"
+        ],
+        "THEY HAVE RAYS": [
+            "AQUARIUM",
+            "GEOMETRY",
+            "SUN",
+            "TAMPA BAY"
+        ]
+    },
+    "2025-01-20": {
+        "TAKE ON, AS A RESPONSIBILITY": [
+            "ASSUME",
+            "BEAR",
+            "HANDLE",
+            "SHOULDER"
+        ],
+        "CURVATURE": [
+            "ANGLE",
+            "BEND",
+            "CROOK",
+            "ELBOW"
+        ],
+        "ASSOCIATED WITH POPEYE": [
+            "ANCHOR",
+            "FOREARM",
+            "PIPE",
+            "SPINACH"
+        ],
+        "___ SHEET": [
+            "BALANCE",
+            "CHEAT",
+            "COOKIE",
+            "FITTED"
+        ]
     }
 }
