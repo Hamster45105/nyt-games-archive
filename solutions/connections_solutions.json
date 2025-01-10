@@ -15312,5 +15312,83 @@
             "COOKIE",
             "FITTED"
         ]
+    },
+    "2025-01-21": {
+        "PUTDOWN": [
+            "BARB",
+            "CRACK",
+            "DIG",
+            "SLIGHT"
+        ],
+        "USED TO CLEAR SNOW": [
+            "PLOW",
+            "SALT",
+            "SAND",
+            "SHOVEL"
+        ],
+        "FIGURINE": [
+            "DOLL",
+            "FIGURE",
+            "MINIATURE",
+            "MODEL"
+        ],
+        "DOCTORS IN POP CULTURE": [
+            "NO",
+            "OCTOPUS",
+            "PEPPER",
+            "WHO"
+        ]
+    },
+    "2025-01-22": {
+        "TYPES OF ACADEMIC COURSES": [
+            "DISCUSSION",
+            "LAB",
+            "LECTURE",
+            "SEMINAR"
+        ],
+        "RESULTS OF SOME DIGGING": [
+            "DITCH",
+            "HOLE",
+            "PIT",
+            "TRENCH"
+        ],
+        "ONES WEARING ROBES": [
+            "BOXER",
+            "JUDGE",
+            "MONK",
+            "WIZARD"
+        ],
+        "___ UP": [
+            "BATTER",
+            "BOTTOMS",
+            "CHIN",
+            "LAWYER"
+        ]
+    },
+    "2025-01-23": {
+        "OUTDO": [
+            "BETTER",
+            "ECLIPSE",
+            "SURPASS",
+            "TOP"
+        ],
+        "PICNIC ACCESSORIES": [
+            "BASKET",
+            "BLANKET",
+            "COOLER",
+            "UTENSILS"
+        ],
+        "PARTS OF AN INDIANA JONES COSTUME": [
+            "BOMBER",
+            "FEDORA",
+            "SATCHEL",
+            "WHIP"
+        ],
+        "RHYMES OF U.S. PRESIDENT NAMES": [
+            "PAGAN",
+            "SMARTER",
+            "VIXEN",
+            "WIDEN"
+        ]
     }
 }
