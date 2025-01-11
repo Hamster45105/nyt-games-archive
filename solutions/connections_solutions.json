@@ -15390,5 +15390,161 @@
             "VIXEN",
             "WIDEN"
         ]
+    },
+    "2025-01-24": {
+        "RUDE THINGS TO DO": [
+            "INTERRUPT",
+            "LITTER",
+            "POINT",
+            "STARE"
+        ],
+        "CONTEMPLATE": [
+            "BROOD",
+            "MUSE",
+            "PONDER",
+            "REFLECT"
+        ],
+        "OCCUPATION": [
+            "CRAFT",
+            "LINE",
+            "TRADE",
+            "WORK"
+        ],
+        "___ PATCH": [
+            "CABBAGE",
+            "NICOTINE",
+            "ROUGH",
+            "SOUL"
+        ]
+    },
+    "2025-01-25": {
+        "SCHOOL PERIODS": [
+            "CLASS",
+            "HOMEROOM",
+            "LUNCH",
+            "RECESS"
+        ],
+        "FEATURES OF A SKI RESORT": [
+            "LIFT",
+            "LODGE",
+            "MOGUL",
+            "SLOPE"
+        ],
+        "WORDS DERIVED FROM JAPANESE": [
+            "EMOJI",
+            "GINKGO",
+            "KARAOKE",
+            "TYCOON"
+        ],
+        "WORDS AFTER THE PREFIX \u201cTRI-\u201d": [
+            "ANGLE",
+            "CYCLE",
+            "DENT",
+            "POD"
+        ]
+    },
+    "2025-01-26": {
+        "WAYS TO GET FOOD": [
+            "FARM",
+            "FISH",
+            "GATHER",
+            "HUNT"
+        ],
+        "KEEP APART": [
+            "CLOISTER",
+            "SECLUDE",
+            "SEPARATE",
+            "SILO"
+        ],
+        "PARTS OF A BIG RIG": [
+            "AXLES",
+            "HITCH",
+            "TRACTOR",
+            "TRAILER"
+        ],
+        "DANCE EVENTS PLUS A LETTER": [
+            "BALLY",
+            "DISCOG",
+            "PROMO",
+            "RAVEN"
+        ]
+    },
+    "2025-01-27": {
+        "SMALL AMOUNT OF FOOD TO TRY": [
+            "BITE",
+            "MOUTHFUL",
+            "SAMPLE",
+            "TASTE"
+        ],
+        "PROTECTIVE COVERINGS IN NATURE": [
+            "BARK",
+            "SCALES",
+            "SHELL",
+            "SKIN"
+        ],
+        "\u201cEXTRA VIRGIN OLIVE OIL\u201d": [
+            "EXTRA",
+            "OIL",
+            "OLIVE",
+            "VIRGIN"
+        ],
+        "SEEN IN \u201cTHE SHINING\u201d": [
+            "AXE",
+            "HEDGE MAZE",
+            "TWINS",
+            "TYPEWRITER"
+        ]
+    },
+    "2025-01-28": {
+        "FUNNY PERSON": [
+            "CARD",
+            "CHARACTER",
+            "JOKER",
+            "LAUGH"
+        ],
+        "RESISTANCE TRAINING EQUIPMENT": [
+            "BAND",
+            "BENCH",
+            "DUMBBELL",
+            "MAT"
+        ],
+        "CANDY BARS MINUS \u201cS\u201d": [
+            "AIRHEAD",
+            "MAR",
+            "MOUND",
+            "SNICKER"
+        ],
+        "SPEED ___": [
+            "BUMP",
+            "CHESS",
+            "DEMON",
+            "DIAL"
+        ]
+    },
+    "2025-01-29": {
+        "OWNED": [
+            "BORE",
+            "HAD",
+            "HELD",
+            "POSSESSED"
+        ],
+        "THINGS YOU MIGHT DO IN YOUR SLEEP": [
+            "DREAM",
+            "DROOL",
+            "SNORE",
+            "TALK"
+        ],
+        "2024 PREQUELS/SEQUELS": [
+            "ALIEN",
+            "GLADIATOR",
+            "VENOM",
+            "WICKED"
+        ],
+        "___ HOUSE": [
+            "FULL",
+            "GINGERBREAD",
+            "HAUNTED",
+            "WHITE"
+        ]
     }
 }
