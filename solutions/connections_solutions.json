@@ -15546,5 +15546,239 @@
             "HAUNTED",
             "WHITE"
         ]
+    },
+    "2025-01-30": {
+        "INTANGIBLE QUALITY": [
+            "AIR",
+            "AURA",
+            "HALO",
+            "VIBE"
+        ],
+        "GAME DAY FARE": [
+            "BEER",
+            "DIP",
+            "PIZZA",
+            "WINGS"
+        ],
+        "KEEP GOING ON ABOUT, WITH \u201cON\u201d": [
+            "DWELL",
+            "HARP",
+            "INSIST",
+            "LINGER"
+        ],
+        "STARTING WITH EUROPEAN CAPITALS": [
+            "BERNIE",
+            "PARISH",
+            "RIGATONI",
+            "ROMEO"
+        ]
+    },
+    "2025-01-31": {
+        "STORAGE CONTAINER": [
+            "CASE",
+            "CHEST",
+            "CRATE",
+            "TRUNK"
+        ],
+        "SCHNOZZ": [
+            "BEAK",
+            "HONKER",
+            "SNOOT",
+            "SNOUT"
+        ],
+        "AUTHORITIES ON A SUBJECT": [
+            "CRITIC",
+            "EXPERT",
+            "SNOB",
+            "WONK"
+        ],
+        "STARTS OF SWIMMING STROKES": [
+            "BACK",
+            "BREAST",
+            "BUTTER",
+            "FREE"
+        ]
+    },
+    "2025-02-01": {
+        "TINT": [
+            "CAST",
+            "HUE",
+            "SHADE",
+            "TONE"
+        ],
+        "COMPONENTS OF A MYSTERY": [
+            "ALIBI",
+            "CLUE",
+            "DETECTIVE",
+            "SUSPECT"
+        ],
+        "REFUTE": [
+            "CONTEST",
+            "CHALLENGE",
+            "DISPUTE",
+            "QUESTION"
+        ],
+        "STRIKE A ___": [
+            "CHORD",
+            "DEAL",
+            "MATCH",
+            "POSE"
+        ]
+    },
+    "2025-02-02": {
+        "DEJECTED": [
+            "BLUE",
+            "DOWN",
+            "HANGDOG",
+            "SORRY"
+        ],
+        "BIRDS THAT ARE VERBS": [
+            "DUCK",
+            "GROUSE",
+            "HAWK",
+            "SWALLOW"
+        ],
+        "TV COMEDY FAMILIES": [
+            "GRIFFIN",
+            "MUNSTER",
+            "PARTRIDGE",
+            "PICKLES"
+        ],
+        "WORDS AFTER \u201cK\u201d": [
+            "MART",
+            "POP",
+            "STREET",
+            "SWISS"
+        ]
+    },
+    "2025-02-03": {
+        "COMMENT AFTER AN INSULT": [
+            "BURN",
+            "OUCH",
+            "SNAP",
+            "ZING"
+        ],
+        "TINY AMOUNT, WITH \u201cA\u201d": [
+            "BIT",
+            "LITTLE",
+            "MITE",
+            "TAD"
+        ],
+        "BIT OF CITRUS GARNISH": [
+            "SLICE",
+            "TWIST",
+            "WEDGE",
+            "ZEST"
+        ],
+        "BUNGLE, WITH \u201cUP\u201d": [
+            "FOUL",
+            "LOUSE",
+            "MUCK",
+            "SCREW"
+        ]
+    },
+    "2025-02-04": {
+        "CONSERVE": [
+            "KEEP",
+            "PRESERVE",
+            "SAVE",
+            "STORE"
+        ],
+        "SMOOTH USING FRICTION": [
+            "BUFF",
+            "FILE",
+            "GRIND",
+            "SAND"
+        ],
+        "SPORTS GAMBLING TERMS": [
+            "FAVORITE",
+            "PARLAY",
+            "SPREAD",
+            "UNDER"
+        ],
+        "WORDS BEFORE \u201cFINGERS\u201d": [
+            "BUTTER",
+            "CHICKEN",
+            "LADY",
+            "STICKY"
+        ]
+    },
+    "2025-02-05": {
+        "PARTS OF A COMPENSATION PACKAGE": [
+            "BONUS",
+            "INSURANCE",
+            "RETIREMENT",
+            "SALARY"
+        ],
+        "THINGS TO DO WITH A DECK OF CARDS": [
+            "CUT",
+            "DEAL",
+            "FAN",
+            "SHUFFLE"
+        ],
+        "INDICATION": [
+            "FLAG",
+            "GIVEAWAY",
+            "SIGN",
+            "TELL"
+        ],
+        "WHAT \u201cBILL\u201d MIGHT REFER TO": [
+            "BANKNOTE",
+            "BEAK",
+            "INVOICE",
+            "WILLIAM"
+        ]
+    },
+    "2025-02-06": {
+        "MAGNANIMOUS": [
+            "GRAND",
+            "GREAT",
+            "LOFTY",
+            "NOBLE"
+        ],
+        "DELICATE": [
+            "FAINT",
+            "LIGHT",
+            "MILD",
+            "SOFT"
+        ],
+        "THINGS WITH NECKS": [
+            "BOTTLE",
+            "GIRAFFE",
+            "GUITAR",
+            "LAMP"
+        ],
+        "FIRST NAMES IN JAZZ": [
+            "CAB",
+            "COUNT",
+            "DIZZY",
+            "DUKE"
+        ]
+    },
+    "2025-02-07": {
+        "DOCUMENTS OF OWNERSHIP": [
+            "CERTIFICATE",
+            "DEED",
+            "RECEIPT",
+            "TITLE"
+        ],
+        "BITS IN A VARIETY SHOW": [
+            "DANCE",
+            "MONOLOGUE",
+            "SKETCH",
+            "SONG"
+        ],
+        "PROPS FOR CHARACTERS ON \u201cTHE SIMPSONS\u201d": [
+            "DONUT",
+            "PACIFIER",
+            "SAXOPHONE",
+            "SKATEBOARD"
+        ],
+        "STARTING WITH \u201cSHAKE, RATTLE AND ROLL\u201d": [
+            "ANDROID",
+            "RATTLESNAKE",
+            "ROLLERBLADE",
+            "SHAKESPEARE"
+        ]
     }
 }
