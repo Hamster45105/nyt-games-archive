@@ -16014,5 +16014,239 @@
             "RETRIEVE",
             "SET"
         ]
+    },
+    "2025-02-17": {
+        "TIME OFF": [
+            "BREAK",
+            "LEAVE",
+            "REST",
+            "VACATION"
+        ],
+        "FOLLOW A MEANDERING COURSE": [
+            "CURVE",
+            "SNAKE",
+            "WEAVE",
+            "WIND"
+        ],
+        "BOWLING RESULTS": [
+            "DOUBLE",
+            "SPARE",
+            "STRIKE",
+            "TURKEY"
+        ],
+        "___FISH": [
+            "BLOW",
+            "CAT",
+            "GOLD",
+            "SWORD"
+        ]
+    },
+    "2025-02-18": {
+        "CRATER": [
+            "CAVITY",
+            "HOLE",
+            "HOLLOW",
+            "PIT"
+        ],
+        "SUBSTANTIAL, AS A MEAL": [
+            "FILLING",
+            "HEARTY",
+            "SOLID",
+            "SQUARE"
+        ],
+        "BRITISHISMS": [
+            "BUTTY",
+            "CHIPPY",
+            "FOOTY",
+            "TELLY"
+        ],
+        "ACCESSIBLE": [
+            "AVAILABLE",
+            "HANDY",
+            "NEARBY",
+            "READY"
+        ]
+    },
+    "2025-02-19": {
+        "STRUCTURES BY THE SHORE": [
+            "BOARDWALK",
+            "DOCK",
+            "LIGHTHOUSE",
+            "WHARF"
+        ],
+        "SMALL IMPERFECTION": [
+            "DENT",
+            "DING",
+            "NICK",
+            "SCRATCH"
+        ],
+        "SOUNDS A CUCKOO CLOCK MAKES": [
+            "CHIME",
+            "CUCKOO",
+            "TICK",
+            "TOCK"
+        ],
+        "___TAIL": [
+            "COCK",
+            "MOCK",
+            "PIG",
+            "PONY"
+        ]
+    },
+    "2025-02-20": {
+        "ALERT": [
+            "ALARM",
+            "FLARE",
+            "SIGNAL",
+            "SOS"
+        ],
+        "SPEND THE NIGHT (AT)": [
+            "BUNK",
+            "CRASH",
+            "SLEEP",
+            "STAY"
+        ],
+        "ASSOCIATED WITH WEATHER VANES": [
+            "DIRECTION",
+            "ROOSTER",
+            "ROTATE",
+            "WIND"
+        ],
+        "COOKIE CUTTER SHAPES IN \u201cSQUID GAME\u201d": [
+            "CIRCLE",
+            "STAR",
+            "TRIANGLE",
+            "UMBRELLA"
+        ]
+    },
+    "2025-02-21": {
+        "WAY OF SOLVING A PROBLEM": [
+            "ANSWER",
+            "FIX",
+            "REMEDY",
+            "SOLUTION"
+        ],
+        "COLLECT, AS FROM AN ORCHARD": [
+            "GATHER",
+            "HARVEST",
+            "PICK",
+            "REAP"
+        ],
+        "PHOTOSHOP TOOLS": [
+            "ERASER",
+            "EYEDROPPER",
+            "LASSO",
+            "MAGIC WAND"
+        ],
+        "OBJECTS THAT MAY BE RIGHT- OR LEFT-HANDED": [
+            "BASEBALL GLOVE",
+            "CAN OPENER",
+            "GUITAR",
+            "SCISSORS"
+        ]
+    },
+    "2025-02-22": {
+        "TEAMS WITH THE MOST CHAMPIONSHIPS IN THEIR RESPECTIVE SPORTS": [
+            "CANADIEN",
+            "CELTIC",
+            "PACKER",
+            "YANKEE"
+        ],
+        "CREATE SOME VOLUME/TEXTURE IN HAIR": [
+            "CRIMP",
+            "CURL",
+            "FEATHER",
+            "TEASE"
+        ],
+        "SUPPLIES FOR MACARONI ART": [
+            "GLITTER",
+            "GLUE",
+            "MACARONI",
+            "PAPER"
+        ],
+        "WORDS AFTER \u201cGOLDEN\u201d": [
+            "DOODLE",
+            "GOOSE",
+            "PARACHUTE",
+            "ROD"
+        ]
+    },
+    "2025-02-23": {
+        "RUB TOGETHER": [
+            "GNASH",
+            "GRATE",
+            "GRIND",
+            "SCRAPE"
+        ],
+        "WAYS TO PRESERVE FOOD": [
+            "CAN",
+            "FERMENT",
+            "FREEZE",
+            "PICKLE"
+        ],
+        "BREAKFAST CONDIMENTS": [
+            "BUTTER",
+            "HOT SAUCE",
+            "JAM",
+            "SYRUP"
+        ],
+        "PROVERBIAL THINGS THAT ARE SPILLED": [
+            "BEANS",
+            "GUTS",
+            "MILK",
+            "TEA"
+        ]
+    },
+    "2025-02-24": {
+        "EAT VORACIOUSLY": [
+            "BOLT",
+            "GOBBLE",
+            "GULP",
+            "SCARF"
+        ],
+        "BEND UNDER PRESSURE": [
+            "BOW",
+            "BUCKLE",
+            "CAVE",
+            "GIVE"
+        ],
+        "CLASSIC NAUTICAL TATTOOS": [
+            "ANCHOR",
+            "COMPASS",
+            "MERMAID",
+            "SWALLOW"
+        ],
+        "BODY PARTS PLUS LETTER": [
+            "BUTTE",
+            "CHINA",
+            "HEARTH",
+            "SHINE"
+        ]
+    },
+    "2025-02-25": {
+        "ENTHUSIASM": [
+            "GUSTO",
+            "PASSION",
+            "RELISH",
+            "ZEST"
+        ],
+        "\u201cMANY\u201d IN DIFFERENT LANGUAGES": [
+            "BEAUCOUP",
+            "MOLTO",
+            "MUCHO",
+            "MULTI"
+        ],
+        "FEATURES OF THE ARCADE GAME BREAKOUT": [
+            "BALL",
+            "BRICK",
+            "PADDLE",
+            "WALL"
+        ],
+        "RHYME WITH U.S. COINS": [
+            "JENNY",
+            "LIME",
+            "MORTAR",
+            "PICKLE"
+        ]
     }
 }
