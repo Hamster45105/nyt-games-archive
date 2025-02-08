@@ -16248,5 +16248,187 @@
             "MORTAR",
             "PICKLE"
         ]
+    },
+    "2025-02-26": {
+        "EXPENDITURE": [
+            "CHARGE",
+            "COST",
+            "PRICE",
+            "RATE"
+        ],
+        "ONETIME": [
+            "FORMER",
+            "LATE",
+            "PAST",
+            "PRIOR"
+        ],
+        "MADE WITH HORIZONTAL LINES": [
+            "DASH",
+            "HYPHEN",
+            "MINUS",
+            "UNDERSCORE"
+        ],
+        "SIMPSON FAMILY MEMBERS WITH FIRST LETTER CHANGED": [
+            "BAGGIE",
+            "BARGE",
+            "COMER",
+            "PISA"
+        ]
+    },
+    "2025-02-27": {
+        "CONTACT VIA TELEPHONE": [
+            "CALL",
+            "DIAL",
+            "PHONE",
+            "RING"
+        ],
+        "PARTS OF A CAR": [
+            "BELT",
+            "HORN",
+            "MIRROR",
+            "WHEEL"
+        ],
+        "LEVELS OF BIOLOGICAL ORGANIZATION": [
+            "ATOM",
+            "CELL",
+            "ORGAN",
+            "TISSUE"
+        ],
+        "ENDING WITH UNITS OF MEASURE": [
+            "BIGFOOT",
+            "COMPOUND",
+            "INSTAGRAM",
+            "THERMOMETER"
+        ]
+    },
+    "2025-02-28": {
+        "LOVELY PERSON": [
+            "ANGEL",
+            "DEAR",
+            "DOLL",
+            "PEACH"
+        ],
+        "LUCIDITY": [
+            "MARBLES",
+            "MIND",
+            "SENSE",
+            "WITS"
+        ],
+        "BE INDECISIVE": [
+            "HESITATE",
+            "WAFFLE",
+            "WAVER",
+            "YO-YO"
+        ],
+        "METAPHORS FOR THINGS THAT CAN\u2019T BE UNDONE": [
+            "BELL",
+            "EGG",
+            "GENIE",
+            "TOOTHPASTE"
+        ]
+    },
+    "2025-03-01": {
+        "ASSOCIATED WITH GOOD LUCK": [
+            "HORSESHOE",
+            "LADYBUG",
+            "PENNY",
+            "SHAMROCK"
+        ],
+        "TO-BO- COMPOUND WORDS": [
+            "TOLLBOOTH",
+            "TOMBOY",
+            "TOOLBOX",
+            "TOWBOAT"
+        ],
+        "BROADWAY MUSICALS, FAMILIARLY": [
+            "FIDDLER",
+            "MERRILY",
+            "PHANTOM",
+            "SUNSET"
+        ],
+        "WORDS BEFORE \u201cCOWBOY\u201d IN FILM AND MUSIC": [
+            "DRUGSTORE",
+            "MIDNIGHT",
+            "RHINESTONE",
+            "SPACE"
+        ]
+    },
+    "2025-03-02": {
+        "EVADE": [
+            "DODGE",
+            "ESCAPE",
+            "LOSE",
+            "SHAKE"
+        ],
+        "CELLPHONE MODES": [
+            "AIRPLANE",
+            "DO NOT DISTURB",
+            "RING",
+            "VIBRATE"
+        ],
+        "WHAT \u201cW\u201d MIGHT STAND FOR": [
+            "TUNGSTEN",
+            "WATT",
+            "WEST",
+            "WIN"
+        ],
+        "___STRING": [
+            "DRAW",
+            "HAM",
+            "HEART",
+            "SHOE"
+        ]
+    },
+    "2025-03-03": {
+        "BE AT LEISURE": [
+            "CHILL",
+            "LOAF",
+            "LOUNGE",
+            "REST"
+        ],
+        "CYLINDER OF MATERIAL": [
+            "BOLT",
+            "REEL",
+            "ROLL",
+            "SCROLL"
+        ],
+        "FORMATS OF GOLD": [
+            "BAR",
+            "COIN",
+            "LEAF",
+            "NUGGET"
+        ],
+        "SEEN IN \u201cTHE FLINTSTONES\u201d": [
+            "BONE",
+            "CLUB",
+            "DINOSAUR",
+            "RUBBLE"
+        ]
+    },
+    "2025-03-04": {
+        "NICE SKIN CHARACTERISTICS": [
+            "DEWY",
+            "FRESH",
+            "GLOWING",
+            "SMOOTH"
+        ],
+        "MESS OF HAIR": [
+            "MAT",
+            "MOP",
+            "TANGLE",
+            "THATCH"
+        ],
+        "DICKENS CHARACTERS": [
+            "BUCKET",
+            "PIP",
+            "SCROOGE",
+            "TWIST"
+        ],
+        "___ CHAIN": [
+            "DAISY",
+            "FOOD",
+            "MOUNTAIN",
+            "SUPPLY"
+        ]
     }
 }
