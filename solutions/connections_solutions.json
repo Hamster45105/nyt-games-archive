@@ -16430,5 +16430,187 @@
             "MOUNTAIN",
             "SUPPLY"
         ]
+    },
+    "2025-03-05": {
+        "PERIPHERY": [
+            "BORDER",
+            "EDGE",
+            "FRINGE",
+            "SKIRT"
+        ],
+        "THINGS PEOPLE DO TO FINGERNAILS": [
+            "BITE",
+            "CLIP",
+            "FILE",
+            "PAINT"
+        ],
+        "WHAT MIGHT BRING TEARS TO YOUR EYES": [
+            "ALLERGY",
+            "MELODRAMA",
+            "ONION",
+            "RELIEF"
+        ],
+        "___BALL RECREATIONAL SPORTS": [
+            "DODGE",
+            "KICK",
+            "PICKLE",
+            "SOFT"
+        ]
+    },
+    "2025-03-06": {
+        "WANE": [
+            "DWINDLE",
+            "FADE",
+            "PETER",
+            "TAPER"
+        ],
+        "DO SOME TASKS IN THE GARDEN": [
+            "PLANT",
+            "PRUNE",
+            "WATER",
+            "WEED"
+        ],
+        "SHOES": [
+            "FLAT",
+            "MARY JANE",
+            "MULE",
+            "SLIDE"
+        ],
+        "SAND___": [
+            "CASTLE",
+            "PAPER",
+            "PIPER",
+            "STONE"
+        ]
+    },
+    "2025-03-07": {
+        "EMBLEM": [
+            "LABEL",
+            "MARK",
+            "SEAL",
+            "STAMP"
+        ],
+        "SUBJECTS OF ACCLAIMED MUSICAL BIOPICS": [
+            "BROWN",
+            "CASH",
+            "DYLAN",
+            "MERCURY"
+        ],
+        "U.S. CITIES": [
+            "BUFFALO",
+            "HELENA",
+            "IRVING",
+            "OLYMPIA"
+        ],
+        "FRUITS WITH THEIR SECOND LETTERS CHANGED": [
+            "AMPLE",
+            "DOTE",
+            "LUMON",
+            "POACH"
+        ]
+    },
+    "2025-03-08": {
+        "WORDS SAID FREQUENTLY IN THE \u201cBILL AND TED\u201d MOVIES": [
+            "BOGUS",
+            "DUDE",
+            "EXCELLENT",
+            "TOTALLY"
+        ],
+        "FAUX": [
+            "ARTIFICIAL",
+            "FAKE",
+            "IMITATION",
+            "MOCK"
+        ],
+        "WASHING MACHINE CYCLES/SETTINGS": [
+            "BULKY",
+            "COTTON",
+            "DELICATE",
+            "SPIN"
+        ],
+        "___BOX": [
+            "CHATTER",
+            "JUKE",
+            "SHADOW",
+            "SOAP"
+        ]
+    },
+    "2025-03-09": {
+        "COMPUTER INPUT DEVICES": [
+            "MICROPHONE",
+            "MOUSE",
+            "SCANNER",
+            "TABLET"
+        ],
+        "BUILDING MATERIALS": [
+            "BRICK",
+            "CONCRETE",
+            "METAL",
+            "STONE"
+        ],
+        "HELPFUL DEED": [
+            "FAVOR",
+            "KINDNESS",
+            "SERVICE",
+            "SOLID"
+        ],
+        "#1 SONGS FROM 1982": [
+            "ABRACADABRA",
+            "CENTERFOLD",
+            "MICKEY",
+            "PHYSICAL"
+        ]
+    },
+    "2025-03-10": {
+        "CAT BREEDS": [
+            "RAGAMUFFIN",
+            "RUSSIAN BLUE",
+            "SPHYNX",
+            "TURKISH ANGORA"
+        ],
+        "FAMOUS SMILES": [
+            "CHESHIRE CAT",
+            "COMEDY MASK",
+            "JOKER",
+            "MONA LISA"
+        ],
+        "ASSOCIATED WITH \u201cTHE DUDE\u201d LEBOWSKI": [
+            "BATHROBE",
+            "BOWLING",
+            "RUG",
+            "WHITE RUSSIAN"
+        ],
+        "THINGS WITH ICONIC IMPERFECTIONS": [
+            "LIBERTY BELL",
+            "VENUS DE MILO",
+            "STATUE OF LIBERTY",
+            "TOWER OF PISA"
+        ]
+    },
+    "2025-03-11": {
+        "VARIATION FROM THE NORM": [
+            "ALTERNATIVE",
+            "BREAK",
+            "CHANGE",
+            "DEPARTURE"
+        ],
+        "THINGS THAT RING": [
+            "ALARM",
+            "BELL",
+            "INTERCOM",
+            "PHONE"
+        ],
+        "THINGS TRADITIONALLY MADE OF LEATHER": [
+            "FOOTBALL",
+            "MOCCASINS",
+            "SADDLE",
+            "WALLET"
+        ],
+        "SINGER-SONGWRITER PIANISTS": [
+            "KEYS",
+            "KING",
+            "LEGEND",
+            "WONDER"
+        ]
     }
 }
