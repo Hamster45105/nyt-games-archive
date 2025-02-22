@@ -16612,5 +16612,135 @@
             "LEGEND",
             "WONDER"
         ]
+    },
+    "2025-03-12": {
+        "INGREDIENTS IN CLASSIC POUND CAKE": [
+            "BUTTER",
+            "EGGS",
+            "FLOUR",
+            "SUGAR"
+        ],
+        "THINGS THAT ARE RED": [
+            "CARDINAL",
+            "ELMO",
+            "KETCHUP",
+            "ROSE"
+        ],
+        "WORDS SAID TO HAVE NO EXACT RHYMES": [
+            "MONTH",
+            "ORANGE",
+            "PURPLE",
+            "SILVER"
+        ],
+        "___ CANDY": [
+            "COTTON",
+            "EYE",
+            "JOHN",
+            "ROCK"
+        ]
+    },
+    "2025-03-13": {
+        "PARTIALITY": [
+            "ANGLE",
+            "BIAS",
+            "SLANT",
+            "SPIN"
+        ],
+        "SIGNAL DOWN, AS A TAXI": [
+            "FLAG",
+            "HAIL",
+            "WAVE",
+            "WHISTLE"
+        ],
+        "CARDS IN TEXAS HOLD\u2019EM": [
+            "FLOP",
+            "HOLE",
+            "RIVER",
+            "TURN"
+        ],
+        "SHAKESPEAREAN WORDS": [
+            "ANON",
+            "ART",
+            "THOU",
+            "WILT"
+        ]
+    },
+    "2025-03-14": {
+        "IMPOSE, AS A PENALTY": [
+            "ASSESS",
+            "CHARGE",
+            "FINE",
+            "LEVY"
+        ],
+        "CHECKOUT LINE IMPULSE BUYS": [
+            "CANDY",
+            "CHAPSTICK",
+            "CHARGING CABLE",
+            "MAGAZINE"
+        ],
+        "MOVIES OF VARIOUS LENGTHS": [
+            "EPIC",
+            "FEATURE",
+            "FILM SERIES",
+            "SHORT"
+        ],
+        "___ ROAD": [
+            "DIRT",
+            "HIGH",
+            "ROCKY",
+            "SILK"
+        ]
+    },
+    "2025-03-15": {
+        "SHARP PROTRUSION": [
+            "BARB",
+            "BRISTLE",
+            "NEEDLE",
+            "SPINE"
+        ],
+        "FEATURES OF STRINGED INSTRUMENTS": [
+            "BRIDGE",
+            "NECK",
+            "PEG",
+            "STRING"
+        ],
+        "LITIGATION VERBS": [
+            "CHARGE",
+            "MOVE",
+            "SERVE",
+            "SUE"
+        ],
+        "IN \u201cSTARLIGHT, STARBRIGHT\u201d": [
+            "MAY",
+            "MIGHT",
+            "TONIGHT",
+            "WISH"
+        ]
+    },
+    "2025-03-16": {
+        "BUNCH": [
+            "CLUSTER",
+            "COLLECTION",
+            "CONSTELLATION",
+            "GROUP"
+        ],
+        "ENDING WITH SILENT \u201cT\u201d": [
+            "BALLET",
+            "DEBUT",
+            "RAPPORT",
+            "TAROT"
+        ],
+        "SERIAL KILLER MOVIES": [
+            "MONSTER",
+            "PSYCHO",
+            "SEVEN",
+            "ZODIAC"
+        ],
+        "STARTING WITH CONSTELLATIONS": [
+            "DRACONIAN",
+            "HYDRANT",
+            "LEONARDO",
+            "LIBRARY"
+        ]
     }
 }
