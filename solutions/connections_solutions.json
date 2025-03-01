@@ -16742,5 +16742,187 @@
             "LEONARDO",
             "LIBRARY"
         ]
+    },
+    "2025-03-17": {
+        "FILAMENT": [
+            "FIBER",
+            "STRAND",
+            "STRING",
+            "THREAD"
+        ],
+        "UNINHIBITEDNESS": [
+            "ABANDON",
+            "FREEDOM",
+            "SPONTANEITY",
+            "UNRESTRAINT"
+        ],
+        "KINDS OF TRUCKS": [
+            "DUMP",
+            "GARBAGE",
+            "MONSTER",
+            "PICKUP"
+        ],
+        "BANDS MINUS THE NUMBER FIVE": [
+            "BEN FOLDS",
+            "JACKSON",
+            "MAROON",
+            "MC"
+        ]
+    },
+    "2025-03-18": {
+        "EXCEPTIONAL": [
+            "REMARKABLE",
+            "SINGULAR",
+            "SPECIAL",
+            "UNIQUE"
+        ],
+        "GERMAN WORDS": [
+            "ANGST",
+            "DIE",
+            "KINDER",
+            "WURST"
+        ],
+        "PLURAL WORDS THAT ARE VERY DIFFERENT FROM THEIR SINGULAR FORMS": [
+            "DICE",
+            "LICE",
+            "MICE",
+            "OXEN"
+        ],
+        "PLURAL WORDS IDENTICAL TO THEIR SINGULAR FORMS": [
+            "SHEEP",
+            "SHRIMP",
+            "SPECIES",
+            "SQUID"
+        ]
+    },
+    "2025-03-19": {
+        "INTERJECTIONS": [
+            "BOY",
+            "GOODNESS",
+            "MAN",
+            "WOW"
+        ],
+        "HORROR MOVIES, WITH \u201cTHE\u201d": [
+            "BIRDS",
+            "EXORCIST",
+            "HAUNTING",
+            "SHINING"
+        ],
+        "THINGS YOU CAN PICK": [
+            "APPLE",
+            "BANJO",
+            "CARD",
+            "NOSE"
+        ],
+        "PERSONAL PROPERTY MINUS \u201cS\u201d": [
+            "BELONGING",
+            "EFFECT",
+            "GOOD",
+            "POSSESSION"
+        ]
+    },
+    "2025-03-20": {
+        "OUTSPOKEN": [
+            "DIRECT",
+            "FRANK",
+            "LOUD",
+            "VOCAL"
+        ],
+        "BODIES OF WATER": [
+            "BAY",
+            "CHANNEL",
+            "SOUND",
+            "STRAIT"
+        ],
+        "KINDS OF CORDS": [
+            "BUNGEE",
+            "EXTENSION",
+            "SPINAL",
+            "UMBILICAL"
+        ],
+        "THINGS IN BOTTLES": [
+            "GENIE",
+            "LIGHTNING",
+            "MESSAGE",
+            "SHIP"
+        ]
+    },
+    "2025-03-21": {
+        "MILIEU": [
+            "CIRCLE",
+            "SCENE",
+            "SPHERE",
+            "WORLD"
+        ],
+        "LUMINARY": [
+            "GREAT",
+            "ICON",
+            "LEGEND",
+            "LION"
+        ],
+        "ARCHITECTURAL DRAWING TOOLS": [
+            "COMPASS",
+            "RULER",
+            "T-SQUARE",
+            "TRIANGLE"
+        ],
+        "BAR ___": [
+            "CHART",
+            "EXAM",
+            "MAGNET",
+            "MITZVAH"
+        ]
+    },
+    "2025-03-22": {
+        "MUSICAL INSTRUMENTS": [
+            "TAMBOURINE",
+            "THEREMIN",
+            "TIMPANI",
+            "TROMBONE"
+        ],
+        "KNICKKNACK": [
+            "TCHOTCHKE",
+            "THINGAMAJIG",
+            "TRIFLE",
+            "TRINKET"
+        ],
+        "WORDS WITH THE PREFIX MEANING \u201cTHREE\u201d": [
+            "TRIANGLE",
+            "TRIDENT",
+            "TRILLION",
+            "TRILOBITE"
+        ],
+        "WORDS ABBREVIATED WITH \u201cT\u201d + LETTER": [
+            "TELEVISION",
+            "TOUCHDOWN",
+            "TRADEMARK",
+            "TUBERCULOSIS"
+        ]
+    },
+    "2025-03-23": {
+        "SIGNIFY": [
+            "CONVEY",
+            "EXPRESS",
+            "MEAN",
+            "SPELL"
+        ],
+        "WEB BROWSER BUTTONS": [
+            "BACK",
+            "EXTENSIONS",
+            "FORWARD",
+            "REFRESH"
+        ],
+        "PARTS OF A ROAD": [
+            "DIVIDER",
+            "LANE",
+            "MEDIAN",
+            "SHOULDER"
+        ],
+        "\u00c0/A LA ___": [
+            "CARTE",
+            "KING",
+            "MODE",
+            "PLANCHA"
+        ]
     }
 }
