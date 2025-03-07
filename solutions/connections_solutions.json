@@ -16924,5 +16924,161 @@
             "MODE",
             "PLANCHA"
         ]
+    },
+    "2025-03-24": {
+        "BAD-SMELLING": [
+            "FOUL",
+            "RANK",
+            "RIPE",
+            "SOUR"
+        ],
+        "UNFLUCTUATING": [
+            "CONSTANT",
+            "LEVEL",
+            "STABLE",
+            "UNIFORM"
+        ],
+        "WHO VIDEO GAMES ARE FOR, PER ESRB RATINGS": [
+            "ADULTS ONLY",
+            "EVERYONE",
+            "TEEN",
+            "MATURE"
+        ],
+        "THINGS WITH LAYERS": [
+            "HENHOUSE",
+            "OGRE",
+            "ONION",
+            "PHOTOSHOP"
+        ]
+    },
+    "2025-03-25": {
+        "BLACK-AND-WHITE THINGS": [
+            "CROSSWORD",
+            "OREO",
+            "PANDA",
+            "TUXEDO"
+        ],
+        "ANAGRAMS": [
+            "ABEL",
+            "ABLE",
+            "BALE",
+            "BELA"
+        ],
+        "U.S. PRESIDENTIAL NICKNAMES": [
+            "ABE",
+            "CAL",
+            "DICK",
+            "TEDDY"
+        ],
+        "CLEAR AS ___": [
+            "A BELL",
+            "CRYSTAL",
+            "DAY",
+            "MUD"
+        ]
+    },
+    "2025-03-26": {
+        "PARTS OF A TABLE SETTING": [
+            "FORK",
+            "GLASS",
+            "NAPKIN",
+            "PLATE"
+        ],
+        "INCREASED, WITH \u201cUP\u201d": [
+            "FLEW",
+            "ROSE",
+            "SHOT",
+            "THRUST"
+        ],
+        "KINDS OF DIGITAL STORAGE": [
+            "CARD",
+            "CLOUD",
+            "DISK",
+            "DRIVE"
+        ],
+        "UNITS OF VOLUME PLUS LETTER": [
+            "BOUNCE",
+            "GALLEON",
+            "PINOT",
+            "QUARTZ"
+        ]
+    },
+    "2025-03-27": {
+        "CONSUMED": [
+            "ATE",
+            "HAD",
+            "PUT AWAY",
+            "TOOK IN"
+        ],
+        "ALSO": [
+            "AS WELL",
+            "BESIDES",
+            "TO BOOT",
+            "TOO"
+        ],
+        "ATM OPTIONS": [
+            "BALANCE",
+            "DEPOSIT",
+            "TRANSFER",
+            "WITHDRAWAL"
+        ],
+        "___PLAY": [
+            "FORE",
+            "HORSE",
+            "SCREEN",
+            "WORD"
+        ]
+    },
+    "2025-03-28": {
+        "CAPTIVATE": [
+            "ABSORB",
+            "ENTRANCE",
+            "GRAB",
+            "RIVET"
+        ],
+        "THINGS WITH WINGS": [
+            "AIRPLANE",
+            "FAIRY",
+            "FLY",
+            "HOSPITAL"
+        ],
+        "WORDS THAT MODIFY \u201cWATCH\u201d": [
+            "POCKET",
+            "SMART",
+            "STOP",
+            "WRIST"
+        ],
+        "WORDS REPEATED IN \u201cMISS MARY MACK\u201d": [
+            "BACK",
+            "BLACK",
+            "BUTTONS",
+            "MACK"
+        ]
+    },
+    "2025-03-29": {
+        "KINDS OF SHORTS": [
+            "BERMUDA",
+            "BIKE",
+            "BOXER",
+            "CARGO"
+        ],
+        "MATERIALS ASSOCIATED WITH FANCY DINING": [
+            "CHINA",
+            "CRYSTAL",
+            "LINEN",
+            "SILVER"
+        ],
+        "NOUNS IN A FAMOUS PALINDROME": [
+            "CANAL",
+            "MAN",
+            "PANAMA",
+            "PLAN"
+        ],
+        "MOVIES FROM 1985": [
+            "BRAZIL",
+            "CLUE",
+            "COMMANDO",
+            "WITNESS"
+        ]
     }
 }
