@@ -17080,5 +17080,57 @@
             "COMMANDO",
             "WITNESS"
         ]
+    },
+    "2025-03-30": {
+        "AVERAGE": [
+            "MEAN",
+            "NORM",
+            "PAR",
+            "STANDARD"
+        ],
+        "PICTURED ON THE U.S. GREAT SEAL": [
+            "ARROWS",
+            "EAGLE",
+            "OLIVE BRANCH",
+            "SHIELD"
+        ],
+        "PROPER NOUNS IN BROADWAY MUSICAL TITLES THAT ARE SPOKEN PHRASES": [
+            "BIRDIE",
+            "DOLLY",
+            "KATE",
+            "YANKEES"
+        ],
+        "___MAN": [
+            "BOGEY",
+            "CRAFTS",
+            "GENTLE",
+            "SPOKES"
+        ]
+    },
+    "2025-03-31": {
+        "THROB": [
+            "BEAT",
+            "POUND",
+            "PULSE",
+            "THUMP"
+        ],
+        "LANDFORMS": [
+            "CAPE",
+            "CRATER",
+            "GORGE",
+            "RIDGE"
+        ],
+        "PICTURE HANGING NEEDS": [
+            "HAMMER",
+            "HANGER",
+            "LEVEL",
+            "NAIL"
+        ],
+        "FOOT___": [
+            "BALL",
+            "HILLS",
+            "LOCKER",
+            "PRINT"
+        ]
     }
 }
