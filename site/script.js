@@ -267,3 +267,41 @@ function bottomFunction() {
   }
   window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
 }
+
+function scrollToDate() {
+  // Show the date modal using Bootstrap's modal API
+  const dateModalElement = document.getElementById('dateModal');
+  const dateModal = new bootstrap.Modal(dateModalElement);
+  dateModal.show();
+
+  // Once the "Go" button is clicked, attempt to scroll to the matching date
+  document.getElementById('goToDateBtn').addEventListener('click', function () {
+    const dateInput = document.getElementById('datePicker').value;
+    if (!dateInput) {
+      alert("Please select a date!");
+      return;
+    }
+
+    // Ensure all rows are loaded
+    if (typeof window.loadAllRemainingSolutions === 'function') {
+      window.loadAllRemainingSolutions();
+    }
+
+    // Search through the table for a matching date (assumes second cell contains the date)
+    const tableBody = document.getElementById('solutionsTable').getElementsByTagName('tbody')[0];
+    const rows = tableBody.getElementsByTagName('tr');
+    let found = false;
+    for (let row of rows) {
+      const cellDate = row.cells[1].textContent.trim();
+      if (cellDate === dateInput) {
+        row.scrollIntoView({ behavior: 'smooth' });
+        found = true;
+        break;
+      }
+    }
+    if (!found) {
+      alert("Date not found!");
+    }
+    dateModal.hide();
+  }, { once: true });
+}

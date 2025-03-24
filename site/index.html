@@ -38,6 +38,8 @@
         <button onclick="topFunction()" class="btn btn-primary rounded-circle" id="upBtn" title="Go to top">↑</button>
         <button onclick="bottomFunction()" class="btn btn-primary rounded-circle" id="downBtn"
           title="Go to bottom">↓</button>
+        <button onclick="scrollToDate()" class="btn btn-primary rounded-circle" id="dateBtn" title="Go to date">📆</button>
+  
       </div>
       <div id="loading" class="loading-spinner" style="display: none;"></div>
       <div class="table-responsive">
@@ -52,6 +54,25 @@
           <tbody>
           </tbody>
         </table>
+      </div>
+    </div>
+  </div>
+
+    <div class="modal fade" id="dateModal" tabindex="-1" aria-labelledby="dateModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="dateModalLabel">Go to Date</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p class="text-warning">⚠️ Warning: This will load all solutions into memory</p>
+          <input type="date" class="form-control" id="datePicker">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary rounded" data-bs-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-primary rounded" id="goToDateBtn">Go</button>
+        </div>
       </div>
     </div>
   </div>

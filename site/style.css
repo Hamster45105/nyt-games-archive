@@ -43,6 +43,13 @@ body {
   justify-content: center;
 }
 
+.modal-footer .btn {
+  min-width: 120px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 8px;
+}
+
 .btn-outline-primary {
   border-color: #007bff;
   color: #007bff;
