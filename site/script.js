@@ -140,106 +140,106 @@ function generateMiniHTML(data, date) {
 }
 
 function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
-    document.getElementById('loading').style.display = 'block';
+  document.getElementById('loading').style.display = 'block';
 
-    fetch(`${url}?${new Date().getTime()}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
+  fetch(`${url}?${new Date().getTime()}`)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then(data => {
+      const tableBody = document.getElementById(tableId).getElementsByTagName('tbody')[0];
+      const reversedDates = Object.keys(data).sort((a, b) => new Date(b) - new Date(a));
+      let rowNumber = startNumber + reversedDates.length - 1;
+      const revealMode = localStorage.getItem('revealMode') || '2';
+
+      const batchSize = 50;
+      let currentIndex = 0;
+
+      function loadBatch() {
+        for (let count = 0; count < batchSize && currentIndex < reversedDates.length; count++, currentIndex++) {
+          const date = reversedDates[currentIndex];
+          const row = tableBody.insertRow(-1);
+          const cell1 = row.insertCell(0);
+          const cell2 = row.insertCell(1);
+          const cell3 = row.insertCell(2);
+
+          // Adjusted column widths:
+          cell1.style.width = "10%";  // Number column
+          cell2.style.width = "40%";  // Date column
+          cell3.style.width = "50%";  // Solutions column
+
+          cell1.textContent = rowNumber--;
+          cell2.textContent = date;
+
+          const solutionHTML = generateSolutionHTML(data, date);
+          const solutionDate = new Date(date);
+          const today = new Date();
+          today.setHours(0, 0, 0, 0);
+
+          if (revealMode === '1') {
+            // Always hide behind Reveal button
+            const revealButton = document.createElement('button');
+            revealButton.className = 'btn btn-primary reveal-btn';
+            revealButton.textContent = 'Reveal';
+            revealButton.addEventListener('click', function () {
+              cell3.innerHTML = solutionHTML;
+              addDetailsEventListeners(cell3, data[date]);
+            });
+            cell3.appendChild(revealButton);
+          } else if (revealMode === '2') {
+            // Hide if solution date is today or in the future
+            if (solutionDate >= today) {
+              const revealButton = document.createElement('button');
+              revealButton.className = 'btn btn-primary reveal-btn';
+              revealButton.textContent = 'Reveal';
+              revealButton.addEventListener('click', function () {
+                cell3.innerHTML = solutionHTML;
+                addDetailsEventListeners(cell3, data[date]);
+              });
+              cell3.appendChild(revealButton);
+            } else {
+              cell3.innerHTML = solutionHTML;
+              addDetailsEventListeners(cell3, data[date]);
             }
-            return response.json();
-        })
-        .then(data => {
-            const tableBody = document.getElementById(tableId).getElementsByTagName('tbody')[0];
-            const reversedDates = Object.keys(data).sort((a, b) => new Date(b) - new Date(a));
-            let rowNumber = startNumber + reversedDates.length - 1;
-            const revealMode = localStorage.getItem('revealMode') || '2';
+          } else if (revealMode === '3') {
+            // Always show
+            cell3.innerHTML = solutionHTML;
+            addDetailsEventListeners(cell3, data[date]);
+          }
+        }
+      }
 
-            const batchSize = 50;
-            let currentIndex = 0;
+      // Load the initial batch of solutions.
+      loadBatch();
 
-            function loadBatch() {
-                for (let count = 0; count < batchSize && currentIndex < reversedDates.length; count++, currentIndex++) {
-                    const date = reversedDates[currentIndex];
-                    const row = tableBody.insertRow(-1);
-                    const cell1 = row.insertCell(0);
-                    const cell2 = row.insertCell(1);
-                    const cell3 = row.insertCell(2);
+      // Attach scroll listener to load more rows dynamically.
+      function onScroll() {
+        if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 500) {
+          loadBatch();
+          if (currentIndex >= reversedDates.length) {
+            window.removeEventListener('scroll', onScroll);
+          }
+        }
+      }
+      window.addEventListener('scroll', onScroll);
 
-                    // Adjusted column widths:
-                    cell1.style.width = "10%";  // Number column
-                    cell2.style.width = "40%";  // Date column
-                    cell3.style.width = "50%";  // Solutions column
-
-                    cell1.textContent = rowNumber--;
-                    cell2.textContent = date;
-
-                    const solutionHTML = generateSolutionHTML(data, date);
-                    const solutionDate = new Date(date);
-                    const today = new Date();
-                    today.setHours(0, 0, 0, 0);
-
-                    if (revealMode === '1') {
-                        // Always hide behind Reveal button
-                        const revealButton = document.createElement('button');
-                        revealButton.className = 'btn btn-primary reveal-btn';
-                        revealButton.textContent = 'Reveal';
-                        revealButton.addEventListener('click', function () {
-                            cell3.innerHTML = solutionHTML;
-                            addDetailsEventListeners(cell3, data[date]);
-                        });
-                        cell3.appendChild(revealButton);
-                    } else if (revealMode === '2') {
-                        // Hide if solution date is today or in the future
-                        if (solutionDate >= today) {
-                            const revealButton = document.createElement('button');
-                            revealButton.className = 'btn btn-primary reveal-btn';
-                            revealButton.textContent = 'Reveal';
-                            revealButton.addEventListener('click', function () {
-                                cell3.innerHTML = solutionHTML;
-                                addDetailsEventListeners(cell3, data[date]);
-                            });
-                            cell3.appendChild(revealButton);
-                        } else {
-                            cell3.innerHTML = solutionHTML;
-                            addDetailsEventListeners(cell3, data[date]);
-                        }
-                    } else if (revealMode === '3') {
-                        // Always show
-                        cell3.innerHTML = solutionHTML;
-                        addDetailsEventListeners(cell3, data[date]);
-                    }
-                }
-            }
-
-            // Load the initial batch of solutions.
-            loadBatch();
-
-            // Attach scroll listener to load more rows dynamically.
-            function onScroll() {
-                if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 500) {
-                    loadBatch();
-                    if (currentIndex >= reversedDates.length) {
-                        window.removeEventListener('scroll', onScroll);
-                    }
-                }
-            }
-            window.addEventListener('scroll', onScroll);
-
-            // Expose a helper function so bottomFunction can load all remaining rows immediately.
-            window.loadAllRemainingSolutions = function() {
-                while (currentIndex < reversedDates.length) {
-                    loadBatch();
-                }
-                window.removeEventListener('scroll', onScroll);
-            };
-        })
-        .catch(e => {
-            console.error('There was a problem with the fetch operation: ' + e.message);
-        })
-        .finally(() => {
-            document.getElementById('loading').style.display = 'none';
-        });
+      // Expose a helper function so bottomFunction can load all remaining rows immediately.
+      window.loadAllRemainingSolutions = function () {
+        while (currentIndex < reversedDates.length) {
+          loadBatch();
+        }
+        window.removeEventListener('scroll', onScroll);
+      };
+    })
+    .catch(e => {
+      console.error('There was a problem with the fetch operation: ' + e.message);
+    })
+    .finally(() => {
+      document.getElementById('loading').style.display = 'none';
+    });
 }
 
 function addDetailsEventListeners(cell, solution) {
@@ -268,7 +268,7 @@ function topFunction() {
 
 function bottomFunction() {
   if (window.loadAllRemainingSolutions) {
-      window.loadAllRemainingSolutions();
+    window.loadAllRemainingSolutions();
   }
   window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
 }

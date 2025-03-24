@@ -84,6 +84,7 @@ body {
   margin: 20px auto;
   text-align: center;
 }
+
 .loading-spinner::after {
   content: "";
   width: 40px;
@@ -96,7 +97,9 @@ body {
 }
 
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .letter-box {
@@ -111,6 +114,7 @@ body {
   font-weight: bold;
   background-color: #fff;
 }
+
 .letters {
   margin-bottom: 15px;
 }
