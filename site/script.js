@@ -20,11 +20,11 @@ document.addEventListener('DOMContentLoaded', function () {
       'https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json',
       'solutionsTable',
       (data, date) => {
-        let solutionHTML = '<ul>';
+        let solutionHTML = '<ul style="list-style-type:none; padding-left:0;">';
         for (const category in data[date]) {
-          solutionHTML += `<li><strong>${category}</strong><ul>`;
+          solutionHTML += `<li style="list-style-type:none;"><strong>${category}</strong><ul style="list-style-type:none; padding-left:0;">`;
           for (const word of data[date][category]) {
-            solutionHTML += `<li>${word}</li>`;
+            solutionHTML += `<li style="list-style-type:none;">${word}</li>`;
           }
           solutionHTML += '</ul></li>';
         }
@@ -56,9 +56,9 @@ document.addEventListener('DOMContentLoaded', function () {
         const imageUrl = `https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands/${date}.png`;
         solutionHTML += `<div class="mt-3"><a href="${imageUrl}" target="_blank" class="btn btn-success btn-long">View Image</a></div>`;
 
-        solutionHTML += '<p><strong>Theme Words:</strong></p><ul>';
+        solutionHTML += '<p><strong>Theme Words:</strong></p><ul style="list-style-type:none; padding-left:0;">';
         for (const word of solution.themeWords) {
-          solutionHTML += `<li>${word}</li>`;
+          solutionHTML += `<li style="list-style-type:none;">${word}</li>`;
         }
         solutionHTML += '</ul>';
 
@@ -166,6 +166,11 @@ function fetchSolutions(url, tableId, generateSolutionHTML, startNumber) {
                     const cell2 = row.insertCell(1);
                     const cell3 = row.insertCell(2);
 
+                    // Adjusted column widths:
+                    cell1.style.width = "10%";  // Number column
+                    cell2.style.width = "40%";  // Date column
+                    cell3.style.width = "50%";  // Solutions column
+
                     cell1.textContent = rowNumber--;
                     cell2.textContent = date;
 
@@ -246,9 +251,9 @@ function addDetailsEventListeners(cell, solution) {
         summary.innerHTML = `<strong>Other Words</strong> (${solution.otherWords.length})`;
 
         const loadingDiv = details.querySelector('.other-words-loading');
-        let otherWordsHTML = '<ul>';
+        let otherWordsHTML = '<ul style="list-style-type:none; padding-left:0;">';
         for (const word of solution.otherWords) {
-          otherWordsHTML += `<li>${word}</li>`;
+          otherWordsHTML += `<li style="list-style-type:none;">${word}</li>`;
         }
         otherWordsHTML += '</ul>';
         loadingDiv.innerHTML = otherWordsHTML;
