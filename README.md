@@ -22,12 +22,12 @@ The list is available at [https://hamster45105.github.io/nyt-games-archive/](htt
 - [Wordle](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/wordle_solutions.json)
 - [Connections](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/connections_solutions.json)
 - [Strands](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/strands_solutions.json) - [Strands as images](https://github.com/Hamster45105/nyt-games-archive/tree/main/solutions/strands)
-- [The Mini](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/mini_solutions.json)
+- ~~[The Mini](https://raw.githubusercontent.com/Hamster45105/nyt-games-archive/main/solutions/mini_solutions.json)~~ (Temporaily disabled)
 
 
 ## Solutions Update Status
 <img src="https://img.shields.io/github/actions/workflow/status/Hamster45105/nyt-games-archive/update_wordle_connections_strands.yml?style=for-the-badge&label=Wordle%2FConnections%2FStrands" alt="Wordle/Connections/Strands update status" />
-<img src="https://img.shields.io/github/actions/workflow/status/Hamster45105/nyt-games-archive/update_mini.yml?style=for-the-badge&label=The Mini" alt="The Mini update status" />
+<img src="https://img.shields.io/github/actions/workflow/status/Hamster45105/nyt-games-archive/update_mini.yml?style=for-the-badge&label=The Mini" alt="The Mini update status" /> (Temporaily disabled)
 
 ## License
 

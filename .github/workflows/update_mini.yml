@@ -1,9 +1,9 @@
 name: Update Solutions (The Mini)
 
 on:
-  schedule:
-    - cron: '0 3 * * 1-6'   # Triggers at 10 p.m. EST the previous day (3 a.m. UTC)
-    - cron: '0 23 * * 6'    # Triggers at 6 p.m. EST on Saturday (11 p.m. UTC)
+  # schedule:
+  #  - cron: '0 3 * * 1-6'   # Triggers at 10 p.m. EST the previous day (3 a.m. UTC)
+  #  - cron: '0 23 * * 6'    # Triggers at 6 p.m. EST on Saturday (11 p.m. UTC)
   workflow_dispatch:
 
 permissions:
