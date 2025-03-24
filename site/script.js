@@ -301,7 +301,8 @@ function scrollToDate() {
     }
     if (!found) {
       alert("Date not found!");
+    } else {
+      dateModal.hide();
     }
-    dateModal.hide();
-  }, { once: true });
+  });
 }
