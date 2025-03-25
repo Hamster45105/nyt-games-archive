@@ -15,8 +15,8 @@ with open('./solutions/connections_solutions.json', 'r', encoding='utf-8') as f:
 with open('./solutions/strands_solutions.json', 'r', encoding='utf-8') as f:
     strands_solutions = json.load(f)
 
-with open('./solutions/mini_solutions.json', 'r', encoding='utf-8') as f:
-    mini_solutions = json.load(f)
+# with open('./solutions/mini_solutions.json', 'r', encoding='utf-8') as f:
+#    mini_solutions = json.load(f)
 
 # Function to fetch Wordle solution
 def fetch_wordle_solution(input_date):
