@@ -17132,5 +17132,733 @@
             "LOCKER",
             "PRINT"
         ]
+    },
+    "2025-04-02": {
+        "CAPRICE": [
+            "FANCY",
+            "IMPULSE",
+            "LARK",
+            "WHIM"
+        ],
+        "ILK": [
+            "KIND",
+            "LIKE",
+            "SORT",
+            "TYPE"
+        ],
+        "WILLIAMSES": [
+            "HANK",
+            "ROBIN",
+            "TENNESSEE",
+            "VENUS"
+        ],
+        "WORDS PRONOUNCED DIFFERENTLY AS PROPER NOUNS": [
+            "HERB",
+            "JOB",
+            "NICE",
+            "READING"
+        ]
+    },
+    "2025-04-03": {
+        "PRINTED NOTIFICATION": [
+            "ANNOUNCEMENT",
+            "BULLETIN",
+            "NOTICE",
+            "POSTER"
+        ],
+        "SEEN AT A GROCERY CHECKOUT COUNTER": [
+            "CONVEYOR BELT",
+            "REGISTER",
+            "SCALE",
+            "SCANNER"
+        ],
+        "THINGS WITH TABS": [
+            "BROWSER",
+            "FOLDER",
+            "KEYBOARD",
+            "SODA CAN"
+        ],
+        "PALM ___": [
+            "BEACH",
+            "READER",
+            "SUNDAY",
+            "TREE"
+        ]
+    },
+    "2025-04-04": {
+        "WHAT\u2019S LEFTOVER": [
+            "BALANCE",
+            "DIFFERENCE",
+            "REMAINDER",
+            "REST"
+        ],
+        "CAR TRIP": [
+            "CRUISE",
+            "DRIVE",
+            "RIDE",
+            "SPIN"
+        ],
+        "BASEBALL VENUES": [
+            "DIAMOND",
+            "FIELD",
+            "PARK",
+            "STADIUM"
+        ],
+        "COMPANIES WITH \u201cE\u201d REMOVED": [
+            "BAY",
+            "HARMONY",
+            "INK",
+            "TRADE"
+        ]
+    },
+    "2025-04-05": {
+        "EMPLOY": [
+            "CONTRACT",
+            "ENGAGE",
+            "RETAIN",
+            "SIGN"
+        ],
+        "PARTS OF A WEBSITE": [
+            "BANNER",
+            "HEADER",
+            "MENU",
+            "SIDEBAR"
+        ],
+        "MAGAZINES": [
+            "BILLBOARD",
+            "PEOPLE",
+            "STAR",
+            "TIME"
+        ],
+        "ENDING WITH MEDIEVAL WEAPONS": [
+            "CROSSWORD",
+            "GRIMACE",
+            "RAINBOW",
+            "SEMBLANCE"
+        ]
+    },
+    "2025-04-06": {
+        "ALOOF": [
+            "COOL",
+            "DISTANT",
+            "REMOTE",
+            "RESERVED"
+        ],
+        "UTILITIES": [
+            "CABLE",
+            "GAS",
+            "TRASH",
+            "WATER"
+        ],
+        "WHAT AN ELECTROMETER MEASURES": [
+            "CHARGE",
+            "CURRENT",
+            "RESISTANCE",
+            "VOLTAGE"
+        ],
+        "___ JOINT": [
+            "DOVETAIL",
+            "HIP",
+            "PIZZA",
+            "SPIKE LEE"
+        ]
+    },
+    "2025-04-07": {
+        "THROB": [
+            "BEAT",
+            "POUND",
+            "PULSE",
+            "THUMP"
+        ],
+        "LANDFORMS": [
+            "CAPE",
+            "CRATER",
+            "GORGE",
+            "RIDGE"
+        ],
+        "PICTURE HANGING NEEDS": [
+            "HAMMER",
+            "HANGER",
+            "LEVEL",
+            "NAIL"
+        ],
+        "FOOT___": [
+            "BALL",
+            "HILLS",
+            "LOCKER",
+            "PRINT"
+        ]
+    },
+    "2025-04-08": {
+        "PRICK": [
+            "JAB",
+            "PIERCE",
+            "POKE",
+            "STICK"
+        ],
+        "RADIO LINGO": [
+            "COPY",
+            "NEGATIVE",
+            "OVER",
+            "ROGER"
+        ],
+        "OLD TESTAMENT BOOKS": [
+            "DANIEL",
+            "JOB",
+            "JUDGES",
+            "NUMBERS"
+        ],
+        "WORDS PRONOUNCED \u201cSH\u201d WITHOUT AN \u201cSH\u201d": [
+            "SEAN",
+            "SIOBHAN",
+            "SUGAR",
+            "SURE"
+        ]
+    },
+    "2025-04-09": {
+        "ROUND THREE-DIMENSIONAL OBJECTS": [
+            "BALL",
+            "GLOBE",
+            "ORB",
+            "SPHERE"
+        ],
+        "PUNCH": [
+            "POP",
+            "POUND",
+            "SLUG",
+            "SOCK"
+        ],
+        "ANIMALS IN THE WITCHES' BREW IN \u201cMACBETH\u201d": [
+            "BAT",
+            "DOG",
+            "FROG",
+            "NEWT"
+        ],
+        "FOX___": [
+            "HOLE",
+            "HOUND",
+            "GLOVE",
+            "TROT"
+        ]
+    },
+    "2025-04-10": {
+        "SHADES OF YELLOW": [
+            "CANARY",
+            "GOLD",
+            "LEMON",
+            "MUSTARD"
+        ],
+        "SUPPLY": [
+            "MINE",
+            "RESERVE",
+            "STORE",
+            "WELL"
+        ],
+        "ANTI-SPIRIT OF CHRISTMAS": [
+            "BAH",
+            "COAL",
+            "GRINCH",
+            "NAUGHTY"
+        ],
+        "SPANISH WORDS": [
+            "ELLA",
+            "GUSTO",
+            "MAYO",
+            "SOY"
+        ]
+    },
+    "2025-04-11": {
+        "SOURCES OF VITAMINS": [
+            "CITRUS",
+            "LEAFY GREENS",
+            "SUNSHINE",
+            "SUPPLEMENTS"
+        ],
+        "PLACES USED IN RETAIL SUFFIXES": [
+            "CITY",
+            "LAND",
+            "TOWN",
+            "WORLD"
+        ],
+        "PLACES TO FIND STARS": [
+            "AMERICAN FLAG",
+            "GALAXY",
+            "RED CARPET",
+            "UBER RATING"
+        ],
+        "WORDS AFTER \u201cGO\u201d": [
+            "ALL OUT",
+            "BETWEEN",
+            "KART",
+            "STEADY"
+        ]
+    },
+    "2025-04-12": {
+        "SHORT PERIOD OF TIME": [
+            "BIT",
+            "FLASH",
+            "JIFF",
+            "SEC"
+        ],
+        "DO WRONG": [
+            "ERR",
+            "FALL",
+            "SIN",
+            "STRAY"
+        ],
+        "N.B.A. PLAYER": [
+            "BUCK",
+            "NET",
+            "SPUR",
+            "SUN"
+        ],
+        "STARTS OF AFRICAN COUNTRIES": [
+            "BOTS",
+            "CAME",
+            "KEN",
+            "TAN"
+        ]
+    },
+    "2025-04-13": {
+        "STEAL": [
+            "NICK",
+            "PINCH",
+            "POCKET",
+            "SWIPE"
+        ],
+        "ATTENDANCE STATUS": [
+            "ABSENT",
+            "EXCUSED",
+            "LATE",
+            "PRESENT"
+        ],
+        "FONT-MODIFYING WORDS": [
+            "GOTHIC",
+            "ROMAN",
+            "SANS",
+            "TYPEWRITER"
+        ],
+        "___BERRY": [
+            "CAPER",
+            "ELDER",
+            "GOOSE",
+            "LOGAN"
+        ]
+    },
+    "2025-04-14": {
+        "RESTRICT": [
+            "BLOCK",
+            "CHECK",
+            "DAM",
+            "STOP"
+        ],
+        "TICKETED EVENTS": [
+            "CONCERT",
+            "GAME",
+            "MOVIE",
+            "PLAY"
+        ],
+        "ASSOCIATED WITH THE GAME THE OREGON TRAIL": [
+            "DYSENTERY",
+            "FORD",
+            "HUNT",
+            "OXEN"
+        ],
+        "WHAT \u201cFORD\u201d MIGHT REFER TO": [
+            "ACTOR",
+            "CAR",
+            "DIRECTOR",
+            "PRESIDENT"
+        ]
+    },
+    "2025-04-15": {
+        "DESIST": [
+            "ABSTAIN",
+            "AVOID",
+            "CEASE",
+            "REFRAIN"
+        ],
+        "CARD GAMES": [
+            "BRIDGE",
+            "HEARTS",
+            "SPEED",
+            "SPOONS"
+        ],
+        "ELEMENTS OF GREEK DRAMA": [
+            "CHORUS",
+            "HERO",
+            "HUBRIS",
+            "TRAGEDY"
+        ],
+        "SECOND WORDS OF \u201cPETER PAN\u201d CHARACTERS": [
+            "BELL",
+            "DARLING",
+            "HOOK",
+            "PAN"
+        ]
+    },
+    "2025-04-16": {
+        "BURLESQUE WEAR": [
+            "BOA",
+            "CORSET",
+            "GARTER",
+            "STOCKINGS"
+        ],
+        "MESS UP THE SURFACE OF": [
+            "SCAR",
+            "SCRAPE",
+            "SCRATCH",
+            "SCORE"
+        ],
+        "THEY ROAR": [
+            "CROWD",
+            "ENGINE",
+            "KATY PERRY",
+            "LION"
+        ],
+        "LATIN DANCES WITH A VOWEL CHANGED": [
+            "MAMBA",
+            "MERINGUE",
+            "SIMBA",
+            "TANGY"
+        ]
+    },
+    "2025-04-17": {
+        "CENTRAL SECTION OF THE BODY": [
+            "CORE",
+            "MIDRIFF",
+            "TORSO",
+            "TRUNK"
+        ],
+        "COMPONENTS OF A PIZZA": [
+            "CHEESE",
+            "CRUST",
+            "SAUCE",
+            "TOPPINGS"
+        ],
+        "UNITS OF BEER": [
+            "CASE",
+            "FORTY",
+            "GROWLER",
+            "SIX-PACK"
+        ],
+        "BASEBALL GREATS": [
+            "BONDS",
+            "MANTLE",
+            "TROUT",
+            "YOUNG"
+        ]
+    },
+    "2025-04-18": {
+        "INTERJECTIONS": [
+            "BOY",
+            "GOODNESS",
+            "MAN",
+            "WOW"
+        ],
+        "HORROR MOVIES, WITH \u201cTHE\u201d": [
+            "BIRDS",
+            "EXORCIST",
+            "HAUNTING",
+            "SHINING"
+        ],
+        "THINGS YOU CAN PICK": [
+            "APPLE",
+            "BANJO",
+            "CARD",
+            "NOSE"
+        ],
+        "PERSONAL PROPERTY MINUS \u201cS\u201d": [
+            "BELONGING",
+            "EFFECT",
+            "GOOD",
+            "POSSESSION"
+        ]
+    },
+    "2025-04-19": {
+        "SPOKEN PRESENTATION": [
+            "ADDRESS",
+            "LECTURE",
+            "SPEECH",
+            "TALK"
+        ],
+        "ADJECTIVES FOR A DESERT": [
+            "DRY",
+            "HOT",
+            "SANDY",
+            "VAST"
+        ],
+        "DOG BREEDS, INFORMALLY": [
+            "BULLY",
+            "CHOW",
+            "GOLDEN",
+            "LAB"
+        ],
+        "REPRESENTED BY THREE-DIGIT NUMBERS": [
+            "CANNABIS",
+            "DEVIL",
+            "INTRO CLASS",
+            "JAMES BOND"
+        ]
+    },
+    "2025-04-20": {
+        "GLIMPSE": [
+            "GANDER",
+            "GLANCE",
+            "LOOK",
+            "PEEP"
+        ],
+        "NEEDS FOR TIE-DYEING A SHIRT": [
+            "BASIN",
+            "DYE",
+            "RUBBER BANDS",
+            "SHIRT"
+        ],
+        "THINGS YOU CAN CRACK": [
+            "CODE",
+            "EGG",
+            "JOKE",
+            "WHIP"
+        ],
+        "WORDS BEFORE \u201cHOP\u201d": [
+            "BAR",
+            "BUNNY",
+            "HIP",
+            "SOCK"
+        ]
+    },
+    "2025-04-21": {
+        "METAPHOR FOR SOMETHING UNEXPECTED": [
+            "BOMBSHELL",
+            "CURVEBALL",
+            "TWIST",
+            "WRENCH"
+        ],
+        "INFO ON A NUTRITION LABEL": [
+            "FAT",
+            "IRON",
+            "PROTEIN",
+            "SODIUM"
+        ],
+        "THINGS YOU CAN INSERT INTO A SPREADSHEET": [
+            "CELL",
+            "COLUMN",
+            "ROW",
+            "SHEET"
+        ],
+        "HELICAL THINGS": [
+            "CORKSCREW",
+            "DNA",
+            "FUSILLI",
+            "SPRING"
+        ]
+    },
+    "2025-04-22": {
+        "CANCEL, AS A PROJECT": [
+            "AXE",
+            "CUT",
+            "DROP",
+            "SCRAP"
+        ],
+        "SEEN IN A POTTERY STUDIO": [
+            "CLAY",
+            "GLAZE",
+            "KILN",
+            "WHEEL"
+        ],
+        "THINGS THAT ARE SLIPPERY": [
+            "BANANA PEEL",
+            "EEL",
+            "GREASE",
+            "ICE"
+        ],
+        "NATURAL PRODUCERS OF HEAT": [
+            "FIRE",
+            "LIGHTNING",
+            "SUN",
+            "VOLCANO"
+        ]
+    },
+    "2025-04-23": {
+        "PARTS OF A TREE": [
+            "BRANCH",
+            "LEAF",
+            "ROOT",
+            "TRUNK"
+        ],
+        "MAMMALIAN FEATURES": [
+            "FUR",
+            "MUZZLE",
+            "PAW",
+            "TAIL"
+        ],
+        "COMEDIC ROUTINE": [
+            "ACT",
+            "BIT",
+            "GAG",
+            "SKETCH"
+        ],
+        "___POLE": [
+            "BEAN",
+            "FLAG",
+            "MAY",
+            "TAD"
+        ]
+    },
+    "2025-04-24": {
+        "THINGS THAT ARE WHITE": [
+            "BABY POWDER",
+            "MILK",
+            "POLAR BEAR",
+            "SNOW"
+        ],
+        "KINDS OF LETTUCE": [
+            "BUTTER",
+            "ICEBERG",
+            "LEAF",
+            "ROMAINE"
+        ],
+        "\u201cBATMAN\u201d VILLAINS": [
+            "BANE",
+            "JOKER",
+            "PENGUIN",
+            "SCARECROW"
+        ],
+        "THEY HAVE EARS": [
+            "CORNFIELD",
+            "MUSICIANS",
+            "PITCHERS",
+            "WALLS"
+        ]
+    },
+    "2025-04-25": {
+        "GUM FLAVORS": [
+            "BUBBLEGUM",
+            "CINNAMON",
+            "MENTHOL",
+            "WINTERGREEN"
+        ],
+        "STARTING POINT": [
+            "CATALYST",
+            "LAUNCHPAD",
+            "SPARK",
+            "SPRINGBOARD"
+        ],
+        "GREAT AMERICAN SONGBOOK SONGS": [
+            "AUTUMN LEAVES",
+            "SUMMERTIME",
+            "UNFORGETTABLE",
+            "WITCHCRAFT"
+        ],
+        "___ TUBE": [
+            "FALLOPIAN",
+            "INNER",
+            "TEST",
+            "VACUUM"
+        ]
+    },
+    "2025-04-26": {
+        "TINT": [
+            "COLOR",
+            "HUE",
+            "SHADE",
+            "TONE"
+        ],
+        "VALLEY": [
+            "DALE",
+            "DELL",
+            "GLEN",
+            "HOLLOW"
+        ],
+        "BOBS": [
+            "DOLE",
+            "HOPE",
+            "MARLEY",
+            "ROSS"
+        ],
+        "COLOR ANAGRAMS": [
+            "DRE",
+            "GARY",
+            "GENRE",
+            "LUBE"
+        ]
+    },
+    "2025-04-27": {
+        "CALCULATOR BUTTONS": [
+            "EQUALS",
+            "MINUS",
+            "PERCENT",
+            "TIMES"
+        ],
+        "AMOUNTS OF HAIR": [
+            "LOCK",
+            "SHOCK",
+            "THATCH",
+            "TUFT"
+        ],
+        "SALTY SNACK UNIT": [
+            "COMBO",
+            "GOLDFISH",
+            "RUFFLE",
+            "TAKI"
+        ],
+        "SWEDISH ___": [
+            "CHEF",
+            "FISH",
+            "MASSAGE",
+            "MEATBALL"
+        ]
+    },
+    "2025-04-28": {
+        "HAIR PRODUCTS": [
+            "GEL",
+            "MOUSSE",
+            "SPRAY",
+            "WAX"
+        ],
+        "AUSTERE": [
+            "BARE",
+            "PLAIN",
+            "SIMPLE",
+            "SPARE"
+        ],
+        "CLUES AT A CRIME SCENE": [
+            "FIBER",
+            "FINGERPRINT",
+            "HAIR",
+            "TIRE MARK"
+        ],
+        "WEARY": [
+            "BORE",
+            "DRAIN",
+            "JADE",
+            "TIRE"
+        ]
+    },
+    "2025-04-29": {
+        "COOKING CONCOCTIONS": [
+            "BATTER",
+            "DOUGH",
+            "MIXTURE",
+            "PASTE"
+        ],
+        "SEEN ON A TABLE AT A DINNER PARTY": [
+            "CANDLESTICK",
+            "PITCHER",
+            "PLACEMAT",
+            "PLATE"
+        ],
+        "THINGS TO CLIMB": [
+            "LADDER",
+            "MOUNTAIN",
+            "ROPE",
+            "TREE"
+        ],
+        "WHAT \"DIAMOND\" CAN REFER TO": [
+            "GEMSTONE",
+            "INFIELD",
+            "RHOMBUS",
+            "SUIT"
+        ]
     }
 }
