@@ -18406,5 +18406,213 @@
             "MURPHY",
             "WATER"
         ]
+    },
+    "2025-05-21": {
+        "PROHIBIT, AS ENTRY": [
+            "BAR",
+            "BLOCK",
+            "DENY",
+            "REFUSE"
+        ],
+        "FOLDERS ON A MAC": [
+            "DESKTOP",
+            "MUSIC",
+            "PICTURES",
+            "TRASH"
+        ],
+        "MEDICINE FORMATS": [
+            "CREAM",
+            "PATCH",
+            "SPRAY",
+            "TABLET"
+        ],
+        "THINGS THAT OPEN LIKE A CLAM": [
+            "CLAM",
+            "COMPACT",
+            "LAPTOP",
+            "WAFFLE IRON"
+        ]
+    },
+    "2025-05-22": {
+        "FINE PRINT": [
+            "ASTERISK",
+            "CATCH",
+            "CONDITION",
+            "STRINGS"
+        ],
+        "FIGURES WITH GREEN SKIN": [
+            "ELPHABA",
+            "GRINCH",
+            "HULK",
+            "SHREK"
+        ],
+        "FEATURES OF THE NATIONAL MALL IN D.C.": [
+            "CAPITOL",
+            "MALL",
+            "OBELISK",
+            "POOL"
+        ],
+        "FAMOUS RIDDLE-GIVERS": [
+            "BRIDGE TROLL",
+            "MAD HATTER",
+            "RIDDLER",
+            "SPHINX"
+        ]
+    },
+    "2025-05-23": {
+        "QUITE THE PARTY": [
+            "BASH",
+            "BLAST",
+            "BLOWOUT",
+            "RAVE"
+        ],
+        "ONE\u2019S CONSTITUTION": [
+            "CHARACTER",
+            "FIBER",
+            "MAKEUP",
+            "NATURE"
+        ],
+        "BRITISH IMPERIAL UNITS OF WEIGHT": [
+            "DRAM",
+            "OUNCE",
+            "POUND",
+            "STONE"
+        ],
+        "WHAT \u201cCAT\u2019S EYE\u201d CAN BE USED TO DESCRIBE": [
+            "EYELINER",
+            "GLASSES",
+            "MARBLE",
+            "NEBULA"
+        ]
+    },
+    "2025-05-24": {
+        "BABY GEAR": [
+            "BIB",
+            "BOTTLE",
+            "MONITOR",
+            "STROLLER"
+        ],
+        "KINDS OF PANTS": [
+            "CAPRI",
+            "JEAN",
+            "JOGGER",
+            "SLACK"
+        ],
+        "NEW YORK SPORTS TEAM MEMBERS": [
+            "JET",
+            "MET",
+            "NET",
+            "RANGER"
+        ],
+        "BLACK WOMEN AUTHORS": [
+            "BUTLER",
+            "GAY",
+            "HOOKS",
+            "WALKER"
+        ]
+    },
+    "2025-05-25": {
+        "PLAYING CARDS": [
+            "ACE",
+            "JACK",
+            "KING",
+            "QUEEN"
+        ],
+        "DOPPELG\u00c4NGER": [
+            "CLONE",
+            "DOUBLE",
+            "RINGER",
+            "TWIN"
+        ],
+        "EAR PIERCING SITES": [
+            "CONCH",
+            "HELIX",
+            "LOBE",
+            "ROOK"
+        ],
+        "___ MAIL": [
+            "CHAIN",
+            "ELECTRONIC",
+            "JUNK",
+            "SNAIL"
+        ]
+    },
+    "2025-05-26": {
+        "ITEMS IN A LINEN CLOSET": [
+            "PILLOWCASE",
+            "SHEET",
+            "TOWEL",
+            "WASHCLOTH"
+        ],
+        "DIAMETRIC": [
+            "COUNTER",
+            "OPPOSITE",
+            "POLAR",
+            "REVERSE"
+        ],
+        "LINGERIE": [
+            "GARTER",
+            "HOSE",
+            "SLIP",
+            "TEDDY"
+        ],
+        "CARD GAMES WITH FIRST LETTER CHANGED": [
+            "DIN",
+            "FRIDGE",
+            "GUMMY",
+            "JOKER"
+        ]
+    },
+    "2025-05-27": {
+        "ROUND FLAT THINGS": [
+            "COASTER",
+            "FRISBEE",
+            "PANCAKE",
+            "RECORD"
+        ],
+        "AIRPORT FEATURES": [
+            "CAROUSEL",
+            "FOOD COURT",
+            "GATE",
+            "LOUNGE"
+        ],
+        "GUITAR PLAYING TECHNIQUES": [
+            "BEND",
+            "PICK",
+            "SLIDE",
+            "STRUM"
+        ],
+        "WHAT CHARACTERS WERE TRANSFORMED INTO IN \u201cBEAUTY AND THE BEAST\u201d": [
+            "BEAST",
+            "CANDELABRA",
+            "CLOCK",
+            "TEACUP"
+        ]
+    },
+    "2025-05-28": {
+        "BE OSTENTATIOUS": [
+            "GRANDSTAND",
+            "POSTURE",
+            "SHOWBOAT",
+            "SWAGGER"
+        ],
+        "COPACETIC": [
+            "FINE",
+            "HUNKY-DORY",
+            "OK",
+            "SWELL"
+        ],
+        "KINDS OF BRACELETS": [
+            "CHARM",
+            "FRIENDSHIP",
+            "ID",
+            "TENNIS"
+        ],
+        "THINGS YOU CAN PRACTICE": [
+            "LAW",
+            "MEDICINE",
+            "SELF-CARE",
+            "WITCHCRAFT"
+        ]
     }
 }
