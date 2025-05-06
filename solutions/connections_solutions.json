@@ -18614,5 +18614,31 @@
             "SELF-CARE",
             "WITCHCRAFT"
         ]
+    },
+    "2025-05-29": {
+        "LETTER SIGN-OFFS": [
+            "BEST",
+            "CHEERS",
+            "LOVE",
+            "SINCERELY"
+        ],
+        "WITHOUT": [
+            "ABSENT",
+            "MINUS",
+            "SANS",
+            "WANTING"
+        ],
+        "VIGOR": [
+            "BEANS",
+            "ENERGY",
+            "PEP",
+            "ZIP"
+        ],
+        "___ STRIP": [
+            "BACON",
+            "COMIC",
+            "LANDING",
+            "POWER"
+        ]
     }
 }
