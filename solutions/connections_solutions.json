@@ -18640,5 +18640,135 @@
             "LANDING",
             "POWER"
         ]
+    },
+    "2025-05-30": {
+        "RODS": [
+            "BAT",
+            "CLUB",
+            "STAFF",
+            "STICK"
+        ],
+        "COMMON SWAG ITEMS": [
+            "HAT",
+            "TEE",
+            "TOTE",
+            "WATER BOTTLE"
+        ],
+        "THEY'RE ON A ROLL!": [
+            "FOIL",
+            "TAPE",
+            "RIBBON",
+            "TOILET PAPER"
+        ],
+        "WORDS BEFORE \u201cSHACK\u201d": [
+            "CADDY",
+            "LOVE",
+            "RADIO",
+            "SHAKE"
+        ]
+    },
+    "2025-05-31": {
+        "ALCOVE": [
+            "CAVITY",
+            "HOLLOW",
+            "NOOK",
+            "RECESS"
+        ],
+        "WAYS TO RECOGNIZE ACHIEVEMENT": [
+            "CERTIFICATE",
+            "MEDAL",
+            "PLAQUE",
+            "TROPHY"
+        ],
+        "VERBS IN BREADMAKING": [
+            "FERMENT",
+            "PROOF",
+            "REST",
+            "RISE"
+        ],
+        "THINGS YOU CAN BLOW": [
+            "BUBBLE",
+            "FUSE",
+            "KISS",
+            "RASPBERRY"
+        ]
+    },
+    "2025-06-01": {
+        "LOCAL WATERING HOLE": [
+            "DIVE",
+            "ESTABLISHMENT",
+            "HAUNT",
+            "JOINT"
+        ],
+        "ENSURE, AS A VICTORY": [
+            "CINCH",
+            "GUARANTEE",
+            "ICE",
+            "LOCK"
+        ],
+        "COMPETE IN MODERN PENTATHLON": [
+            "FENCE",
+            "RIDE",
+            "SHOOT",
+            "SWIM"
+        ],
+        "___ FUND": [
+            "HEDGE",
+            "MUTUAL",
+            "SLUSH",
+            "TRUST"
+        ]
+    },
+    "2025-06-02": {
+        "EXPEDITION": [
+            "JOURNEY",
+            "ODYSSEY",
+            "QUEST",
+            "VOYAGE"
+        ],
+        "HOLD DEAR": [
+            "ESTEEM",
+            "PRIZE",
+            "TREASURE",
+            "VALUE"
+        ],
+        "WORDS WHOSE ONLY VOWEL IS \u201cY\u201d": [
+            "MYRRH",
+            "NYMPH",
+            "RHYTHM",
+            "SPHYNX"
+        ],
+        "NAMES ENDING IN \u201cK\u201d PLUS WORD": [
+            "FRANKINCENSE",
+            "JACKPOT",
+            "MARKDOWN",
+            "NICKNAME"
+        ]
+    },
+    "2025-06-03": {
+        "CONNECT": [
+            "BRIDGE",
+            "JOIN",
+            "LINK",
+            "UNITE"
+        ],
+        "PARTS OF A BIKE": [
+            "CHAIN",
+            "PEDAL",
+            "SADDLE",
+            "WHEEL"
+        ],
+        "BEST PICTURE WINNERS SINCE 2000": [
+            "CHICAGO",
+            "CRASH",
+            "GLADIATOR",
+            "MOONLIGHT"
+        ],
+        "MUSIC GENRES PLUS A LETTER": [
+            "BLUEST",
+            "POPE",
+            "ROCKY",
+            "SKAT"
+        ]
     }
 }
