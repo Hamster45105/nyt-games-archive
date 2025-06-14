@@ -19524,5 +19524,187 @@
             "SENECA",
             "SOPHOCLES"
         ]
+    },
+    "2025-07-03": {
+        "CORRESPONDENCE": [
+            "CONTACT",
+            "DEALINGS",
+            "EXCHANGE",
+            "INTERACTION"
+        ],
+        "AIRPORT BOARD INFO": [
+            "ARRIVAL",
+            "DESTINATION",
+            "FLIGHT",
+            "GATE"
+        ],
+        "PRO-ATHLETE DATA": [
+            "COLLEGE",
+            "NUMBER",
+            "POSITION",
+            "TEAM"
+        ],
+        "FARMERS\u2019 THINGS": [
+            "ALMANAC",
+            "INSURANCE",
+            "MARKET",
+            "TAN"
+        ]
+    },
+    "2025-07-04": {
+        "MILITARY CLOTHING DESCRIPTORS": [
+            "CAMO",
+            "DRAB",
+            "FATIGUE",
+            "KHAKI"
+        ],
+        "PARTS OF A WHEEL": [
+            "HUB",
+            "RIM",
+            "SPOKE",
+            "TIRE"
+        ],
+        "USED IN VENTILATION": [
+            "DUCT",
+            "EXHAUST",
+            "HOSE",
+            "PIPE"
+        ],
+        "FAIL TO TAKE ADVANTAGE OF, AS AN OPPORTUNITY": [
+            "BLOW",
+            "LOSE",
+            "MISS",
+            "WASTE"
+        ]
+    },
+    "2025-07-05": {
+        "CON GAME": [
+            "HUSTLE",
+            "RACKET",
+            "SCHEME",
+            "STING"
+        ],
+        "COMBINE, AS BAKING INGREDIENTS": [
+            "BEAT",
+            "BLEND",
+            "FOLD",
+            "STIR"
+        ],
+        "YEARN": [
+            "BURN",
+            "ITCH",
+            "LONG",
+            "PINE"
+        ],
+        "KINDS OF LISTS": [
+            "BUCKET",
+            "LAUNDRY",
+            "SHORT",
+            "TO-DO"
+        ]
+    },
+    "2025-07-06": {
+        "FIRED OBJECTS": [
+            "CERAMICS",
+            "CHINA",
+            "POTTERY",
+            "WARE"
+        ],
+        "PARTICLE": [
+            "CRUMB",
+            "GRAIN",
+            "MORSEL",
+            "SHRED"
+        ],
+        "DRS": [
+            "DRE",
+            "EVIL",
+            "PEPPER",
+            "SEUSS"
+        ],
+        "ENDING WITH HOMOPHONES OF PARTS OF THE LEG": [
+            "CRYPTO",
+            "DECAF",
+            "DISNEY",
+            "MISSION"
+        ]
+    },
+    "2025-07-07": {
+        "INFORMANT": [
+            "CANARY",
+            "LEAK",
+            "RAT",
+            "SOURCE"
+        ],
+        "BIG IMPRESSION": [
+            "FOOTPRINT",
+            "IMPACT",
+            "MARK",
+            "SPLASH"
+        ],
+        "BASKETBALL MOVES": [
+            "BLOCK",
+            "DRIBBLE",
+            "PASS",
+            "SHOOT"
+        ],
+        "TOP ___": [
+            "BANANA",
+            "DOG",
+            "HAT",
+            "SECRET"
+        ]
+    },
+    "2025-07-08": {
+        "LIAISON": [
+            "AFFAIR",
+            "FLING",
+            "RELATIONS",
+            "THING"
+        ],
+        "SEEN IN A LOCKER ROOM": [
+            "BENCH",
+            "LOCKER",
+            "MIRROR",
+            "SCALE"
+        ],
+        "SOMETHING ENTERED FOR ACCESS": [
+            "CODE",
+            "KEY",
+            "PASSWORD",
+            "PIN"
+        ],
+        "JOHNS": [
+            "CANDY",
+            "CARPENTER",
+            "LEGEND",
+            "MAJOR"
+        ]
+    },
+    "2025-07-09": {
+        "PARTS OF A COLLEGE CAMPUS": [
+            "CAFETERIA",
+            "DORM",
+            "LIBRARY",
+            "QUAD"
+        ],
+        "EXAGGERATED, AS A PERFORMANCE": [
+            "CAMP",
+            "DRAMATIC",
+            "HAMMY",
+            "OVERDONE"
+        ],
+        "CLOSE IN ON": [
+            "CORNER",
+            "SURROUND",
+            "TRAP",
+            "TREE"
+        ],
+        "STARTS OF GREEK LETTERS": [
+            "BET",
+            "DELT",
+            "LAMB",
+            "THE"
+        ]
     }
 }
