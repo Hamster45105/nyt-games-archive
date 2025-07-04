@@ -20096,5 +20096,187 @@
             "RABE",
             "STEEL"
         ]
+    },
+    "2025-07-25": {
+        "HUSH-HUSH": [
+            "MUM",
+            "PRIVATE",
+            "QUIET",
+            "SECRET"
+        ],
+        "STATE ABBREVIATIONS": [
+            "IN",
+            "MA",
+            "OH",
+            "OK"
+        ],
+        "BASEBALL CALLS": [
+            "BALL",
+            "FAIR",
+            "FOUL",
+            "OUT"
+        ],
+        "QUEEN ___": [
+            "BED",
+            "BEE",
+            "MARY",
+            "MOTHER"
+        ]
+    },
+    "2025-07-26": {
+        "HERBS AND SPICES": [
+            "ANISE",
+            "DILL",
+            "MACE",
+            "SAGE"
+        ],
+        "SHADES OF GREEN": [
+            "BOTTLE",
+            "HUNTER",
+            "KELLY",
+            "PEA"
+        ],
+        "TRAVEL ON FOOT": [
+            "MARCH",
+            "HIKE",
+            "TRAMP",
+            "TREK"
+        ],
+        "STARTS OF EUROPEAN CAPITALS": [
+            "COPE",
+            "LUXE",
+            "SARA",
+            "WARS"
+        ]
+    },
+    "2025-07-27": {
+        "\"NOTHING TO IT!\"": [
+            "CHILD\u2019S PLAY",
+            "EASY",
+            "NO SWEAT",
+            "PIECE OF CAKE"
+        ],
+        "OUTDOOR EVENTS": [
+            "BLOCK PARTY",
+            "FESTIVAL",
+            "PICNIC",
+            "TAILGATE"
+        ],
+        "WORDS BEFORE \u201cSCHOOL\u201d": [
+            "ELEMENTARY",
+            "GRADE",
+            "GRAMMAR",
+            "PRIMARY"
+        ],
+        "ASSOCIATED WITH TRICKS": [
+            "CON GAME",
+            "HALLOWEEN",
+            "HEARTS",
+            "MAGIC SHOW"
+        ]
+    },
+    "2025-07-28": {
+        "FOREMOST": [
+            "FIRST",
+            "INITIAL",
+            "ORIGINAL",
+            "PRIMARY"
+        ],
+        "INDICATION": [
+            "EVIDENCE",
+            "HINT",
+            "SIGN",
+            "TRACE"
+        ],
+        "ITEM IN A COLLECTION": [
+            "COIN",
+            "COMIC",
+            "RECORD",
+            "STAMP"
+        ],
+        "___ MOVIE": [
+            "BUDDY",
+            "CULT",
+            "DATE",
+            "SILENT"
+        ]
+    },
+    "2025-07-29": {
+        "DISCOUNT": [
+            "DEAL",
+            "PROMOTION",
+            "SALE",
+            "SPECIAL"
+        ],
+        "IRRITATE": [
+            "BUG",
+            "NETTLE",
+            "RUFFLE",
+            "STEAM"
+        ],
+        "POKER ACTIONS": [
+            "CALL",
+            "CHECK",
+            "FOLD",
+            "RAISE"
+        ],
+        "THINGS YOU CAN PUMP": [
+            "BRAKES",
+            "FIST",
+            "GAS",
+            "IRON"
+        ]
+    },
+    "2025-07-30": {
+        "INSTRUCT": [
+            "COACH",
+            "DIRECT",
+            "GUIDE",
+            "TRAIN"
+        ],
+        "MEANS": [
+            "INSTRUMENT",
+            "MEDIUM",
+            "ORGAN",
+            "VEHICLE"
+        ],
+        "STARTING WITH GREEK NUMERICAL PREFIXES": [
+            "DIOXIDE",
+            "MONORAIL",
+            "QUADRANT",
+            "TRIANGLE"
+        ],
+        "ANAGRAMS OF MUSICAL INSTRUMENTS": [
+            "ABUT",
+            "BULGE",
+            "GROAN",
+            "VOILA"
+        ]
+    },
+    "2025-07-31": {
+        "FIRST ___": [
+            "AID",
+            "LADY",
+            "NATIONS",
+            "RESPONDER"
+        ],
+        "SECOND ___": [
+            "COMING",
+            "FIDDLE",
+            "GUESS",
+            "NATURE"
+        ],
+        "THIRD ___": [
+            "EYE",
+            "PARTY",
+            "RAIL",
+            "ROCK"
+        ],
+        "LAST ___": [
+            "LAUGH",
+            "RESORT",
+            "STRAW",
+            "SUPPER"
+        ]
     }
 }
