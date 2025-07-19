@@ -20434,5 +20434,187 @@
             "SQUAD",
             "STRAP"
         ]
+    },
+    "2025-08-07": {
+        "MOUSE ACTIONS": [
+            "CLICK",
+            "DRAG",
+            "HOVER",
+            "SCROLL"
+        ],
+        "PERFORATE": [
+            "BORE",
+            "PIERCE",
+            "POKE",
+            "PUNCH"
+        ],
+        "ONES WITH POINTY EARS": [
+            "BATMAN",
+            "DEVIL",
+            "ELF",
+            "VULCAN"
+        ],
+        "WIMBLEDON WINNERS": [
+            "BORG",
+            "COURT",
+            "KING",
+            "SINNER"
+        ]
+    },
+    "2025-08-08": {
+        "MAKE EQUAL, AS A SCORE": [
+            "DRAW",
+            "EVEN",
+            "SQUARE",
+            "TIE"
+        ],
+        "BESTOW": [
+            "CONFER",
+            "GRANT",
+            "PRESENT",
+            "VEST"
+        ],
+        "THINGS YOU MIGHT DO DURING A BORING CLASS/MEETING": [
+            "DOODLE",
+            "DOZE",
+            "PASS NOTES",
+            "SPACE"
+        ],
+        "WORDS AFTER THE LETTERS \u201cMS\u201d": [
+            "DEGREE",
+            "MARVEL",
+            "PAC-MAN",
+            "PAINT"
+        ]
+    },
+    "2025-08-09": {
+        "RESULT": [
+            "FRUIT",
+            "PRODUCT",
+            "RETURN",
+            "YIELD"
+        ],
+        "KINDS OF JOKES": [
+            "DAD",
+            "KNOCK-KNOCK",
+            "PRACTICAL",
+            "PRIVATE"
+        ],
+        "MOVIES FEATURING SUPERNATURAL ROMANCE": [
+            "CASPER",
+            "GHOST",
+            "LET ME IN",
+            "TWILIGHT"
+        ],
+        "CORN-Y THINGS": [
+            "MAZE",
+            "MUFFIN",
+            "SILK",
+            "SYRUP"
+        ]
+    },
+    "2025-08-10": {
+        "CLOUT": [
+            "JUICE",
+            "RESPECT",
+            "SWAY",
+            "WEIGHT"
+        ],
+        "AMASS": [
+            "CLUSTER",
+            "COLLECT",
+            "CONCENTRATE",
+            "GROUP"
+        ],
+        "KINDS OF FICTION": [
+            "FAN",
+            "HISTORICAL",
+            "PULP",
+            "SCIENCE"
+        ],
+        "STARTING WITH MATH AND SCIENCE CLASSES, FOR SHORT": [
+            "BIOPIC",
+            "CALCIUM",
+            "CHEMISE",
+            "TRIGLYCERIDE"
+        ]
+    },
+    "2025-08-11": {
+        "ORDINARY": [
+            "NORMAL",
+            "PLAIN",
+            "STANDARD",
+            "VANILLA"
+        ],
+        "ABANDON": [
+            "DESERT",
+            "DUMP",
+            "MAROON",
+            "STRAND"
+        ],
+        "SPECS ON CONSUMER PACKAGING": [
+            "COUNT",
+            "MEASURE",
+            "WEIGHT",
+            "VOLUME"
+        ],
+        "DARK ___": [
+            "AGES",
+            "CHOCOLATE",
+            "HORSE",
+            "MATTER"
+        ]
+    },
+    "2025-08-12": {
+        "GROUPS OF TEN": [
+            "BOWLING PINS",
+            "COMMANDMENTS",
+            "DECADE",
+            "FINGERS"
+        ],
+        "PLACES WITH LANES": [
+            "BOWLING ALLEY",
+            "HIGHWAY",
+            "SUPERMARKET",
+            "SWIMMING POOL"
+        ],
+        "PLACES IN DOWNTOWN NEW YORK": [
+            "BOWLING GREEN",
+            "BROOKLYN BRIDGE",
+            "CITY HALL",
+            "WALL STREET"
+        ],
+        "THINGS WITH HOLES": [
+            "BOWLING BALL",
+            "COLANDER",
+            "GOLF COURSE",
+            "SPONGE"
+        ]
+    },
+    "2025-08-13": {
+        "CAPTIVATE": [
+            "CHARM",
+            "ENTRANCE",
+            "RIVET",
+            "THRILL"
+        ],
+        "EXCERPT": [
+            "CLIP",
+            "EXTRACT",
+            "PASSAGE",
+            "QUOTE"
+        ],
+        "MEMBER OF A GIRL GROUP": [
+            "BANGLE",
+            "CHICK",
+            "GO-GO",
+            "SUPREME"
+        ],
+        "STAR___": [
+            "BOARD",
+            "FISH",
+            "GATE",
+            "STRUCK"
+        ]
     }
 }
