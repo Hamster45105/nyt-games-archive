@@ -20798,5 +20798,187 @@
             "CROOK",
             "CROWBAR"
         ]
+    },
+    "2025-08-21": {
+        "FANTASTICAL LANDS": [
+            "DREAM",
+            "FANTASY",
+            "LA-LA",
+            "NEVER NEVER"
+        ],
+        "BLUNDER": [
+            "BOO-BOO",
+            "FLUB",
+            "GAFFE",
+            "NO-NO"
+        ],
+        "THINGS WITH ANTENNA/E": [
+            "INSECT",
+            "RADIO TOWER",
+            "SATELLITE DISH",
+            "TELETUBBY"
+        ],
+        "___ DOODLE": [
+            "CHEESE",
+            "DIPSY",
+            "GOOGLE",
+            "YANKEE"
+        ]
+    },
+    "2025-08-22": {
+        "U.S. PRESIDENTS": [
+            "ADAMS",
+            "FORD",
+            "GRANT",
+            "WASHINGTON"
+        ],
+        "ACTORS WITH ACTION-RELATED LAST NAMES": [
+            "CHEVY CHASE",
+            "CHRISTOPH WALTZ",
+            "GEOFFREY RUSH",
+            "TOM CRUISE"
+        ],
+        "KINDS OF POKER": [
+            "DRAW",
+            "OMAHA",
+            "STRIP",
+            "STUD"
+        ],
+        "PROPER NOUNS AFTER GERUNDS IN \u201990S MOVIE TITLES": [
+            "AMY",
+            "JOHN MALKOVICH",
+            "LAS VEGAS",
+            "PRIVATE RYAN"
+        ]
+    },
+    "2025-08-23": {
+        "LIQUIDS YOU PUT INTO CARS": [
+            "BRAKE FLUID",
+            "COOLANT",
+            "FUEL",
+            "OIL"
+        ],
+        "ARENA": [
+            "BOWL",
+            "COLISEUM",
+            "HIPPODROME",
+            "STADIUM"
+        ],
+        "SKULDUGGERY": [
+            "CHICANERY",
+            "DECEIT",
+            "LEGERDEMAIN",
+            "SUBTERFUGE"
+        ],
+        "21ST CENTURY INVENTIONS": [
+            "CRYPTO",
+            "SMARTPHONE",
+            "STREAMING",
+            "VAPE"
+        ]
+    },
+    "2025-08-24": {
+        "WINE VESSELS": [
+            "BOTTLE",
+            "CARAFE",
+            "DECANTER",
+            "GLASS"
+        ],
+        "RIPPED": [
+            "CLEFT",
+            "RENT",
+            "SPLIT",
+            "TORN"
+        ],
+        "KINDS OF SNAKES": [
+            "CORAL",
+            "GARTER",
+            "KING",
+            "RATTLE"
+        ],
+        "___ CALL": [
+            "BOOTY",
+            "CLOSE",
+            "COLD",
+            "CURTAIN"
+        ]
+    },
+    "2025-08-25": {
+        "PREDICAMENT": [
+            "FIX",
+            "JAM",
+            "MESS",
+            "PICKLE"
+        ],
+        "SMALL SPHERICAL THINGS": [
+            "MOTHBALL",
+            "PEA",
+            "PEARL",
+            "POM-POM"
+        ],
+        "PIPE-SMOKING ACCESSORIES": [
+            "FILTER",
+            "LIGHTER",
+            "PIPE CLEANER",
+            "TAMPER"
+        ],
+        "WHAT \u201cDOWN\u201d MIGHT MEAN": [
+            "FEATHERS",
+            "GUZZLE",
+            "SAD",
+            "WILLING"
+        ]
+    },
+    "2025-08-26": {
+        "DISTINGUISHING CHARACTERISTICS": [
+            "MOLE",
+            "PIERCING",
+            "SCAR",
+            "TATTOO"
+        ],
+        "A REAL JERK": [
+            "CREEP",
+            "HEEL",
+            "RAT",
+            "SKUNK"
+        ],
+        "PESTER": [
+            "BADGER",
+            "BUG",
+            "HARRY",
+            "RIDE"
+        ],
+        "WORDS BEFORE \u201cSTOOL\u201d": [
+            "BAR",
+            "FOOT",
+            "STEP",
+            "TOAD"
+        ]
+    },
+    "2025-08-27": {
+        "BINARY QUESTION OPTIONS": [
+            "FALSE",
+            "NO",
+            "TRUE",
+            "YES"
+        ],
+        "RESTAURANT WATER OPTIONS": [
+            "BOTTLED",
+            "SPARKLING",
+            "STILL",
+            "TAP"
+        ],
+        "ROULETTE OPTIONS": [
+            "BLACK",
+            "EVEN",
+            "ODD",
+            "RED"
+        ],
+        "ATM OPTIONS": [
+            "CHECKING",
+            "DEPOSIT",
+            "SAVINGS",
+            "WITHDRAWAL"
+        ]
     }
 }
