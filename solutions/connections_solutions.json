@@ -20980,5 +20980,187 @@
             "SAVINGS",
             "WITHDRAWAL"
         ]
+    },
+    "2025-08-28": {
+        "PLACES TO GET TRAPPED": [
+            "NET",
+            "SNARE",
+            "TANGLE",
+            "WEB"
+        ],
+        "USED FOR TEA": [
+            "CUP",
+            "KETTLE",
+            "TEABAG",
+            "WATER"
+        ],
+        "ASSOCIATED WITH HARDNESS": [
+            "DIAMOND",
+            "NAILS",
+            "ROCK",
+            "STEEL"
+        ],
+        "ENDING WITH KEYBOARD KEYS": [
+            "CANTAB",
+            "CYBERSPACE",
+            "ICECAPS",
+            "MAKESHIFT"
+        ]
+    },
+    "2025-08-29": {
+        "FAMOUS PERSON": [
+            "FIGURE",
+            "NAME",
+            "PERSONALITY",
+            "STAR"
+        ],
+        "INCREASE": [
+            "BALLOON",
+            "MOUNT",
+            "MUSHROOM",
+            "WAX"
+        ],
+        "PLACES THAT SELL GAS": [
+            "7-ELEVEN",
+            "CHEVRON",
+            "GULF",
+            "SHELL"
+        ],
+        "___ SPLIT": [
+            "7-10",
+            "BANANA",
+            "LICKETY",
+            "STOCK"
+        ]
+    },
+    "2025-08-30": {
+        "NOT BE GOOD": [
+            "BITE",
+            "BLOW",
+            "STINK",
+            "SUCK"
+        ],
+        "MUSIC GENRES": [
+            "EMO",
+            "FUNK",
+            "METAL",
+            "POP"
+        ],
+        "DO EXCEPTIONALLY WELL": [
+            "EAT",
+            "ROCK",
+            "RULE",
+            "SLAY"
+        ],
+        "CONTEMPORARY COMPOSERS": [
+            "CAGE",
+            "ENO",
+            "GLASS",
+            "REICH"
+        ]
+    },
+    "2025-08-31": {
+        "CRITICIZE HARSHLY": [
+            "BASH",
+            "BLAST",
+            "FLAME",
+            "ROAST"
+        ],
+        "COMMON COMPONENTS OF BOARD GAMES": [
+            "BOARD",
+            "CARDS",
+            "DICE",
+            "PIECES"
+        ],
+        "HETERONYMS": [
+            "AXES",
+            "BASS",
+            "COORDINATE",
+            "DOES"
+        ],
+        "___STICKS": [
+            "CHOP",
+            "DRUM",
+            "FIDDLE",
+            "FISH"
+        ]
+    },
+    "2025-09-01": {
+        "FIRST APPEARANCE": [
+            "DEBUT",
+            "INTRODUCTION",
+            "LAUNCH",
+            "PREMIERE"
+        ],
+        "ONES CELEBRATED WITH HOLIDAYS": [
+            "MOTHER",
+            "PRESIDENT",
+            "SAINT PATRICK",
+            "SAINT VALENTINE"
+        ],
+        "FAMOUS POETS": [
+            "BISHOP",
+            "BURNS",
+            "LORDE",
+            "POPE"
+        ],
+        "WHAT \u201cCARDINAL\u201d MIGHT REFER TO": [
+            "BIRD",
+            "CLERGY MEMBER",
+            "M.L.B. PLAYER",
+            "N.F.L. PLAYER"
+        ]
+    },
+    "2025-09-02": {
+        "CURSES": [
+            "EXPLETIVES",
+            "FOUR-LETTER WORDS",
+            "PROFANITY",
+            "SWEARING"
+        ],
+        "IN \u201cA VISIT FROM ST. NICHOLAS\u201d": [
+            "CHRISTMAS",
+            "HOUSE",
+            "MOUSE",
+            "STIRRING"
+        ],
+        "WORN BY EARRING MAGIC KEN": [
+            "EARRING",
+            "MESH SHIRT",
+            "NECKLACE",
+            "PLEATHER VEST"
+        ],
+        "STARTING WITH POSSESSIVE DETERMINERS": [
+            "HERRING",
+            "HISTAMINE",
+            "MYSTERY",
+            "OUROBOROS"
+        ]
+    },
+    "2025-09-03": {
+        "BEGINNING": [
+            "BIRTH",
+            "DAWN",
+            "GENESIS",
+            "START"
+        ],
+        "JOIN": [
+            "BOND",
+            "COMBINE",
+            "FUSE",
+            "WED"
+        ],
+        "MEDIA INITIALISMS FROM THE '80S": [
+            "AOL",
+            "MTV",
+            "NES",
+            "REM"
+        ],
+        "MAY___": [
+            "DAY",
+            "FLOWER",
+            "FLY",
+            "POLE"
+        ]
     }
 }
