@@ -21422,5 +21422,239 @@
             "SOLDIER",
             "WING"
         ]
+    },
+    "2025-09-14": {
+        "ENTRYWAY": [
+            "DOOR",
+            "GATE",
+            "HATCH",
+            "PORTAL"
+        ],
+        "MAP FEATURES": [
+            "COMPASS",
+            "INSET",
+            "KEY",
+            "SCALE"
+        ],
+        "SURPASS": [
+            "BEAT",
+            "BEST",
+            "BETTER",
+            "TOP"
+        ],
+        "STREETS WITH SYMBOLIC IMPORTANCE": [
+            "DOWNING",
+            "FLEET",
+            "MAIN",
+            "WALL"
+        ]
+    },
+    "2025-09-15": {
+        "FLOORING OPTIONS": [
+            "CARPET",
+            "LAMINATE",
+            "TILE",
+            "WOOD"
+        ],
+        "BEACHY AREA": [
+            "BANK",
+            "COAST",
+            "SHORE",
+            "STRAND"
+        ],
+        "ROMANTIC VIBE": [
+            "CHEMISTRY",
+            "CONNECTION",
+            "FIREWORKS",
+            "SPARK"
+        ],
+        "MEMBER OF A CLASSIC BACKING BAND": [
+            "BANSHEE",
+            "HEARTBREAKER",
+            "PIP",
+            "WAILER"
+        ]
+    },
+    "2025-09-16": {
+        "KEEP TABS ON": [
+            "FOLLOW",
+            "MONITOR",
+            "TRACK",
+            "WATCH"
+        ],
+        "ONE IN A DOZEN": [
+            "DONUT",
+            "JUROR",
+            "MONTH",
+            "ROSE"
+        ],
+        "THINGS WITH INK": [
+            "PEN",
+            "PRINTER",
+            "SQUID",
+            "TATTOO MACHINE"
+        ],
+        "___ RABBIT": [
+            "ROGER",
+            "TRIX",
+            "VELVETEEN",
+            "WHITE"
+        ]
+    },
+    "2025-09-17": {
+        "THEY'RE BLOWIN' IN THE WIND": [
+            "FLAG",
+            "PINWHEEL",
+            "VANE",
+            "WINDCHIME"
+        ],
+        "CHANGE ONE\u2019S TUNE": [
+            "ABOUT-FACE",
+            "BACKPEDAL",
+            "FLIP-FLOP",
+            "RENEGE"
+        ],
+        "CRAM": [
+            "JAM",
+            "SHOEHORN",
+            "STUFF",
+            "WEDGE"
+        ],
+        "LAST WORDS IN LONG-RUNNING CHILDREN\u2019S SHOWS": [
+            "KANGAROO",
+            "NEIGHBORHOOD",
+            "RAINBOW",
+            "STREET"
+        ]
+    },
+    "2025-09-18": {
+        "EVALUATE": [
+            "GRADE",
+            "RANK",
+            "RATE",
+            "SCORE"
+        ],
+        "EXHIBIT UNEASE": [
+            "BLUSH",
+            "FIDGET",
+            "PACE",
+            "SWEAT"
+        ],
+        "ANNOYING THINGS TO RUN": [
+            "DYE",
+            "MASCARA",
+            "NOSE",
+            "STOCKINGS"
+        ],
+        "PAPER ___": [
+            "CLIP",
+            "TIGER",
+            "TOWEL",
+            "TRAIL"
+        ]
+    },
+    "2025-09-19": {
+        "INTO IT": [
+            "DOWN",
+            "EAGER",
+            "GAME",
+            "WILLING"
+        ],
+        "FURNISH": [
+            "EQUIP",
+            "OUTFIT",
+            "PREPARE",
+            "READY"
+        ],
+        "ORGS WITH STARS IN THEIR LOGOS": [
+            "NASA",
+            "N.F.L.",
+            "PARAMOUNT",
+            "SUBARU"
+        ],
+        "HOMOPHONES OF GENESIS FIGURES": [
+            "ABLE",
+            "CANE",
+            "EAVE",
+            "NOAA"
+        ]
+    },
+    "2025-09-20": {
+        "CAR BRANDS": [
+            "DODGE",
+            "FORD",
+            "LINCOLN",
+            "RAM"
+        ],
+        "BIT OF SPORTS BAR FARE": [
+            "CHIP",
+            "DIP",
+            "FRY",
+            "WING"
+        ],
+        "N.H.L. TEAM MEMBER": [
+            "DUCK",
+            "FLYER",
+            "SENATOR",
+            "STAR"
+        ],
+        "SKY___": [
+            "DIVE",
+            "LARK",
+            "ROCKET",
+            "SCRAPER"
+        ]
+    },
+    "2025-09-21": {
+        "TOUCHSCREEN GESTURES": [
+            "PINCH",
+            "SCROLL",
+            "SWIPE",
+            "TAP"
+        ],
+        "RELAX": [
+            "CHILL",
+            "LOAF",
+            "LOUNGE",
+            "VEG"
+        ],
+        "RESTAURANT SEATING OPTIONS": [
+            "BAR",
+            "BOOTH",
+            "COUNTER",
+            "TABLE"
+        ],
+        "VEGETABLES WITH FIRST LETTER REMOVED": [
+            "ALE",
+            "EEK",
+            "HIVE",
+            "QUASH"
+        ]
+    },
+    "2025-09-22": {
+        "BASIC GEOMETRIC CALCULATIONS": [
+            "AREA",
+            "LENGTH",
+            "PERIMETER",
+            "VOLUME"
+        ],
+        "BLACK-AND-WHITE THINGS": [
+            "CROSSWORD",
+            "DOMINO",
+            "ORCA",
+            "OREO"
+        ],
+        "LAS VEGAS CASINO HOTELS": [
+            "ARIA",
+            "EXCALIBUR",
+            "LUXOR",
+            "MIRAGE"
+        ],
+        "WORDS THAT SOUND LIKE PLURAL LETTERS": [
+            "ARS",
+            "AYES",
+            "EASE",
+            "OWES"
+        ]
     }
 }
