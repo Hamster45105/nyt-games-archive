@@ -21656,5 +21656,187 @@
             "EASE",
             "OWES"
         ]
+    },
+    "2025-09-23": {
+        "CHEERFUL": [
+            "BOUNCY",
+            "BRIGHT",
+            "MERRY",
+            "SUNNY"
+        ],
+        "\"RUBBER BABY BUGGY BUMPER\"": [
+            "BABY",
+            "BUGGY",
+            "BUMPER",
+            "RUBBER"
+        ],
+        "KINDS OF LUGGAGE": [
+            "CARRY-ON",
+            "DUFFEL",
+            "HARD-SHELL",
+            "ROLLER"
+        ],
+        "TITLE CHARACTERS IN '80S MOVIES": [
+            "FERRIS",
+            "HEATHER",
+            "INDIANA",
+            "PEE-WEE"
+        ]
+    },
+    "2025-09-24": {
+        "MOVIE": [
+            "FEATURE",
+            "FILM",
+            "FLICK",
+            "PICTURE"
+        ],
+        "STREW": [
+            "LITTER",
+            "PEPPER",
+            "SCATTER",
+            "SPRINKLE"
+        ],
+        "WRINKLY THINGS": [
+            "BRAIN",
+            "CREPE PAPER",
+            "PRUNE",
+            "SHAR PEI"
+        ],
+        "SWEET ___": [
+            "POTATO",
+            "SIXTEEN",
+            "TALK",
+            "TOOTH"
+        ]
+    },
+    "2025-09-25": {
+        "LEFT-LEANING, POLITICALLY": [
+            "BLUE",
+            "LEFT",
+            "LIBERAL",
+            "PROGRESSIVE"
+        ],
+        "ICE CREAM PARLOR ORDERS": [
+            "CONE",
+            "CUP",
+            "SHAKE",
+            "SPLIT"
+        ],
+        "MATT DAMON MOVIES, WITH \u201cTHE\u201d": [
+            "DEPARTED",
+            "GOOD SHEPHERD",
+            "MARTIAN",
+            "RAINMAKER"
+        ],
+        "NAMED \u201cAPOLLO\u201d": [
+            "FICTIONAL BOXER",
+            "GREEK/ROMAN GOD",
+            "SPACECRAFT",
+            "THEATER"
+        ]
+    },
+    "2025-09-26": {
+        "STIR VIGOROUSLY": [
+            "BEAT",
+            "CREAM",
+            "WHIP",
+            "WHISK"
+        ],
+        "HARD TO MAKE OUT": [
+            "DIM",
+            "FAINT",
+            "LIGHT",
+            "PALE"
+        ],
+        "KINDS OF BEARS": [
+            "BLACK",
+            "BROWN",
+            "POLAR",
+            "SUN"
+        ],
+        "DIRTY ___": [
+            "BLONDE",
+            "POOL",
+            "RICE",
+            "WORD"
+        ]
+    },
+    "2025-09-27": {
+        "LOVING": [
+            "KIND",
+            "SWEET",
+            "TENDER",
+            "WARM"
+        ],
+        "APPENDAGES": [
+            "ARM",
+            "FIN",
+            "FLIPPER",
+            "WING"
+        ],
+        "POPCORN-MAKING METHODS": [
+            "KETTLE",
+            "MICROWAVE",
+            "POPPER",
+            "STOVETOP"
+        ],
+        "SQUANDER, WITH \u201cAWAY\u201d": [
+            "FIDDLE",
+            "FRITTER",
+            "THROW",
+            "TRIFLE"
+        ]
+    },
+    "2025-09-28": {
+        "BACKING": [
+            "AEGIS",
+            "GUARD",
+            "PROTECTION",
+            "SHIELD"
+        ],
+        "MALICIOUS SOFTWARE": [
+            "BACKDOOR",
+            "TROJAN HORSE",
+            "VIRUS",
+            "WORM"
+        ],
+        "GUM BRANDS": [
+            "EXTRA",
+            "ICE BREAKERS",
+            "ORBIT",
+            "TRIDENT"
+        ],
+        "N.F.L. TEAM LOGOS": [
+            "BUFFALO",
+            "FLEUR-DE-LIS",
+            "HORSESHOE",
+            "LIGHTNING BOLT"
+        ]
+    },
+    "2025-09-29": {
+        "PLAY A JOKE ON": [
+            "FOOL",
+            "PRANK",
+            "PUNK",
+            "TRICK"
+        ],
+        "KINDS OF UNDERWEAR": [
+            "BOXER",
+            "BRIEF",
+            "HIPSTER",
+            "THONG"
+        ],
+        "PARTS OF A TOILET TANK": [
+            "CHAIN",
+            "FLAPPER",
+            "FLOAT",
+            "HANDLE"
+        ],
+        "FIRST WORDS IN '70S ROCK SONG TITLES": [
+            "BABA",
+            "BOHEMIAN",
+            "HOTEL",
+            "STAIRWAY"
+        ]
     }
 }
