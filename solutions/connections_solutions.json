@@ -22124,5 +22124,239 @@
             "NAKED",
             "THIRD"
         ]
+    },
+    "2025-10-11": {
+        "EQUIPMENT": [
+            "GEAR",
+            "KIT",
+            "STUFF",
+            "TACKLE"
+        ],
+        "DRESS IN": [
+            "DON",
+            "PUT ON",
+            "SPORT",
+            "WEAR"
+        ],
+        "NICKNAMES THAT HAVE OTHER MEANINGS": [
+            "BILL",
+            "BOB",
+            "PAT",
+            "TOM"
+        ],
+        "STREET SUFFIXES": [
+            "ALLEY",
+            "COURT",
+            "LANE",
+            "WAY"
+        ]
+    },
+    "2025-10-12": {
+        "FOR ALL TIME": [
+            "ETERNAL",
+            "EVERLASTING",
+            "FOREVER",
+            "PERMANENT"
+        ],
+        "ESTABLISHES": [
+            "BEGINS",
+            "INSTITUTES",
+            "LAUNCHES",
+            "PIONEERS"
+        ],
+        "BIRDS": [
+            "KITE",
+            "ROBIN",
+            "SWALLOW",
+            "SWIFT"
+        ],
+        "HAPPY ___": [
+            "DAYS",
+            "ENDING",
+            "RETURNS",
+            "TRAILS"
+        ]
+    },
+    "2025-10-13": {
+        "PARTS OF A RECORD PLAYER SETUP": [
+            "AMP",
+            "PREAMP",
+            "SPEAKER",
+            "TURNTABLE"
+        ],
+        "KINDS OF COATS": [
+            "CAMEL",
+            "DUFFLE",
+            "PEA",
+            "TRENCH"
+        ],
+        "THINGS THAT COME ON SPOOLS": [
+            "FILM",
+            "TAPE",
+            "THREAD",
+            "WIRE"
+        ],
+        "STARTING WITH HOMOPHONES OF GREETINGS": [
+            "HAIKU",
+            "HAYSTACK",
+            "HELONIUM",
+            "YEOMAN"
+        ]
+    },
+    "2025-10-14": {
+        "CAPTIVATE": [
+            "ABSORB",
+            "ENGAGE",
+            "HOLD",
+            "OCCUPY"
+        ],
+        "SUMMARY": [
+            "BRIEF",
+            "DIGEST",
+            "OUTLINE",
+            "REVIEW"
+        ],
+        "CONTAIN": [
+            "CHECK",
+            "CURB",
+            "STAUNCH",
+            "STEM"
+        ],
+        "ANIMALS MINUS STARTING LETTER": [
+            "ANTHER",
+            "EASEL",
+            "HARK",
+            "LAMA"
+        ]
+    },
+    "2025-10-15": {
+        "STYLES OF POOLS": [
+            "INFINITY",
+            "KIDDIE",
+            "KIDNEY",
+            "OLYMPIC"
+        ],
+        "IN THE NATO ALPHABET": [
+            "DELTA",
+            "GOLF",
+            "LIMA",
+            "WHISKEY"
+        ],
+        "FORD MODELS": [
+            "BRONCO",
+            "ESCAPE",
+            "FIESTA",
+            "PINTO"
+        ],
+        "___ SEAL": [
+            "ELEPHANT",
+            "GREAT",
+            "NAVY",
+            "VACUUM"
+        ]
+    },
+    "2025-10-16": {
+        "CRABBY": [
+            "CROSS",
+            "PRICKLY",
+            "SORE",
+            "SOUR"
+        ],
+        "FRUIT DESSERTS": [
+            "COBBLER",
+            "CRISP",
+            "CRUMBLE",
+            "TART"
+        ],
+        "FISH": [
+            "CHAR",
+            "FLUKE",
+            "PIKE",
+            "SKATE"
+        ],
+        "BANANA ___": [
+            "BOAT",
+            "BREAD",
+            "SLUG",
+            "SPLIT"
+        ]
+    },
+    "2025-10-17": {
+        "USED DURING A PRESENTATION": [
+            "CLICKER",
+            "LASER POINTER",
+            "PROJECTOR",
+            "SLIDES"
+        ],
+        "ITEMS IN A SOUVENIR SHOP": [
+            "FIGURINE",
+            "KEY RING",
+            "MAGNET",
+            "POSTCARD"
+        ],
+        "FOLKTALE CHARACTERS": [
+            "CHICKEN LITTLE",
+            "JACK",
+            "THUMBELINA",
+            "TOM THUMB"
+        ],
+        "WEATHER TERMS": [
+            "BEAUFORT SCALE",
+            "DEWPOINT",
+            "HEAT INDEX",
+            "WIND CHILL"
+        ]
+    },
+    "2025-10-18": {
+        "GLIDE": [
+            "BREEZE",
+            "COAST",
+            "FLOAT",
+            "SKATE"
+        ],
+        "WORDS BEFORE \u201cBALL\u201d IN SPORTS": [
+            "DODGE",
+            "HAND",
+            "RAQUET",
+            "TETHER"
+        ],
+        "PROLIFIC ACTORS": [
+            "BACON",
+            "CAGE",
+            "CRUISE",
+            "FORD"
+        ],
+        "HOMOPHONES OF SYNONYMS FOR \u201cVEND\u201d": [
+            "CELL",
+            "HOCK",
+            "PEDAL",
+            "TRAYED"
+        ]
+    },
+    "2025-10-19": {
+        "TOPPLE": [
+            "FALL",
+            "SPILL",
+            "TUMBLE",
+            "WIPEOUT"
+        ],
+        "PARTS OF A BOOK": [
+            "COVER",
+            "JACKET",
+            "LEAVES",
+            "SPINE"
+        ],
+        "LOSE IT, WITH \u201cOUT\u201d": [
+            "BUG",
+            "FLIP",
+            "FREAK",
+            "WIG"
+        ],
+        "CHOCOLATE BARS PLUS A LETTER": [
+            "CRUNCHY",
+            "DOVER",
+            "MARSH",
+            "SKORT"
+        ]
     }
 }
