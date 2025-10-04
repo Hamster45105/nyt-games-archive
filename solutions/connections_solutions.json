@@ -22514,5 +22514,31 @@
             "MILK",
             "RAY"
         ]
+    },
+    "2025-10-26": {
+        "KINDS OF INSTRUMENTS": [
+            "BRASS",
+            "PERCUSSION",
+            "STRING",
+            "WIND"
+        ],
+        "WORDS IN A FAMOUS MUHAMMAD ALI QUOTE": [
+            "BEE",
+            "BUTTERFLY",
+            "FLOAT",
+            "STING"
+        ],
+        "KINDS OF CONTESTS": [
+            "BEAUTY",
+            "POPULARITY",
+            "STARING",
+            "TALENT"
+        ],
+        "WORDS WITH DIMINUTIVE SUFFIXES": [
+            "DOGGY",
+            "DROPLET",
+            "KITCHENETTE",
+            "STARLING"
+        ]
     }
 }
