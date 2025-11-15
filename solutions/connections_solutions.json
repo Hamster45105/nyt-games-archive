@@ -23502,5 +23502,57 @@
             "PIANO",
             "ROCKET"
         ]
+    },
+    "2025-12-04": {
+        "CUDDLE": [
+            "DRAW CLOSE",
+            "HOLD TIGHT",
+            "NUZZLE",
+            "SPOON"
+        ],
+        "IMBIBE": [
+            "GUZZLE",
+            "KNOCK BACK",
+            "POUND DOWN",
+            "SWILL"
+        ],
+        "SNOUTS": [
+            "BEAK",
+            "MUZZLE",
+            "PROBOSCIS",
+            "ROSTRUM"
+        ],
+        "THINGS YOU ASSEMBLE": [
+            "IKEA FURNITURE",
+            "LEGOS",
+            "MODEL",
+            "PUZZLE"
+        ]
+    },
+    "2025-12-05": {
+        "TRICKY": [
+            "COMPLEX",
+            "DELICATE",
+            "STICKY",
+            "TOUGH"
+        ],
+        "STATE OF AFFAIRS": [
+            "DEAL",
+            "SITUATION",
+            "STATUS",
+            "STORY"
+        ],
+        "CLASSIC BOARD GAMES": [
+            "MASTERMIND",
+            "MOUSE TRAP",
+            "OPERATION",
+            "SORRY"
+        ],
+        "___ TALK": [
+            "BABY",
+            "PILLOW",
+            "SMALL",
+            "SWEET"
+        ]
     }
 }
