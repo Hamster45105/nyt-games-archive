@@ -23554,5 +23554,135 @@
             "SMALL",
             "SWEET"
         ]
+    },
+    "2025-12-06": {
+        "NORM": [
+            "AVERAGE",
+            "MEAN",
+            "PAR",
+            "STANDARD"
+        ],
+        "MOLLIFY": [
+            "COOL",
+            "MODERATE",
+            "SETTLE",
+            "TEMPER"
+        ],
+        "MEMBER OF A TITULAR GROUP IN AN ANIMATION FRANCHISE": [
+            "CAR",
+            "INCREDIBLE",
+            "MINION",
+            "MONSTER"
+        ],
+        "STARTING WITH HERPETOFAUNA": [
+            "ADDERALL",
+            "MONITORSHIP",
+            "NEWTON",
+            "TOADY"
+        ]
+    },
+    "2025-12-07": {
+        "MOVE AT BREAKNECK SPEED": [
+            "BARREL",
+            "BOLT",
+            "HURTLE",
+            "TEAR"
+        ],
+        "ORGAN MEATS": [
+            "GIZZARD",
+            "HEART",
+            "TONGUE",
+            "TRIPE"
+        ],
+        "WOODWORKING JOINT TERMS": [
+            "DADO",
+            "DOVETAIL",
+            "MITRE",
+            "MORTISE"
+        ],
+        "EL ___": [
+            "CAPITAN",
+            "DORADO",
+            "GRECO",
+            "PASO"
+        ]
+    },
+    "2025-12-08": {
+        "GOAD, WITH \"ON\"": [
+            "EGG",
+            "PUSH",
+            "SPUR",
+            "URGE"
+        ],
+        "FAMOUS STREETS IN LOS ANGELES": [
+            "MULHOLLAND",
+            "RODEO",
+            "SUNSET",
+            "VINE"
+        ],
+        "MEMBER OF A DALLAS PRO SPORTS TEAM": [
+            "COWBOY",
+            "MAVERICK",
+            "STAR",
+            "WING"
+        ],
+        "EUROPEAN CAPITALS MINUS SECOND-TO-LAST LETTER": [
+            "MINK",
+            "PARS",
+            "ROE",
+            "SOFA"
+        ]
+    },
+    "2025-12-09": {
+        "BEAR IN MIND": [
+            "CONSIDER",
+            "COUNT",
+            "FACTOR",
+            "INCLUDE"
+        ],
+        "STRIPED ANIMALS": [
+            "CLOWNFISH",
+            "HONEYBEE",
+            "TIGER",
+            "ZEBRA"
+        ],
+        "ASSOCIATED WITH RAINBOWS": [
+            "DOROTHY GALE",
+            "LEPRECHAUN",
+            "PRIDE",
+            "UNICORN"
+        ],
+        "BEGINNING WITH NUMBER HOMOPHONES": [
+            "FIEVEL",
+            "FOREHEAD",
+            "TOUCAN",
+            "WONDER"
+        ]
+    },
+    "2025-12-10": {
+        "\"MY GOODNESS!\"": [
+            "DEAR",
+            "GRACIOUS",
+            "HEAVENS",
+            "MERCY"
+        ],
+        "IMITATION": [
+            "COPY",
+            "DUMMY",
+            "DUPE",
+            "FAKE"
+        ],
+        "CONFECTION": [
+            "CANDY",
+            "LOLLY",
+            "SUCKER",
+            "SWEET"
+        ],
+        "WHAT \u201cY\u201d MIGHT MEAN": [
+            "WHY",
+            "YEAR",
+            "YELLOW",
+            "YES"
+        ]
     }
 }
