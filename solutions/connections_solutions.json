@@ -23684,5 +23684,83 @@
             "YELLOW",
             "YES"
         ]
+    },
+    "2025-12-11": {
+        "THINGS SEEN IN A YARD": [
+            "GNOME",
+            "GRILL",
+            "SHED",
+            "SPRINKLER"
+        ],
+        "ANAGRAMS": [
+            "ARES",
+            "EARS",
+            "SEAR",
+            "SERA"
+        ],
+        "LETTER HOMOPHONES": [
+            "ARE",
+            "ELLE",
+            "QUE",
+            "QUEUE"
+        ],
+        "DUST ___": [
+            "BOWL",
+            "BUNNY",
+            "DEVIL",
+            "JACKET"
+        ]
+    },
+    "2025-12-12": {
+        "CONTAIN": [
+            "HOLD",
+            "HOUSE",
+            "KEEP",
+            "STORE"
+        ],
+        "MOVE IN THE WIND": [
+            "BLOW",
+            "FLAP",
+            "SWAY",
+            "WAVE"
+        ],
+        "VEGETABLE UNITS": [
+            "BULB",
+            "EAR",
+            "HEAD",
+            "SPEAR"
+        ],
+        "THINGS THAT ARE DIVIDED INTO TWELVE SEGMENTS": [
+            "CLOCK",
+            "FOOT",
+            "YEAR",
+            "ZODIAC"
+        ]
+    },
+    "2025-12-13": {
+        "WIDE-LEGGED PANT STYLES": [
+            "CULOTTE",
+            "GAUCHO",
+            "HAREM",
+            "PALAZZO"
+        ],
+        "SILENT \"T\"": [
+            "APOSTLE",
+            "DEPOT",
+            "MORTGAGE",
+            "POIROT"
+        ],
+        "NEW YORK METS LEGENDS": [
+            "GOODEN",
+            "PIAZZA",
+            "SEAVER",
+            "STRAWBERRY"
+        ],
+        "GREEK MYTHOLOGICAL FIGURES MINUS A LETTER": [
+            "AJA",
+            "ARE",
+            "HER",
+            "HERCULE"
+        ]
     }
 }
