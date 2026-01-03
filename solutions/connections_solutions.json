@@ -24828,5 +24828,31 @@
             "PILOT",
             "TRAFFIC"
         ]
+    },
+    "2026-01-24": {
+        "GEAR FOR A BOXER": [
+            "GLOVES",
+            "MOUTHGUARD",
+            "ROBE",
+            "SHORTS"
+        ],
+        "CHAMPIONSHIP": [
+            "AWARD",
+            "CROWN",
+            "CUP",
+            "TITLE"
+        ],
+        "KINDS OF NECKLINES": [
+            "BOAT",
+            "KEYHOLE",
+            "SCOOP",
+            "SWEETHEART"
+        ],
+        "SNOW ___": [
+            "CONE",
+            "GLOBE",
+            "LEOPARD",
+            "PEA"
+        ]
     }
 }
