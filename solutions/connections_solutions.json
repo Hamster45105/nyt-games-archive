@@ -25114,5 +25114,83 @@
             "HOLE",
             "LANE"
         ]
+    },
+    "2026-02-04": {
+        "CONTENTION": [
+            "CONFLICT",
+            "DISCORD",
+            "FRICTION",
+            "RIVALRY"
+        ],
+        "GAMES OF CHANCE": [
+            "BINGO",
+            "CRAPS",
+            "LOTTERY",
+            "WAR"
+        ],
+        "MORE OR LESS, COLLOQUIALLY": [
+            "APPROX",
+            "BOUT",
+            "LIKE",
+            "ROUND"
+        ],
+        "STARTING WITH NBA TEAMS": [
+            "BULLSEYE",
+            "HEATED",
+            "MAGICAL",
+            "NETSCAPE"
+        ]
+    },
+    "2026-02-05": {
+        "CULTURAL SYMBOLS OF THE U.S.": [
+            "AMERICAN FLAG",
+            "APPLE PIE",
+            "BALD EAGLE",
+            "BASEBALL"
+        ],
+        "COLLIDE WITH": [
+            "BUMP",
+            "BUTT",
+            "KNOCK",
+            "RAM"
+        ],
+        "BLUE THINGS": [
+            "JEANS",
+            "LAPIS LAZULI",
+            "OCEAN",
+            "SKY"
+        ],
+        "LEES OF HOLLYWOOD": [
+            "ANG",
+            "BRUCE",
+            "CHRISTOPHER",
+            "SPIKE"
+        ]
+    },
+    "2026-02-06": {
+        "ITEMS AT A COFFEE STATION": [
+            "CUP",
+            "LID",
+            "STIRRER",
+            "STRAW"
+        ],
+        "THINGS WITH STRIPES": [
+            "CANDY CANE",
+            "CROSSWALK",
+            "REFEREE",
+            "TIGER"
+        ],
+        "WORDS BEFORE \"FLY\" IN INSECT NAMES": [
+            "BUTTER",
+            "DRAGON",
+            "FIRE",
+            "HORSE"
+        ],
+        "HOMOPHONES OF GREETINGS": [
+            "CHOW",
+            "HAY",
+            "HIGH",
+            "YEOH"
+        ]
     }
 }
