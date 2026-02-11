@@ -25192,5 +25192,629 @@
             "HIGH",
             "YEOH"
         ]
+    },
+    "2026-02-08": {
+        "SUPPRESS": [
+            "GAG",
+            "INHIBIT",
+            "MUZZLE",
+            "SILENCE"
+        ],
+        "SAME OLD STUFF": [
+            "DRILL",
+            "GRIND",
+            "HABIT",
+            "ROUTINE"
+        ],
+        "FEATURES OF A STRONG PASSWORD": [
+            "LENGTH",
+            "NUMBER",
+            "SYMBOL",
+            "UPPERCASE"
+        ],
+        "WORDS AFTER \"TWO\"": [
+            "BIT",
+            "CENTS",
+            "FACED",
+            "TIMER"
+        ]
+    },
+    "2026-02-09": {
+        "USED IN WEAVING": [
+            "LOOM",
+            "NEEDLE",
+            "SCISSORS",
+            "YARN"
+        ],
+        "METHOD": [
+            "APPROACH",
+            "MANNER",
+            "STYLE",
+            "WAY"
+        ],
+        "KINDS OF PAYMENT FOR AN AUTHOR": [
+            "ADVANCE",
+            "BONUS",
+            "FEE",
+            "ROYALTY"
+        ],
+        "DRAW ___": [
+            "NEAR",
+            "POKER",
+            "STRAWS",
+            "THE LINE"
+        ]
+    },
+    "2026-02-10": {
+        "EXHIBITION": [
+            "CONVENTION",
+            "EXPOSITION",
+            "FAIR",
+            "SHOW"
+        ],
+        "WORDS SPELLING OUT INITIALISMS": [
+            "DEEJAY",
+            "EMCEE",
+            "KAYO",
+            "OKAY"
+        ],
+        "DVD BONUS FEATURES": [
+            "COMMENTARY",
+            "INTERVIEW",
+            "OUTTAKES",
+            "TRAILER"
+        ],
+        "STARTING WITH PARTS OF A WHEEL": [
+            "HUBBUB",
+            "RIMSHOT",
+            "SPOKESPERSON",
+            "TIRESOME"
+        ]
+    },
+    "2026-02-11": {
+        "ACT LOVESTRUCK": [
+            "MOON",
+            "PINE",
+            "SWOON",
+            "YEARN"
+        ],
+        "EARNINGS": [
+            "GAIN",
+            "NET",
+            "RETURN",
+            "YIELD"
+        ],
+        "COMPACT MASS": [
+            "BLOCK",
+            "BRICK",
+            "CAKE",
+            "PUCK"
+        ],
+        "ROLLER ___": [
+            "BAG",
+            "COASTER",
+            "DERBY",
+            "RINK"
+        ]
+    },
+    "2026-02-12": {
+        "CONSTRUCT": [
+            "FORM",
+            "MAKE",
+            "MOLD",
+            "PRODUCE"
+        ],
+        "FIXED IN PLACE": [
+            "FAST",
+            "FIRM",
+            "FROZEN",
+            "TIGHT"
+        ],
+        "MLB PLAYER, FOR SHORT": [
+            "A",
+            "CARD",
+            "JAY",
+            "YANK"
+        ],
+        "___ QUEEN": [
+            "DAIRY",
+            "DANCING",
+            "DRAG",
+            "MAY"
+        ]
+    },
+    "2026-02-13": {
+        "DOWNRIGHT": [
+            "PURE",
+            "SHEER",
+            "STARK",
+            "UTTER"
+        ],
+        "PENNANT": [
+            "BANNER",
+            "COLORS",
+            "FLAG",
+            "STANDARD"
+        ],
+        "CIGARETTE BRANDS": [
+            "CAMEL",
+            "KENT",
+            "PARLIAMENT",
+            "SALEM"
+        ],
+        "HOMOPHONES OF WAYS TO GET SMALLER": [
+            "LESSON",
+            "RESEED",
+            "SYNC",
+            "WAYNE"
+        ]
+    },
+    "2026-02-14": {
+        "UPTICK": [
+            "HIKE",
+            "JUMP",
+            "RISE",
+            "SPIKE"
+        ],
+        "PROTUBERANCE": [
+            "BUMP",
+            "HUMP",
+            "LUMP",
+            "MOUND"
+        ],
+        "TOM HANKS ROLES": [
+            "GUMP",
+            "PHILLIPS",
+            "SULLY",
+            "WOODY"
+        ],
+        "WORDS BEFORE \"MINT\"": [
+            "BREATH",
+            "JUNIOR",
+            "PEPPER",
+            "SPEAR"
+        ]
+    },
+    "2026-02-15": {
+        "REFERENCE BOOKS": [
+            "ATLAS",
+            "DICTIONARY",
+            "ENCYCLOPEDIA",
+            "THESAURUS"
+        ],
+        "SOMETHING THAT BRINGS BACK MEMORIES": [
+            "ECHO",
+            "REMINDER",
+            "TRACE",
+            "VESTIGE"
+        ],
+        "KINDS OF COMPLEXES": [
+            "ELECTRA",
+            "INFERIORITY",
+            "OEDIPUS",
+            "SUPERIORITY"
+        ],
+        "STARTING WITH WAYS TO REACH SOMEONE VIA PHONE": [
+            "BUZZARD",
+            "CALLIOPE",
+            "DIALECT",
+            "RINGMASTER"
+        ]
+    },
+    "2026-02-16": {
+        "KNEE SLAPPER": [
+            "HOOT",
+            "LAUGH",
+            "RIOT",
+            "SCREAM"
+        ],
+        "HOMOPHONES": [
+            "DO",
+            "DOE",
+            "DOH",
+            "DOUGH"
+        ],
+        "SOUNDS A CHICKEN MAKES": [
+            "BUCK",
+            "CACKLE",
+            "CLUCK",
+            "SQUAWK"
+        ],
+        "STRESS RESPONSES": [
+            "FAWN",
+            "FIGHT",
+            "FLIGHT",
+            "FREEZE"
+        ]
+    },
+    "2026-02-17": {
+        "ZOOM": [
+            "DART",
+            "FLASH",
+            "SPEED",
+            "ZIP"
+        ],
+        "SAUCES IN CHINESE CUISINE": [
+            "HOISIN",
+            "OYSTER",
+            "PLUM",
+            "SOY"
+        ],
+        "RIFFLE (THROUGH)": [
+            "FLIP",
+            "LEAF",
+            "SKIM",
+            "THUMB"
+        ],
+        "STARTING WITH SYNONYMS FOR \"DUD\"": [
+            "BOMBAY",
+            "BUSTLE",
+            "FLOPPY",
+            "MISSUS"
+        ]
+    },
+    "2026-02-18": {
+        "RETRO HAIR DIRECTIVES": [
+            "CRIMP",
+            "CURL",
+            "FEATHER",
+            "TEASE"
+        ],
+        "RETRO SLANG FOR COOL": [
+            "BAD",
+            "FLY",
+            "RAD",
+            "WICKED"
+        ],
+        "CHICKEN DESCRIPTORS": [
+            "BANTAM",
+            "CRESTED",
+            "FREE-RANGE",
+            "LEGHORN"
+        ],
+        "___ CREAM": [
+            "HEAVY",
+            "SHAVING",
+            "SOUR",
+            "TOPICAL"
+        ]
+    },
+    "2026-02-19": {
+        "EASTER SUPPLIES": [
+            "BASKET",
+            "DYE",
+            "EGGS",
+            "PEEPS"
+        ],
+        "FIREPLACE ACCESSORIES": [
+            "BELLOWS",
+            "POKER",
+            "SHOVEL",
+            "TONGS"
+        ],
+        "ELEMENTS OF \"SATURDAY NIGHT FEVER\"": [
+            "DISCO",
+            "JOHN TRAVOLTA",
+            "PLATFORM SHOES",
+            "POLYESTER SUIT"
+        ],
+        "HOMOPHONES OF WAYS TO COOK SOMETHING": [
+            "BOYLE",
+            "BRAYS",
+            "SEER",
+            "STU"
+        ]
+    },
+    "2026-02-20": {
+        "QUICK FIX": [
+            "EASY ANSWER",
+            "MAGIC WAND",
+            "PANACEA",
+            "SILVER BULLET"
+        ],
+        "ASSOCIATED WITH THE MOON": [
+            "ECLIPSE",
+            "GREEN CHEESE",
+            "TIDE",
+            "WEREWOLF"
+        ],
+        "ORIGINAL MONOPOLY TOKENS": [
+            "BOOT",
+            "IRON",
+            "THIMBLE",
+            "TOP HAT"
+        ],
+        "WHAT \"JACK\" MIGHT REFER TO": [
+            "CHEESE",
+            "DONKEY",
+            "PLAYING CARD",
+            "SOCKET"
+        ]
+    },
+    "2026-02-21": {
+        "EXPERIENCE": [
+            "BACKGROUND",
+            "HISTORY",
+            "LIFE",
+            "PAST"
+        ],
+        "ATTENDANCE STATUS": [
+            "ABSENT",
+            "EXCUSED",
+            "LATE",
+            "PRESENT"
+        ],
+        "COMMENTARY ABOUT YOUR CONNECTIONS RESULTS": [
+            "GREAT",
+            "PERFECT",
+            "PHEW",
+            "SOLID"
+        ],
+        "CAR BRANDS PLUS TWO LETTERS": [
+            "AUDITS",
+            "DODGERS",
+            "INFINITIVE",
+            "MINION"
+        ]
+    },
+    "2026-02-22": {
+        "ONE WHO DOESN'T FIT IN": [
+            "BLACK SHEEP",
+            "MISFIT",
+            "OUTCAST",
+            "REJECT"
+        ],
+        "DESCRIPTORS FOR GRAYING HAIR": [
+            "DISTINGUISHED",
+            "FLECKED",
+            "SALT-AND-PEPPER",
+            "SILVER"
+        ],
+        "CLASSIC COMIC STRIPS": [
+            "BLONDIE",
+            "BLOOM COUNTY",
+            "PEANUTS",
+            "THE FAR SIDE"
+        ],
+        "ASSOCIATED WITH THEODORE ROOSEVELT": [
+            "BIG STICK",
+            "BULL MOOSE",
+            "ROUGH RIDERS",
+            "TEDDY BEAR"
+        ]
+    },
+    "2026-02-23": {
+        "EAT VORACIOUSLY": [
+            "BOLT",
+            "GORGE",
+            "INHALE",
+            "SCARF"
+        ],
+        "CONICAL THINGS": [
+            "CHRISTMAS TREE",
+            "CONE",
+            "PARTY HAT",
+            "VOLCANO"
+        ],
+        "POSE": [
+            "BLUFF",
+            "FRONT",
+            "MASQUERADE",
+            "POSTURE"
+        ],
+        "SETTINGS FOR A KISS": [
+            "BLARNEY STONE",
+            "MISTLETOE",
+            "NEW YEAR'S EVE",
+            "WEDDING"
+        ]
+    },
+    "2026-02-24": {
+        "CALCIUM-BASED STRUCTURES": [
+            "BONES",
+            "CORAL",
+            "SHELLS",
+            "TEETH"
+        ],
+        "SYMBOLS OF SCOTLAND": [
+            "BAGPIPES",
+            "SCOTTIE",
+            "TARTAN",
+            "THISTLE"
+        ],
+        "FAMOUS PLAYWRIGHTS": [
+            "CHEKHOV",
+            "COWARD",
+            "MILLER",
+            "SHAW"
+        ],
+        "___ BEAM": [
+            "BALANCE",
+            "JIM",
+            "LASER",
+            "TRACTOR"
+        ]
+    },
+    "2026-02-25": {
+        "CARE FOR": [
+            "BABY",
+            "FOSTER",
+            "MOTHER",
+            "NURSE"
+        ],
+        "ELEMENTARY": [
+            "BASIC",
+            "KEY",
+            "PRIMARY",
+            "PRINCIPAL"
+        ],
+        "JAMESES": [
+            "BROWN",
+            "COOK",
+            "DEAN",
+            "HARDEN"
+        ],
+        "ENDING IN FAMILY WORDS": [
+            "ALKALINE",
+            "DECLAN",
+            "DIATRIBE",
+            "NAPKIN"
+        ]
+    },
+    "2026-02-26": {
+        "PIVOTAL POINT": [
+            "CROSSROADS",
+            "LANDMARK",
+            "MILESTONE",
+            "WATERSHED"
+        ],
+        "GREEN THINGS": [
+            "GRASSHOPPER",
+            "SHAMROCK",
+            "STATUE OF LIBERTY",
+            "WASABI"
+        ],
+        "ELEMENTS OF JOKE-TELLING": [
+            "CALLBACK",
+            "PUNCHLINE",
+            "SETUP",
+            "TIMING"
+        ],
+        "\"___ PLEASE\"": [
+            "ATTENTION",
+            "CHECK",
+            "DRUMROLL",
+            "PRETTY"
+        ]
+    },
+    "2026-02-27": {
+        "BACKSTABBER": [
+            "JUDAS",
+            "SNAKE",
+            "TRAITOR",
+            "TURNCOAT"
+        ],
+        "DEMEANOR": [
+            "AIR",
+            "IMPRESSION",
+            "MANNER",
+            "QUALITY"
+        ],
+        "KINDS OF CHAIN REACTION \"EFFECTS\"": [
+            "BUTTERFLY",
+            "DOMINO",
+            "RIPPLE",
+            "SNOWBALL"
+        ],
+        "___ PRESS": [
+            "BENCH",
+            "DRILL",
+            "FRENCH",
+            "PRINTING"
+        ]
+    },
+    "2026-02-28": {
+        "CRAVING": [
+            "DESIRE",
+            "ITCH",
+            "THIRST",
+            "URGE"
+        ],
+        "JOBS THAT INVOLVE TRAVELING": [
+            "CRUISE DIRECTOR",
+            "PILOT",
+            "ROADIE",
+            "SALESMAN"
+        ],
+        "NAME HOMOPHONES": [
+            "EARNEST",
+            "KNEEL",
+            "RUSTLE",
+            "TAILOR"
+        ],
+        "ASTRONOMICAL TERMS PLUS A LETTER": [
+            "COMETH",
+            "NOVAK",
+            "START",
+            "SUNG"
+        ]
+    },
+    "2026-03-01": {
+        "CONSTRUCTION EQUIPMENT": [
+            "HARD HAT",
+            "LADDER",
+            "NAIL GUN",
+            "TOOL BELT"
+        ],
+        "LITTLE BITE": [
+            "CANAP\u00c9",
+            "FINGER FOOD",
+            "HORS D'OEUVRE",
+            "TAPA"
+        ],
+        "VACATION EMOJI": [
+            "AIRPLANE",
+            "PALM TREE",
+            "SMILING FACE WITH SUNGLASSES",
+            "SUITCASE"
+        ],
+        "THINGS YOU DON'T EAT THAT END IN FOODS": [
+            "COPYPASTA",
+            "JOHANNESBURGER",
+            "KNUCKLE SANDWICH",
+            "LICORICE PIZZA"
+        ]
+    },
+    "2026-03-02": {
+        "GYMNASTICS APPARATUS": [
+            "BEAM",
+            "HORSE",
+            "RINGS",
+            "VAULT"
+        ],
+        "STATUS": [
+            "POSITION",
+            "RANK",
+            "STANDING",
+            "STATION"
+        ],
+        "BASEBALL CALLS": [
+            "BALL",
+            "FOUL",
+            "SAFE",
+            "STRIKE"
+        ],
+        "___ CHICKEN": [
+            "FUNKY",
+            "POPCORN",
+            "RUBBER",
+            "SPRING"
+        ]
+    },
+    "2026-03-03": {
+        "BE ADJACENT TO": [
+            "ABUT",
+            "FLANK",
+            "NEIGHBOR",
+            "TOUCH"
+        ],
+        "SEEN IN A CLOSET": [
+            "HANGER",
+            "HOOK",
+            "ROD",
+            "SHELF"
+        ],
+        "\"BIG\" THINGS": [
+            "APPLE",
+            "BROTHER",
+            "DIPPER",
+            "MAC"
+        ],
+        "STARTING WITH SYNONYMS FOR \"SPEEDY\"": [
+            "BRISKET",
+            "FASTIDIOUS",
+            "FLEETWOOD",
+            "QUICKSAND"
+        ]
     }
 }
