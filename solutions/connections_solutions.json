@@ -25816,5 +25816,83 @@
             "FLEETWOOD",
             "QUICKSAND"
         ]
+    },
+    "2026-03-04": {
+        "PURSUE": [
+            "HOUND",
+            "SHADOW",
+            "TAIL",
+            "TRACK"
+        ],
+        "CLASSIC KID GIFTS": [
+            "BIKE",
+            "BOOK",
+            "TOY",
+            "VIDEO GAME"
+        ],
+        "SPORTSMANLIKE": [
+            "FAIR",
+            "HONEST",
+            "SPORTING",
+            "SQUARE"
+        ],
+        "\"___ GIRL\" TITLES": [
+            "GONE",
+            "GOSSIP",
+            "NEW",
+            "WORKING"
+        ]
+    },
+    "2026-03-05": {
+        "BITS OF HARDWARE": [
+            "BOLT",
+            "NUT",
+            "SCREW",
+            "WASHER"
+        ],
+        "GO BACK AND FORTH": [
+            "ALTERNATE",
+            "SEESAW",
+            "SWITCH",
+            "TOGGLE"
+        ],
+        "PLACES WHERE IDEAS ARE DEVELOPED": [
+            "INCUBATOR",
+            "LAB",
+            "SANDBOX",
+            "TESTBED"
+        ],
+        "WHAT \"SUB\" MIGHT REFER TO": [
+            "BELOW",
+            "HERO",
+            "REPLACEMENT",
+            "SUBMARINE"
+        ]
+    },
+    "2026-03-06": {
+        "FREELOADER": [
+            "LEECH",
+            "PARASITE",
+            "SCRUB",
+            "SPONGE"
+        ],
+        "CONCEALING COVER": [
+            "CLOAK",
+            "CURTAIN",
+            "LAYER",
+            "MANTLE"
+        ],
+        "WAYS TO REFER TO #": [
+            "HASH",
+            "NUMBER",
+            "POUND",
+            "SHARP"
+        ],
+        "WORDS FOR RATIONALITY, IN THE SINGULAR": [
+            "FACULTY",
+            "MARBLE",
+            "SENSE",
+            "WIT"
+        ]
     }
 }
