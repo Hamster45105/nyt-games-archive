@@ -25894,5 +25894,525 @@
             "SENSE",
             "WIT"
         ]
+    },
+    "2026-03-08": {
+        "CITIES": [
+            "LIMA",
+            "NICE",
+            "OSAKA",
+            "PHOENIX"
+        ],
+        "PALINDROMES": [
+            "EYE",
+            "REFER",
+            "ROTATOR",
+            "SELES"
+        ],
+        "HORROR MOVIES MINUS \"S\"": [
+            "GREMLIN",
+            "JAW",
+            "SINNER",
+            "TREMOR"
+        ],
+        "STARTING WITH SLANG FOR ZERO": [
+            "JACKET",
+            "NADAL",
+            "SQUATTER",
+            "ZIPPER"
+        ]
+    },
+    "2026-03-09": {
+        "STARTING WITH THE SAME SOUND, SPELLED DIFFERENTLY": [
+            "WAREHOUSE",
+            "WEARABLE",
+            "WEREWOLF",
+            "WHEREFORE"
+        ],
+        "METAPHORS FOR PUBLIC SCRUTINY": [
+            "FISHBOWL",
+            "HOT SEAT",
+            "MICROSCOPE",
+            "SPOTLIGHT"
+        ],
+        "MUPPETS": [
+            "ANIMAL",
+            "BEAKER",
+            "FOZZIE",
+            "GONZO"
+        ],
+        "THEY FEATURE A BOSS": [
+            "COMPANY",
+            "E STREET BAND",
+            "MAFIA",
+            "VIDEO GAME"
+        ]
+    },
+    "2026-03-10": {
+        "COOK WITH DRY HEAT": [
+            "BROWN",
+            "ROAST",
+            "SEAR",
+            "TOAST"
+        ],
+        "FAMILIAL NICKNAMES": [
+            "CUZ",
+            "GRAM",
+            "POP",
+            "UNC"
+        ],
+        "U.S. STATE ABBREVIATIONS": [
+            "MASS",
+            "MISS",
+            "PENN",
+            "WASH"
+        ],
+        "PUNCH": [
+            "BOX",
+            "DUKE",
+            "SLUG",
+            "SOCK"
+        ]
+    },
+    "2026-03-11": {
+        "STEAL": [
+            "LIFT",
+            "PALM",
+            "PINCH",
+            "POCKET"
+        ],
+        "MAKE NICER, WITH \"UP\"": [
+            "DRESS",
+            "JAZZ",
+            "SPIFF",
+            "SPRUCE"
+        ],
+        "KINDS OF CONES": [
+            "ICE CREAM",
+            "PINE",
+            "SNOW",
+            "TRAFFIC"
+        ],
+        "PRONOUN HOMOPHONES": [
+            "HEE",
+            "MI",
+            "OUI",
+            "YEW"
+        ]
+    },
+    "2026-03-12": {
+        "PLACES TO FIND SAND": [
+            "BUNKER",
+            "DESERT",
+            "HOURGLASS",
+            "SANDBOX"
+        ],
+        "THINGS THAT MOVE BACK AND FORTH": [
+            "METRONOME",
+            "PENDULUM",
+            "SWING",
+            "WINDSHIELD WIPER"
+        ],
+        "APPARATUS-BASED EXERCISE CLASSES": [
+            "BARRE",
+            "REFORMER",
+            "SPIN",
+            "STEP"
+        ],
+        "FEATURING BIRDS": [
+            "CUCKOO CLOCK",
+            "FROOT LOOPS",
+            "MEXICAN FLAG",
+            "WEATHER VANE"
+        ]
+    },
+    "2026-03-13": {
+        "\"NO THANKS\"": [
+            "LATER",
+            "NAH",
+            "NEXT TIME",
+            "PASS"
+        ],
+        "KINDS OF NUMBERS": [
+            "EVEN",
+            "IRRATIONAL",
+            "PERFECT",
+            "PRIME"
+        ],
+        "KINDS OF WALLS": [
+            "BERLIN",
+            "BRICK",
+            "FOURTH",
+            "GREAT"
+        ],
+        "HOMOPHONES OF NON-NUMERIC AMOUNTS": [
+            "AWL",
+            "NUN",
+            "PHEW",
+            "SUM"
+        ]
+    },
+    "2026-03-14": {
+        "HYPNOTIC STATE": [
+            "DREAM",
+            "HAZE",
+            "SPELL",
+            "TRANCE"
+        ],
+        "STARTING WITH PREFIXES MEANING \"TWO\"": [
+            "BINARY",
+            "DIOXIDE",
+            "DUOLINGO",
+            "TWILIGHT"
+        ],
+        "FICTIONAL INSPECTORS": [
+            "CLOUSEAU",
+            "GADGET",
+            "JAVERT",
+            "MORSE"
+        ],
+        "ENDING IN FEMALE ANIMALS": [
+            "HOOTENANNY",
+            "LICHEN",
+            "MOSCOW",
+            "NIGHTMARE"
+        ]
+    },
+    "2026-03-15": {
+        "GREEDILY CONTROL": [
+            "BOGART",
+            "CORNER",
+            "HOG",
+            "MONOPOLIZE"
+        ],
+        "TOOTHED WHEELS": [
+            "COG",
+            "GEAR",
+            "PINION",
+            "SPROCKET"
+        ],
+        "PORTMANTEAUX": [
+            "BLOG",
+            "MOTEL",
+            "SMOG",
+            "SPORK"
+        ],
+        "BULL___": [
+            "DOG",
+            "DOZE",
+            "FROG",
+            "HORN"
+        ]
+    },
+    "2026-03-16": {
+        "ANIMAL GROUP NAMES": [
+            "GAGGLE",
+            "PACK",
+            "POD",
+            "PRIDE"
+        ],
+        "THINGS ASSOCIATED WITH BEING SLOW": [
+            "GLACIER",
+            "MOLASSES",
+            "SLOTH",
+            "TRAFFIC"
+        ],
+        "SILENT \"W\"": [
+            "CARTWRIGHT",
+            "TWO",
+            "WRATH",
+            "WRESTLE"
+        ],
+        "WORDS THAT SOUND LIKE STATE ABBREVIATIONS": [
+            "ANY",
+            "EMMY",
+            "ENVY",
+            "OKAY"
+        ]
+    },
+    "2026-03-17": {
+        "METAPHORS FOR TROUBLE": [
+            "BIND",
+            "HOT WATER",
+            "JAM",
+            "PICKLE"
+        ],
+        "MUSIC THEORY CONCEPTS": [
+            "KEY",
+            "PITCH",
+            "SCALE",
+            "TONE"
+        ],
+        "THINGS WITH STRINGS": [
+            "BALLOON",
+            "KITE",
+            "TEA BAG",
+            "YO-YO"
+        ],
+        "METAPHORS FOR QUICKNESS": [
+            "ARROW",
+            "LIGHTNING",
+            "ROCKET",
+            "WIND"
+        ]
+    },
+    "2026-03-18": {
+        "INTERVAL": [
+            "PATCH",
+            "PERIOD",
+            "SPELL",
+            "STRETCH"
+        ],
+        "REACT TO A STUBBED TOE": [
+            "CURSE",
+            "HOP",
+            "WINCE",
+            "YELL"
+        ],
+        "GUITAR EFFECTS PEDALS": [
+            "DELAY",
+            "REVERB",
+            "WAH",
+            "WHAMMY"
+        ],
+        "___ CHECK": [
+            "BLANK",
+            "COAT",
+            "RAIN",
+            "REALITY"
+        ]
+    },
+    "2026-03-19": {
+        "FOLK TALE CHARACTERS": [
+            "CHICKEN LITTLE",
+            "FROG PRINCE",
+            "GINGERBREAD MAN",
+            "GOLDILOCKS"
+        ],
+        "GOOD LUCK SYMBOLS": [
+            "EVIL EYE",
+            "FOUR-LEAF CLOVER",
+            "HORSESHOE",
+            "RABBIT'S FOOT"
+        ],
+        "THINGS THAT CHANGE COLOR": [
+            "CHAMELEON",
+            "MOOD RING",
+            "SUNSET",
+            "TRAFFIC LIGHT"
+        ],
+        "ENDING IN MUSIC GENRES": [
+            "BABY BLUES",
+            "PET ROCK",
+            "SCRAP METAL",
+            "SODA POP"
+        ]
+    },
+    "2026-03-20": {
+        "DISTURB": [
+            "ALARM",
+            "CONCERN",
+            "RATTLE",
+            "SHAKE"
+        ],
+        "WORDS ON A MONOPOLY BOARD": [
+            "BOARDWALK",
+            "CHANCE",
+            "LUXURY",
+            "PARKING"
+        ],
+        "FIGURE IN GREEK MYTH": [
+            "FATE",
+            "FURY",
+            "MUSE",
+            "SIREN"
+        ],
+        "EGG ___": [
+            "CARTON",
+            "NOODLE",
+            "ROLL",
+            "TIMER"
+        ]
+    },
+    "2026-03-21": {
+        "DIRECT": [
+            "BLUNT",
+            "FRANK",
+            "PLAIN",
+            "STRAIGHT"
+        ],
+        "TARGET": [
+            "GOAL",
+            "MARK",
+            "OBJECT",
+            "POINT"
+        ],
+        "CHECKERS TERMS": [
+            "CAPTURE",
+            "CROWN",
+            "JUMP",
+            "KING"
+        ],
+        "20TH CENTURY AMERICAN POETS": [
+            "BISHOP",
+            "FROST",
+            "POUND",
+            "RICH"
+        ]
+    },
+    "2026-03-22": {
+        "OVERSEE": [
+            "CHAIR",
+            "HEAD",
+            "LEAD",
+            "RUN"
+        ],
+        "PICTURE TAKEN FROM A FILM": [
+            "FRAME",
+            "IMAGE",
+            "SHOT",
+            "STILL"
+        ],
+        "COMPONENTS OF A WEIGHTLIFTING SETUP": [
+            "BAR",
+            "BENCH",
+            "RACK",
+            "WEIGHTS"
+        ],
+        "___ SURF": [
+            "CHANNEL",
+            "COUCH",
+            "CROWD",
+            "KITE"
+        ]
+    },
+    "2026-03-23": {
+        "PRINCIPLED": [
+            "DECENT",
+            "HONEST",
+            "MORAL",
+            "STAND-UP"
+        ],
+        "GAME-CHANGING INVENTIONS": [
+            "LIGHT BULB",
+            "PRINTING PRESS",
+            "SLICED BREAD",
+            "WHEEL"
+        ],
+        "\"VIRGIN\" THINGS": [
+            "MARY",
+            "MOCKTAIL",
+            "OLIVE OIL",
+            "VIRGO"
+        ],
+        "ENDING IN NICKNAME HOMOPHONES": [
+            "BRAIN STEW",
+            "BROCCOLI RABE",
+            "JUNGLE GYM",
+            "OPEN MIC"
+        ]
+    },
+    "2026-03-24": {
+        "DESPICABLE": [
+            "BASE",
+            "LOW",
+            "MEAN",
+            "VILE"
+        ],
+        "LAWNCARE VERBS": [
+            "EDGE",
+            "MOW",
+            "RAKE",
+            "WEED"
+        ],
+        "KINDS OF TRUCKS": [
+            "DUMP",
+            "FIRE",
+            "FOOD",
+            "TOW"
+        ],
+        "HETERONYMS": [
+            "BOW",
+            "ROW",
+            "SOW",
+            "WIND"
+        ]
+    },
+    "2026-03-25": {
+        "OBFUSCATE": [
+            "BLUR",
+            "CLOUD",
+            "MUDDY",
+            "OBSCURE"
+        ],
+        "MAGAZINES": [
+            "FORTUNE",
+            "PEOPLE",
+            "SPIN",
+            "TIME"
+        ],
+        "PAYMENT METHODS": [
+            "CASH",
+            "CHARGE",
+            "CHECK",
+            "WIRE"
+        ],
+        "UNITS OF VOLUME WITH LAST LETTER CHANGED": [
+            "CUR",
+            "GALLOP",
+            "PING",
+            "QUARK"
+        ]
+    },
+    "2026-03-26": {
+        "FOOD PROCUREMENT METHODS": [
+            "AGRICULTURE",
+            "FISHING",
+            "GATHERING",
+            "HUNTING"
+        ],
+        "MEMBER OF A DETROIT SPORTS TEAM": [
+            "LION",
+            "PISTON",
+            "RED WING",
+            "TIGER"
+        ],
+        "FEATURES OF A CLASSIC VOTING BOOTH": [
+            "BALLOT",
+            "BOOTH",
+            "CURTAIN",
+            "LEVER"
+        ],
+        "THEY HAVE BOLTS": [
+            "FRANKENSTEIN'S MONSTER",
+            "HARDWARE STORE",
+            "LIGHTNING",
+            "LOCK"
+        ]
+    },
+    "2026-03-27": {
+        "WHAT IT ALL BOILS DOWN TO": [
+            "BASIC FACTS",
+            "BOTTOM LINE",
+            "BRASS TACKS",
+            "NITTY-GRITTY"
+        ],
+        "FEATURES OF AN AIRPORT TERMINAL": [
+            "BAGGAGE CLAIM",
+            "DUTY-FREE",
+            "FOOD COURT",
+            "TICKET COUNTER"
+        ],
+        "THINGS THAT ARE ORANGE": [
+            "GOLDFISH CRACKER",
+            "MONARCH BUTTERFLY",
+            "THE LORAX",
+            "TRAFFIC CONE"
+        ],
+        "ENDING IN WORDS FOR CELLULAR CONNECTIVITY": [
+            "LIP SERVICE",
+            "MONKEY BARS",
+            "TURN SIGNAL",
+            "WEDDING RECEPTION"
+        ]
     }
 }
