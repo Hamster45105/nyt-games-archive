@@ -26414,5 +26414,109 @@
             "TURN SIGNAL",
             "WEDDING RECEPTION"
         ]
+    },
+    "2026-03-28": {
+        "STEP ONTO, AS A VEHICLE": [
+            "BOARD",
+            "EMBARK",
+            "ENTER",
+            "MOUNT"
+        ],
+        "QUANTITIES IN MECHANICS": [
+            "ACCELERATION",
+            "FORCE",
+            "MASS",
+            "MOMENTUM"
+        ],
+        "TEXTBOOK IMAGES": [
+            "FIGURE",
+            "ILLUSTRATION",
+            "PICTURE",
+            "PLATE"
+        ],
+        "___ PLANT": [
+            "FACE",
+            "PITCHER",
+            "POWER",
+            "ROBERT"
+        ]
+    },
+    "2026-03-29": {
+        "IMAGES SEEN ON THE STREET": [
+            "GRAFFITI",
+            "MURAL",
+            "POSTER",
+            "STENCIL"
+        ],
+        "RETRO DANCE CRAZES": [
+            "HUSTLE",
+            "MASHED POTATO",
+            "ROBOT",
+            "TWIST"
+        ],
+        "SILENT \"P\"": [
+            "CORPS",
+            "COUP",
+            "PSYCHO",
+            "RECEIPT"
+        ],
+        "___ MARK": [
+            "BEAUTY",
+            "CHECK",
+            "QUESTION",
+            "STRETCH"
+        ]
+    },
+    "2026-03-30": {
+        "IMITATION": [
+            "DUMMY",
+            "ERSATZ",
+            "FAUX",
+            "MOCK"
+        ],
+        "PLAY AROUND (WITH)": [
+            "FUTZ",
+            "MESS",
+            "TINKER",
+            "TOY"
+        ],
+        "CAR RENTAL COMPANIES": [
+            "AVIS",
+            "BUDGET",
+            "DOLLAR",
+            "HERTZ"
+        ],
+        "SNACK BRANDS PLUS STARTING LETTER": [
+            "FRITZ",
+            "PLAYS",
+            "TRUFFLES",
+            "YUTZ"
+        ]
+    },
+    "2026-03-31": {
+        "SHORTAGE": [
+            "ABSENCE",
+            "CRUNCH",
+            "DEFICIT",
+            "PINCH"
+        ],
+        "PARTS OF A PIRATE SHIP": [
+            "CANNON",
+            "CROW'S NEST",
+            "JOLLY ROGER",
+            "PLANK"
+        ],
+        "KINDS OF BRAS": [
+            "PLUNGE",
+            "PUSH-UP",
+            "SPORTS",
+            "WIRELESS"
+        ],
+        "STARTING WITH BABY ANIMALS": [
+            "CALF RAISE",
+            "CHICK FLICK",
+            "FRY COOK",
+            "KIT KAT"
+        ]
     }
 }
