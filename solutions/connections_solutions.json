@@ -27350,5 +27350,57 @@
             "FINGERS CROSSED",
             "PEACE"
         ]
+    },
+    "2026-05-04": {
+        "TENDER-HEARTED PERSON": [
+            "MARSHMALLOW",
+            "SOFTIE",
+            "SWEETHEART",
+            "TEDDY BEAR"
+        ],
+        "PELLET-FILLED THINGS": [
+            "BEANIE BABY",
+            "DESSICANT PACKET",
+            "EYE PILLOW",
+            "HACKEY SACK"
+        ],
+        "THINGS WITH KNOBS": [
+            "CONTROL PANEL",
+            "ETCH A SKETCH",
+            "RADIO",
+            "STOVE"
+        ],
+        "STARTING WITH KINDS OF DOGS": [
+            "CHOWDER",
+            "DOODLEBUG",
+            "LABUBU",
+            "PITTER-PATTER"
+        ]
+    },
+    "2026-05-05": {
+        "GLIMMER": [
+            "FLICKER",
+            "HINT",
+            "SUGGESTION",
+            "WHIFF"
+        ],
+        "INVOLUNTARY ACTIONS": [
+            "BLINK",
+            "HICCUP",
+            "SHIVER",
+            "SNEEZE"
+        ],
+        "KINDS OF KNOTS": [
+            "BEND",
+            "BOWLINE",
+            "HITCH",
+            "SHEEPSHANK"
+        ],
+        "STARTING WITH UNITS IN COMPETITIONS": [
+            "GAMELAN",
+            "MATCHSTICK",
+            "POINTER",
+            "SETBACK"
+        ]
     }
 }
