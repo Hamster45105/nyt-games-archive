@@ -28078,5 +28078,187 @@
             "TREE",
             "WEDDING"
         ]
+    },
+    "2026-06-02": {
+        "CLANDESTINE": [
+            "CLOAK-AND-DAGGER",
+            "COVERT",
+            "HUSH-HUSH",
+            "TOP SECRET"
+        ],
+        "BRITISH POTATO DISHES": [
+            "BUBBLE AND SQUEAK",
+            "CHIPS",
+            "JACKET POTATO",
+            "MASH"
+        ],
+        "HERALDIC ACHIEVEMENTS": [
+            "COAT OF ARMS",
+            "CREST",
+            "HELMET",
+            "SHIELD"
+        ],
+        "ENDING IN MODAL AUXILIARY VERBS": [
+            "CAPE MAY",
+            "FREE WILL",
+            "GRAPE MUST",
+            "TIN CAN"
+        ]
+    },
+    "2026-06-03": {
+        "KINDS OF RICE": [
+            "BROWN",
+            "JASMINE",
+            "STICKY",
+            "SUSHI"
+        ],
+        "GUMMY BEAR DESCRIPTORS": [
+            "COLORFUL",
+            "GUMMY",
+            "SUGARY",
+            "URSINE"
+        ],
+        "SAVORY STUFFED PASTRIES": [
+            "EMPANADA",
+            "FATAYER",
+            "PASTY",
+            "SAMOSA"
+        ],
+        "DISNEY PRINCESSES MINUS LAST LETTER": [
+            "ARIE",
+            "BELL",
+            "MOAN",
+            "RAY"
+        ]
+    },
+    "2026-06-04": {
+        "PAINTING MEDIA": [
+            "ACRYLIC",
+            "GOUACHE",
+            "OIL",
+            "TEMPERA"
+        ],
+        "ESPRIT": [
+            "GUSTO",
+            "PANACHE",
+            "VERVE",
+            "VINEGAR"
+        ],
+        "STARTS OF CLASSIC HIP-HOP GROUPS": [
+            "BEASTIE",
+            "PUBLIC",
+            "RUN",
+            "SALT"
+        ],
+        "GHOST ___": [
+            "KITCHEN",
+            "PEPPER",
+            "TOWN",
+            "WRITER"
+        ]
+    },
+    "2026-06-05": {
+        "BIT OF CEREAL": [
+            "CLUSTER",
+            "FLAKE",
+            "LOOP",
+            "PUFF"
+        ],
+        "ASSOCIATED WITH HANSEL AND GRETEL": [
+            "BREADCRUMB",
+            "FOREST",
+            "OVEN",
+            "WITCH"
+        ],
+        "DEMI MOORE MOVIES": [
+            "DISCLOSURE",
+            "GHOST",
+            "STRIPTEASE",
+            "THE SUBSTANCE"
+        ],
+        "ENDING IN METHODS OF TRANSPORTATION": [
+            "INCUBUS",
+            "OSCAR",
+            "QUATRAIN",
+            "SITUATIONSHIP"
+        ]
+    },
+    "2026-06-06": {
+        "PILLAR": [
+            "POLE",
+            "POST",
+            "SHAFT",
+            "STAKE"
+        ],
+        "INDICATE": [
+            "BETRAY",
+            "DISPLAY",
+            "EXPRESS",
+            "REGISTER"
+        ],
+        "KINDS OF LIZARDS": [
+            "BASILISK",
+            "DRAGON",
+            "MONITOR",
+            "SKINK"
+        ],
+        "___ TABLE": [
+            "DINNER",
+            "DRAFTING",
+            "ROUND",
+            "TIMES"
+        ]
+    },
+    "2026-06-07": {
+        "RISQU\u00c9 CLOTHING DESCRIPTORS": [
+            "PLUNGING",
+            "SHEER",
+            "SLINKY",
+            "TIGHT"
+        ],
+        "SPEAK": [
+            "EXPRESS",
+            "STATE",
+            "UTTER",
+            "VOICE"
+        ],
+        "DEMOLISH": [
+            "GUT",
+            "LEVEL",
+            "TOTAL",
+            "TRASH"
+        ],
+        "MUSIC GENRE PREFIXES": [
+            "CORE",
+            "POP",
+            "STEP",
+            "WAVE"
+        ]
+    },
+    "2026-06-08": {
+        "LANDFORMS BY WATER": [
+            "DELTA",
+            "ISLAND",
+            "ISTHMUS",
+            "PENINSULA"
+        ],
+        "SLANG FOR HEAD": [
+            "ATTIC",
+            "COCONUT",
+            "DOME",
+            "MELON"
+        ],
+        "THINGS THAT CAN BE SPIKED": [
+            "MOHAWK",
+            "PUNCH",
+            "SEA URCHIN",
+            "VOLLEYBALL"
+        ],
+        "\"THE ___ MAN\"": [
+            "ELEPHANT",
+            "INVISIBLE",
+            "OMEGA",
+            "RUNNING"
+        ]
     }
 }
