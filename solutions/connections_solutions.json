@@ -28260,5 +28260,161 @@
             "OMEGA",
             "RUNNING"
         ]
+    },
+    "2026-06-09": {
+        "SYMBOLS OF INNOCENCE": [
+            "ANGEL",
+            "BABE",
+            "DOVE",
+            "LAMB"
+        ],
+        "THINGS YOU'RE NOT SUPPOSED TO REVEAL": [
+            "PASSWORD",
+            "SECRET",
+            "SPOILER",
+            "SURPRISE"
+        ],
+        "SLANG FOR MUSICAL INSTRUMENTS": [
+            "AXE",
+            "BONE",
+            "KEYS",
+            "SKINS"
+        ],
+        "THINGS REPRESENTED IN SUPERSCRIPT": [
+            "ASTERISK",
+            "DEGREE",
+            "EXPONENT",
+            "TRADEMARK"
+        ]
+    },
+    "2026-06-10": {
+        "TECHNIQUE": [
+            "FASHION",
+            "MANNER",
+            "METHOD",
+            "WAY"
+        ],
+        "GROSS THINGS THAT FORM ON WET SURFACES": [
+            "CRUST",
+            "FILM",
+            "SCUM",
+            "SKIN"
+        ],
+        "PARTS OF A THEATER": [
+            "CATWALK",
+            "PIT",
+            "STAGE",
+            "WINGS"
+        ],
+        "COUNTED IN DOCUMENT WORD COUNTS": [
+            "CHARACTER",
+            "LINE",
+            "PAGE",
+            "WORD"
+        ]
+    },
+    "2026-06-11": {
+        "PARTS OF A WORKOUT ROUTINE": [
+            "BALANCE",
+            "CARDIO",
+            "STRETCHING",
+            "WEIGHTS"
+        ],
+        "THINGS WITH HORNS": [
+            "BRASS BAND",
+            "DEVIL",
+            "RHINO",
+            "VIKING HELMET"
+        ],
+        "HOMOPHONES OF SUVS": [
+            "BRONCHO",
+            "FORERUNNER",
+            "TROUPER",
+            "UCONN"
+        ],
+        "PAYMENT APPS MINUS A LETTER": [
+            "ELLE",
+            "PAPAL",
+            "STRIP",
+            "VENO"
+        ]
+    },
+    "2026-06-12": {
+        "STARTING WITH INCANTATIONS": [
+            "CHARM BRACELET",
+            "CURSE WORD",
+            "HEX KEY",
+            "SPELL CHECKER"
+        ],
+        "STARTING WITH SYNONYMS FOR \"REPEAT\"": [
+            "COPY EDITOR",
+            "ECHO PARK",
+            "MIRROR SELFIE",
+            "QUOTE UNQUOTE"
+        ],
+        "STARTING WITH ANIMAL GROUP NAMES": [
+            "MURDER MYSTERY",
+            "PACK RAT",
+            "PRIDE ROCK",
+            "SCHOOL DAYS"
+        ],
+        "STARTING WITH PARTS OF A RIVER": [
+            "BANK TELLER",
+            "BED HEAD",
+            "DELTA AIRLINES",
+            "MOUTH GUARD"
+        ]
+    },
+    "2026-06-13": {
+        "SEEN AT A TEA SERVICE": [
+            "SAUCER",
+            "SPOON",
+            "TEACUP",
+            "TONGS"
+        ],
+        "ENDURING SONG": [
+            "CLASSIC",
+            "HIT",
+            "OLDIE",
+            "STANDARD"
+        ],
+        "USED IN MOVIE PRACTICAL EFFECTS": [
+            "MAKEUP",
+            "MINIATURE",
+            "PROSTHETIC",
+            "PUPPET"
+        ],
+        "WORDS BEFORE \"STORY\" IN MOVIE TITLES": [
+            "CHRISTMAS",
+            "NEVERENDING",
+            "TOY",
+            "WEST SIDE"
+        ]
+    },
+    "2026-06-14": {
+        "CLASSIC SLAPSTICK PROPS": [
+            "BANANA PEEL",
+            "CREAM PIE",
+            "RUBBER CHICKEN",
+            "SELTZER BOTTLE"
+        ],
+        "THINGS THAT SPIN": [
+            "GLOBE",
+            "GRINDSTONE",
+            "GYROSCOPE",
+            "ROULETTE WHEEL"
+        ],
+        "FEATURED IN \"ALICE'S ADVENTURES IN WONDERLAND\"": [
+            "CATERPILLAR",
+            "POCKET WATCH",
+            "RABBIT HOLE",
+            "TEA PARTY"
+        ],
+        "WHAT \"MA\" MIGHT REFER TO": [
+            "MASSACHUSETTS",
+            "MASTER OF ARTS",
+            "MILLIAMPERE",
+            "MOTHER"
+        ]
     }
 }
