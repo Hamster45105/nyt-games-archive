@@ -28416,5 +28416,135 @@
             "MILLIAMPERE",
             "MOTHER"
         ]
+    },
+    "2026-06-15": {
+        "STAYING POWER": [
+            "LEGS",
+            "MOMENTUM",
+            "STAMINA",
+            "TRACTION"
+        ],
+        "GET READY FOR A NIGHT OUT": [
+            "ACCESSORIZE",
+            "CHANGE",
+            "PRIMP",
+            "SHOWER"
+        ],
+        "CHINESE ZODIAC ANIMALS": [
+            "DOG",
+            "DRAGON",
+            "HORSE",
+            "SNAKE"
+        ],
+        "FLOWERS": [
+            "ANEMONE",
+            "LARKSPUR",
+            "MONKSHOOD",
+            "PHLOX"
+        ]
+    },
+    "2026-06-16": {
+        "CREAMY SALAD DRESSINGS": [
+            "BLUE CHEESE",
+            "CAESAR",
+            "GREEN GODDESS",
+            "RANCH"
+        ],
+        "ATTENDANTS": [
+            "COURT",
+            "ENTOURAGE",
+            "RETINUE",
+            "SUITE"
+        ],
+        "RARE THINGS, IDIOMATICALLY": [
+            "BLACK SWAN",
+            "BLUE MOON",
+            "PERFECT STORM",
+            "UNICORN"
+        ],
+        "WHAT \"HOOPS\" MIGHT REFER TO": [
+            "BASKETBALL",
+            "EARRINGS",
+            "RED TAPE",
+            "RHYTHMIC GYMNASTICS GEAR"
+        ]
+    },
+    "2026-06-17": {
+        "ALCOVE": [
+            "CAVITY",
+            "NICHE",
+            "NOOK",
+            "RECESS"
+        ],
+        "BODILY WORDS FOR ATTITUDE": [
+            "CHEEK",
+            "LIP",
+            "MOUTH",
+            "NERVE"
+        ],
+        "FIGURES IN GREEK MYTH": [
+            "CALLIOPE",
+            "ECHO",
+            "IRIS",
+            "NEMESIS"
+        ],
+        "STARTING WITH SYNONYMS FOR \"ILK\"": [
+            "CLASSIC",
+            "KINDLE",
+            "SORTIE",
+            "TYPEFACE"
+        ]
+    },
+    "2026-06-18": {
+        "FITNESS CLASS TYPES": [
+            "AEROBICS",
+            "BARRE",
+            "BOOTCAMP",
+            "PILATES"
+        ],
+        "DEMEANOR": [
+            "ATTITUDE",
+            "BEARING",
+            "NATURE",
+            "PRESENCE"
+        ],
+        "PEACE ACTIVISTS": [
+            "GANDHI",
+            "KING",
+            "MANDELA",
+            "TUTU"
+        ],
+        "TOOLS MINUS LAST TWO LETTERS": [
+            "HAMM",
+            "JIGS",
+            "PLIE",
+            "WREN"
+        ]
+    },
+    "2026-06-19": {
+        "UMAMI-RICH FOODS": [
+            "MISO PASTE",
+            "PARMESAN",
+            "SOY SAUCE",
+            "VEGEMITE"
+        ],
+        "THINGS A BEGINNER MIGHT LEARN ON THE PIANO": [
+            "CHOPSTICKS",
+            "F\u00dcR ELISE",
+            "HEART AND SOUL",
+            "THE ENTERTAINER"
+        ],
+        "STARTING WITH MAGAZINES": [
+            "FORTUNE COOKIE",
+            "PEOPLE PERSON",
+            "SPINDERELLA",
+            "TIME MACHINE"
+        ],
+        "ENDING IN SYNONYMS FOR \"AGGREGATE\"": [
+            "COINCIDENTALLY",
+            "DIM SUM",
+            "TEETOTAL",
+            "VISCOUNT"
+        ]
     }
 }
