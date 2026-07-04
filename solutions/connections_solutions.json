@@ -29352,5 +29352,57 @@
             "PORTOBELLO",
             "SAKES"
         ]
+    },
+    "2026-07-21": {
+        "KINDS OF TOPS": [
+            "CROP",
+            "HALTER",
+            "TANK",
+            "TUBE"
+        ],
+        "SOFTWARE DOWNLOADS": [
+            "APP",
+            "DRIVER",
+            "EXTENSION",
+            "PLUGIN"
+        ],
+        "ELEMENTS OF A MUSICAL": [
+            "BOOK",
+            "LYRICS",
+            "MUSIC",
+            "ORCHESTRATION"
+        ],
+        "TELE___": [
+            "GRAM",
+            "KINESIS",
+            "PROMPTER",
+            "VISION"
+        ]
+    },
+    "2026-07-22": {
+        "SYMPTOMS OF AN ALLERGIC REACTION": [
+            "HIVES",
+            "ITCHING",
+            "RASH",
+            "REDNESS"
+        ],
+        "ON A GOLF SCORECARD": [
+            "HOLE",
+            "PAR",
+            "SCORE",
+            "STROKES"
+        ],
+        "PLATFORM-SPECIFIC POSTS": [
+            "PINS",
+            "SNAPS",
+            "TWEETS",
+            "VINES"
+        ],
+        "FEATURES OF A ZEBRA": [
+            "HOOVES",
+            "MANE",
+            "TAIL",
+            "WHITE STRIPES"
+        ]
     }
 }
