@@ -29534,5 +29534,31 @@
             "HEART",
             "MAGNIFYING GLASS"
         ]
+    },
+    "2026-07-28": {
+        "COMMAND": [
+            "CAPTAIN",
+            "DIRECT",
+            "HEAD",
+            "LEAD"
+        ],
+        "SHOE BRANDS STARTING WITH \"C\"": [
+            "CAMPER",
+            "CLARKS",
+            "CONVERSE",
+            "CROCS"
+        ],
+        "HOW DO YOU LIKE THEM APPLES": [
+            "EMPIRE",
+            "FUJI",
+            "GALA",
+            "HONEYCRISP"
+        ],
+        "STARTING WITH PALINDROMIC NAMES": [
+            "ANNAPOLIS",
+            "BOBSLED",
+            "EVEREST",
+            "OTTOMAN"
+        ]
     }
 }
