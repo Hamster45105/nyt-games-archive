@@ -29560,5 +29560,161 @@
             "EVEREST",
             "OTTOMAN"
         ]
+    },
+    "2026-07-29": {
+        "FASTENERS": [
+            "NAIL",
+            "RIVET",
+            "SCREW",
+            "STAPLE"
+        ],
+        "NONDESCRIPT": [
+            "BASIC",
+            "MID",
+            "PLAIN",
+            "VANILLA"
+        ],
+        "UNITS OF WISDOM": [
+            "GEM",
+            "NUGGET",
+            "PEARL",
+            "WORD"
+        ],
+        "___BOARDS IN A CLASSROOM": [
+            "BLACK",
+            "CHALK",
+            "CORK",
+            "WHITE"
+        ]
+    },
+    "2026-07-30": {
+        "VIRTUOUS": [
+            "FAIR",
+            "GOOD",
+            "JUST",
+            "RIGHT"
+        ],
+        "ACTIVITIES WITH MANY BALLS": [
+            "BEER PONG",
+            "BINGO",
+            "JUGGLING",
+            "POOL"
+        ],
+        "CRUISE LINES": [
+            "CARNIVAL",
+            "CELEBRITY",
+            "PRINCESS",
+            "VIKING"
+        ],
+        "ON THE ___, TO MEAN \"PRECISE\"": [
+            "DOT",
+            "MARK",
+            "MONEY",
+            "NOSE"
+        ]
+    },
+    "2026-07-31": {
+        "CONSTRUCT": [
+            "FASHION",
+            "MODEL",
+            "MOLD",
+            "SHAPE"
+        ],
+        "SUPER MARIO FIGURES": [
+            "DINOSAUR",
+            "MUSHROOM",
+            "PLUMBER",
+            "PRINCESS"
+        ],
+        "FRUITS PLUS STARTING LETTER": [
+            "DAPPLE",
+            "JDATE",
+            "SLIME",
+            "SPEAR"
+        ],
+        "STARTING WITH MERRIMENTS": [
+            "CHEERIOS",
+            "FUNGUS",
+            "GLEEK",
+            "JOYSTICK"
+        ]
+    },
+    "2026-08-01": {
+        "BEDDING": [
+            "COMFORTER",
+            "SHAM",
+            "SHEET",
+            "THROW"
+        ],
+        "OSCAR-WINNING ACTORS SINCE 2010": [
+            "BALE",
+            "JORDAN",
+            "PHOENIX",
+            "WALTZ"
+        ],
+        "PERFORM SOME HOLE MACHINING OPERATIONS": [
+            "BORE",
+            "COUNTERSINK",
+            "DRILL",
+            "REAM"
+        ],
+        "STARTING WITH BREAD SHAPES": [
+            "BOULEVARD",
+            "BUNDLE",
+            "LOAFER",
+            "ROLLS-ROYCE"
+        ]
+    },
+    "2026-08-02": {
+        "FILLER WORDS": [
+            "ACTUALLY",
+            "LIKE",
+            "SO",
+            "WELL"
+        ],
+        "BY MEANS OF": [
+            "BY",
+            "PER",
+            "THROUGH",
+            "VIA"
+        ],
+        "___ MODE": [
+            "AIRPLANE",
+            "BEAST",
+            "DARK",
+            "\u00c0 LA"
+        ],
+        "U.S. AIRPORT CODES PLUS STARTING LETTER": [
+            "ASEA",
+            "FLAX",
+            "LORD",
+            "OLGA"
+        ]
+    },
+    "2026-08-03": {
+        "ROAD LESS TRAVELED": [
+            "ALLEY",
+            "BACKSTREET",
+            "BYWAY",
+            "LANE"
+        ],
+        "SHADES OF GREEN": [
+            "FOREST",
+            "HUNTER",
+            "MINT",
+            "SAGE"
+        ],
+        "\"Y\" IS THE ONLY VOWEL": [
+            "FLY BY",
+            "MYRRH",
+            "NSYNC",
+            "RHYTHM"
+        ],
+        "STARTING WITH SYNONYMS FOR \"PESTER\"": [
+            "BUG FIX",
+            "NAG CHAMPA",
+            "NEEDLESS",
+            "TEA SET"
+        ]
     }
 }
