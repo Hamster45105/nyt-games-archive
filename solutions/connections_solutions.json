@@ -29716,5 +29716,187 @@
             "NEEDLESS",
             "TEA SET"
         ]
+    },
+    "2026-08-04": {
+        "THINGS WITH PEDALS": [
+            "BICYCLE",
+            "PIANO",
+            "SEWING MACHINE",
+            "SWAN BOAT"
+        ],
+        "LONG CYLINDRICAL THINGS": [
+            "CIGARETTE",
+            "FOAM ROLLER",
+            "POOL NOODLE",
+            "PRETZEL ROD"
+        ],
+        "SEEN ON THE STREETS OF NEW YORK CITY": [
+            "BODEGA",
+            "PIGEON",
+            "SUBWAY STATION",
+            "TAXI CAB"
+        ],
+        "V-SHAPED THINGS": [
+            "ANGLE BRACKET",
+            "CHEVRON",
+            "GOOSE FORMATION",
+            "PEACE SIGN"
+        ]
+    },
+    "2026-08-05": {
+        "NAVIGATE": [
+            "DRIVE",
+            "MANEUVER",
+            "PILOT",
+            "STEER"
+        ],
+        "JEANS BRANDS": [
+            "DIESEL",
+            "GAP",
+            "LUCKY",
+            "WRANGLER"
+        ],
+        "HOUSE STYLES": [
+            "CAPE COD",
+            "MISSION",
+            "RANCH",
+            "TUDOR"
+        ],
+        "WHAT \"STOCK\" MIGHT REFER TO": [
+            "BROTH",
+            "CATTLE",
+            "INVESTMENT",
+            "MERCHANDISE"
+        ]
+    },
+    "2026-08-06": {
+        "CLASSIC WOODEN TOYS": [
+            "ALPHABET BLOCKS",
+            "CUP-AND-BALL",
+            "JACOB'S LADDER",
+            "LINCOLN LOGS"
+        ],
+        "PLACES WITH LANES": [
+            "BOWLING ALLEY",
+            "FREEWAY",
+            "SUPERMARKET",
+            "SWIMMING POOL"
+        ],
+        "ICONIC ROMAN LANDMARKS": [
+            "COLOSSEUM",
+            "PANTHEON",
+            "SPANISH STEPS",
+            "TREVI FOUNTAIN"
+        ],
+        "PLACES WITH NETS": [
+            "BARCLAYS CENTER",
+            "FISHING BOAT",
+            "HOCKEY RINK",
+            "TENNIS COURT"
+        ]
+    },
+    "2026-08-07": {
+        "COMPONENTS OF A CANDLE": [
+            "FRAGRANCE",
+            "JAR",
+            "WAX",
+            "WICK"
+        ],
+        "COLD THINGS": [
+            "LIQUID NITROGEN",
+            "REFRIGERATOR",
+            "SNOW",
+            "SUNDAE"
+        ],
+        "PARTS OF AN ELEVATOR": [
+            "BUTTONS",
+            "CABLES",
+            "MOTOR",
+            "SHAFT"
+        ],
+        "STARTING WITH MALE ANIMALS": [
+            "BUCKYBALL",
+            "JACKPOT",
+            "RAMBO",
+            "TOMATILLO"
+        ]
+    },
+    "2026-08-08": {
+        "QUAINT EXPRESSIONS OF EXCITEMENT": [
+            "HOT DOG",
+            "HURRAH",
+            "WHOOPEE",
+            "YAHOO"
+        ],
+        "WORDS ABBREVIATED WITH LETTERS AS HOMOPHONES": [
+            "CUTIE",
+            "EASY",
+            "EFFECTS",
+            "I OWE YOU"
+        ],
+        "CONVEY": [
+            "COUCH",
+            "EXPRESS",
+            "FRAME",
+            "PHRASE"
+        ],
+        "SAFETY ___": [
+            "BELT",
+            "GOGGLES",
+            "PIN",
+            "RAZOR"
+        ]
+    },
+    "2026-08-09": {
+        "TAKE A DIFFERENT APPROACH": [
+            "CHANGE TACK",
+            "COURSE-CORRECT",
+            "RECALIBRATE",
+            "SHIFT GEARS"
+        ],
+        "CLASSIC CHILDREN'S BOOKS": [
+            "CAPS FOR SALE",
+            "CORDUROY",
+            "GOODNIGHT MOON",
+            "MADELINE"
+        ],
+        "MOVIE SUBGENRES": [
+            "BUDDY COP",
+            "NEO-NOIR",
+            "SPACE OPERA",
+            "SPAGHETTI WESTERN"
+        ],
+        "THINGS PEOPLE TRY TO GET OUT OF": [
+            "BAD DREAM",
+            "ESCAPE ROOM",
+            "JURY DUTY",
+            "LABYRINTH"
+        ]
+    },
+    "2026-08-10": {
+        "HAPHAZARDLY": [
+            "ANY OLD HOW",
+            "AT RANDOM",
+            "HELTER-SKELTER",
+            "WILLY-NILLY"
+        ],
+        "WAYS TO RECEIVE EVENT TICKETS": [
+            "MAIL DELIVERY",
+            "MOBILE TICKET",
+            "PRINT-AT-HOME",
+            "WILL CALL"
+        ],
+        "SECTIONS ON AN INVOICE": [
+            "BALANCE DUE",
+            "BILL TO",
+            "ORDER NUMBER",
+            "UNIT PRICE"
+        ],
+        "FAMOUS GOATEES": [
+            "BILLY GOAT",
+            "COLONEL SANDERS",
+            "DOCTOR STRANGE",
+            "THE DEVIL"
+        ]
     }
 }
