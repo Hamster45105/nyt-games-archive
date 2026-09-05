@@ -30990,5 +30990,213 @@
             "CHOP",
             "VIVA"
         ]
+    },
+    "2026-09-22": {
+        "DEMONSTRATIVES": [
+            "THAT",
+            "THESE",
+            "THIS",
+            "THOSE"
+        ],
+        "EMBELLISHMENT": [
+            "ACCENT",
+            "DETAIL",
+            "FLOURISH",
+            "TOUCH"
+        ],
+        "OPTIONS ON A MULTIPLE CHOICE SURVEY": [
+            "AGREE",
+            "DISAGREE",
+            "NEUTRAL",
+            "OTHER"
+        ],
+        "BEVERAGES WITH ACUTE ACCENTS REMOVED": [
+            "CAFE",
+            "PATRON",
+            "ROSE",
+            "THE"
+        ]
+    },
+    "2026-09-23": {
+        "THINGS YOU GRAB BEFORE LEAVING THE HOUSE": [
+            "KEYS",
+            "PHONE",
+            "SUNGLASSES",
+            "WALLET"
+        ],
+        "WEBSITE HURDLES": [
+            "AGE VERIFICATION",
+            "CAPTCHA",
+            "COOKIE CONSENT",
+            "PAYWALL"
+        ],
+        "THINGS THAT COME IN CANS": [
+            "CONDENSED MILK",
+            "PAINT",
+            "SHAVING CREAM",
+            "SPAM"
+        ],
+        "ENDING IN SYNONYMS FOR \"TERM\"": [
+            "BITCOIN",
+            "RECORD LABEL",
+            "RUB-A-DUB",
+            "SURINAME"
+        ]
+    },
+    "2026-09-24": {
+        "PARTS OF A VAMPIRE COSTUME": [
+            "CAPE",
+            "FACE PAINT",
+            "FAKE BLOOD",
+            "FANGS"
+        ],
+        "THINGS WITH SPRING/S": [
+            "BOBBLEHEAD",
+            "POGO STICK",
+            "SNAKES IN A CAN",
+            "TRAMPOLINE"
+        ],
+        "FEATURING POINTING": [
+            "CREATION OF ADAM",
+            "FOAM FINGER",
+            "I'M WITH STUPID SHIRT",
+            "UNCLE SAM"
+        ],
+        "ANAGRAMS": [
+            "BEER HAT",
+            "BREATHE",
+            "HERB TEA",
+            "THE BEAR"
+        ]
+    },
+    "2026-09-25": {
+        "LUXE": [
+            "BOUGIE",
+            "FANCY",
+            "POSH",
+            "SWANK"
+        ],
+        "PARTS OF A MECHANICAL CLOCK": [
+            "ESCAPEMENT",
+            "PENDULUM",
+            "RATCHET",
+            "SPRING"
+        ],
+        "FAMOUS DANS": [
+            "AYKROYD",
+            "LEVY",
+            "RATHER",
+            "SAVAGE"
+        ],
+        "TAXONOMIC RANKS PLUS A LETTER": [
+            "BORDER",
+            "CLASSY",
+            "FOAMILY",
+            "GENIUS"
+        ]
+    },
+    "2026-09-26": {
+        "BREATH FRESHENERS": [
+            "GUM",
+            "MINT",
+            "MOUTHWASH",
+            "SPRAY"
+        ],
+        "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY": [
+            "FOLD",
+            "PRESS",
+            "STARCH",
+            "WASH"
+        ],
+        "FEATURES OF WOOD": [
+            "BURL",
+            "GRAIN",
+            "KNOTS",
+            "RINGS"
+        ],
+        "\"COOL\" THINGS, IN EXPRESSIONS": [
+            "BEANS",
+            "CUCUMBER",
+            "CUSTOMER",
+            "ICE"
+        ]
+    },
+    "2026-09-27": {
+        "SCULPTURE MEDIA": [
+            "BRONZE",
+            "CLAY",
+            "MARBLE",
+            "PLASTER"
+        ],
+        "RESTAURANT SEATING OPTIONS": [
+            "BANQUETTE",
+            "BOOTH",
+            "CHAIR",
+            "STOOL"
+        ],
+        "TELECOM": [
+            "CARRIER",
+            "NETWORK",
+            "OPERATOR",
+            "PROVIDER"
+        ],
+        "ENDING IN CHINESE DYNASTIES": [
+            "BBQING",
+            "HOMING",
+            "LOHAN",
+            "WU-TANG"
+        ]
+    },
+    "2026-09-28": {
+        "THINGS WITH STALKS": [
+            "BAMBOO",
+            "CELERY",
+            "CORN",
+            "WHEAT"
+        ],
+        "OYSTER CONDIMENTS": [
+            "HORSERADISH",
+            "LEMON",
+            "MIGNONETTE",
+            "TABASCO"
+        ],
+        "DODGE MODELS": [
+            "CHALLENGER",
+            "CHARGER",
+            "DURANGO",
+            "VIPER"
+        ],
+        "THREE LETTERS PLUS REPEATED TRIGRAMS": [
+            "ARKANSANS",
+            "CHIHUAHUA",
+            "POSSESSES",
+            "SPRINGING"
+        ]
+    },
+    "2026-09-29": {
+        "SECLUDED": [
+            "HIDDEN",
+            "REMOTE",
+            "SECRET",
+            "TUCKED AWAY"
+        ],
+        "RIVER FEATURES": [
+            "DELTA",
+            "DRAINAGE BASIN",
+            "MOUTH",
+            "STREAM BED"
+        ],
+        "FIRST WORDS OF PIXAR FILMS": [
+            "FINDING",
+            "INSIDE",
+            "MONSTERS",
+            "TOY"
+        ],
+        "PHRASES HIDING GREEK LETTERS": [
+            "FREEZE TAG",
+            "HOME GAME",
+            "MODEL TANK",
+            "ORAL PHASE"
+        ]
     }
 }
