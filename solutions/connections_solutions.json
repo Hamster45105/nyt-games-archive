@@ -31198,5 +31198,161 @@
             "MODEL TANK",
             "ORAL PHASE"
         ]
+    },
+    "2026-09-30": {
+        "SECURITIES": [
+            "BOND",
+            "FUTURE",
+            "OPTION",
+            "STOCK"
+        ],
+        "THINGS THAT ARE SHAKEN (NOT STIRRED)": [
+            "ETCH-A-SKETCH",
+            "MARTINI",
+            "SPRAY PAINT",
+            "TAMBOURINE"
+        ],
+        "GANGSTER MOVIES": [
+            "BUGSY",
+            "CASINO",
+            "DONNIE BRASCO",
+            "SCARFACE"
+        ],
+        "STARTING WITH MONTH ABBREVIATIONS": [
+            "DECENT",
+            "NOVELTY",
+            "OCTOPUSSY",
+            "SEPTUM"
+        ]
+    },
+    "2026-10-01": {
+        "PUT": [
+            "PLACE",
+            "POSITION",
+            "SITUATE",
+            "STICK"
+        ],
+        "DRESS SHIRT MEASUREMENTS": [
+            "CHEST",
+            "NECK",
+            "SLEEVE",
+            "WAIST"
+        ],
+        "2000S INDIE ROCK BANDS, WITH \"THE\"": [
+            "DECEMBERISTS",
+            "NATIONAL",
+            "SHINS",
+            "WALKMEN"
+        ],
+        "STARTS OF NYT PRINT PUZZLES": [
+            "ACRO",
+            "CROSS",
+            "KEN",
+            "SUD"
+        ]
+    },
+    "2026-10-02": {
+        "FINANCE": [
+            "BACK",
+            "BANKROLL",
+            "FUND",
+            "SUPPORT"
+        ],
+        "FINGERS": [
+            "INDEX",
+            "LITTLE",
+            "MIDDLE",
+            "RING"
+        ],
+        "CUSTOMARY": [
+            "COMMON",
+            "ROUTINE",
+            "STANDARD",
+            "STOCK"
+        ],
+        "PRIME ___": [
+            "NUMBER",
+            "REAL ESTATE",
+            "RIB",
+            "TIME"
+        ]
+    },
+    "2026-10-03": {
+        "ENDING IN MUSICALS": [
+            "ELBOW GREASE",
+            "FAT CATS",
+            "LINDA HAMILTON",
+            "SOMETHING WICKED"
+        ],
+        "STARTING WITH TERMS FOR \"TOILET\"": [
+            "CAN OPENER",
+            "HEAD WAITER",
+            "JOHN DENVER",
+            "W.C. FIELDS"
+        ],
+        "ENDING IN FANTASY CREATURES": [
+            "DIET SPRITE",
+            "MERV GRIFFIN",
+            "NY GIANT",
+            "RIVER PHOENIX"
+        ],
+        "STARTING WITH U.S. MUSEUMS": [
+            "BROAD BEAN",
+            "GETTY IMAGES",
+            "MET HALFWAY",
+            "WHITNEY HOUSTON"
+        ]
+    },
+    "2026-10-04": {
+        "CONSIDERABLE AMOUNT": [
+            "BUNCH",
+            "HEAP",
+            "LOT",
+            "STACK"
+        ],
+        "TABLE TENNIS NEEDS": [
+            "BALL",
+            "NET",
+            "PADDLE",
+            "TABLE"
+        ],
+        "PARTS OF A JUDGE COSTUME": [
+            "COLLAR",
+            "GAVEL",
+            "ROBE",
+            "WIG"
+        ],
+        "SILENT ___": [
+            "AUCTION",
+            "FILM",
+            "PARTNER",
+            "TREATMENT"
+        ]
+    },
+    "2026-10-05": {
+        "CALM": [
+            "CONTENT",
+            "PEACEFUL",
+            "PLACID",
+            "SERENE"
+        ],
+        "ADJECTIVES FOR MATURE CONTENT": [
+            "EXPLICIT",
+            "GRAPHIC",
+            "STRONG",
+            "SUGGESTIVE"
+        ],
+        "KINDS OF BOARDS": [
+            "ADVISORY",
+            "CHESS",
+            "IRONING",
+            "MESSAGE"
+        ],
+        "ENDING IN WAYS TO TEMPORARILY ACQUIRE": [
+            "PARENT",
+            "PLEASE",
+            "SAPPHIRE",
+            "SLOAN"
+        ]
     }
 }
