@@ -31562,5 +31562,31 @@
             "ENDS",
             "LIPS"
         ]
+    },
+    "2026-10-14": {
+        "LOWEST PART": [
+            "BASE",
+            "BOTTOM",
+            "FOOT",
+            "FOUNDATION"
+        ],
+        "THINGS YOU CAN SCORE IN SPORTS": [
+            "BASKET",
+            "GOAL",
+            "RUN",
+            "TOUCHDOWN"
+        ],
+        "WAYS TO PRESERVE FOOD": [
+            "CURE",
+            "DRY",
+            "PICKLE",
+            "SMOKE"
+        ],
+        "LOW LANDFORMS WITH A LETTER CHANGED": [
+            "CANNON",
+            "FORGE",
+            "RACINE",
+            "VOLLEY"
+        ]
     }
 }
