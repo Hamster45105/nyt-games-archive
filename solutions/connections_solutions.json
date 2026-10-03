@@ -31666,5 +31666,187 @@
             "PAZ",
             "SCALA"
         ]
+    },
+    "2026-10-18": {
+        "PLACES TO STORE CLOTHES": [
+            "BUREAU",
+            "CHEST",
+            "TRUNK",
+            "WARDROBE"
+        ],
+        "THINGS THAT COME IN STICKS": [
+            "BUTTER",
+            "DEODORANT",
+            "DYNAMITE",
+            "INCENSE"
+        ],
+        "FAMOUS PERFUMES": [
+            "ANGEL",
+            "COCO",
+            "OBSESSION",
+            "OPIUM"
+        ],
+        "STARTING WITH THINGS THAT CLOUD THE AIR": [
+            "FOGERTY",
+            "HAZEL",
+            "MISTER",
+            "VAPORETTO"
+        ]
+    },
+    "2026-10-19": {
+        "SEETHE": [
+            "BOIL",
+            "FUME",
+            "RAVE",
+            "STEAM"
+        ],
+        "ALL TALK": [
+            "BLATHER",
+            "GAS",
+            "HOT AIR",
+            "WIND"
+        ],
+        "\"MC\" THINGS AT MCDONALD'S": [
+            "FLURRY",
+            "MUFFIN",
+            "NUGGETS",
+            "RIB"
+        ],
+        "ENDING IN BIRDS": [
+            "ALIBIS",
+            "BALLOON",
+            "ESCROW",
+            "MOHAWK"
+        ]
+    },
+    "2026-10-20": {
+        "FINISH": [
+            "CLOSE",
+            "END",
+            "STOP",
+            "WRAP"
+        ],
+        "LACKEY": [
+            "MINION",
+            "POODLE",
+            "PUPPET",
+            "STOOGE"
+        ],
+        "MUSTACHES": [
+            "CHEVRON",
+            "HORSESHOE",
+            "PENCIL",
+            "WALRUS"
+        ],
+        "HOMOPHONES OF DISNEY CHARACTERS": [
+            "ARIAL",
+            "BELL",
+            "DOCK",
+            "MINI"
+        ]
+    },
+    "2026-10-21": {
+        "CLASSIC CHILDREN'S GAMES": [
+            "DUCK DUCK GOOSE",
+            "HOT POTATO",
+            "LEAPFROG",
+            "MUSICAL CHAIRS"
+        ],
+        "IMPORTANT PERSON": [
+            "ALPHA DOG",
+            "BIG CHEESE",
+            "HEAVYWEIGHT",
+            "TOP BANANA"
+        ],
+        "FAMOUS PAINTINGS": [
+            "AMERICAN GOTHIC",
+            "CAMPBELL'S SOUP CAN",
+            "SUNFLOWERS",
+            "THE SCREAM"
+        ],
+        "DOUBLE MISNOMERS (THAT ARE NEITHER PART OF THEIR NAME)": [
+            "CHINESE CHECKERS",
+            "ENGLISH HORN",
+            "MANTIS SHRIMP",
+            "SWEETBREAD"
+        ]
+    },
+    "2026-10-22": {
+        "PARTS TO BE GRASPED": [
+            "GRIP",
+            "HANDLE",
+            "HILT",
+            "KNOB"
+        ],
+        "KINDS OF SCULPTURES": [
+            "BUST",
+            "MOBILE",
+            "RELIEF",
+            "STATUE"
+        ],
+        "AMERICAN FOOTBALL POSITIONS": [
+            "END",
+            "GUARD",
+            "SAFETY",
+            "TACKLE"
+        ],
+        "STARTS OF BEDDING": [
+            "BLANK",
+            "COMFORT",
+            "PILL",
+            "SHE"
+        ]
+    },
+    "2026-10-23": {
+        "THINGS YOU INSTALL ON A COMPUTER": [
+            "DRIVER",
+            "EXTENSION",
+            "PLUGIN",
+            "UPDATE"
+        ],
+        "QUANTITIES IN A FORMULA FOR POWER": [
+            "DISTANCE",
+            "FORCE",
+            "POWER",
+            "TIME"
+        ],
+        "FORTHRIGHT": [
+            "DIRECT",
+            "FRANK",
+            "OPEN",
+            "VOCAL"
+        ],
+        "___ TAP": [
+            "DOUBLE",
+            "LOVE",
+            "PHONE",
+            "SPINAL"
+        ]
+    },
+    "2026-10-24": {
+        "KINDS OF STRIPS": [
+            "BACON",
+            "COMIC",
+            "FILM",
+            "M\u00d6BIUS"
+        ],
+        "THINGS ON STICKS": [
+            "FLAG",
+            "HOBBY HORSE",
+            "PINWHEEL",
+            "POPSICLE"
+        ],
+        "ONLINE AD FORMATS": [
+            "BANNER",
+            "INTERSTITIAL",
+            "OVERLAY",
+            "POP-UP"
+        ],
+        "___ BAR": [
+            "CANDY",
+            "SALAD",
+            "SPACE",
+            "SPORTS"
+        ]
     }
 }
